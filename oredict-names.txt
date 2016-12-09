@@ -1,0 +1,57 @@
+// ***************************************************************************** //
+//  PrimalCore
+// ***************************************************************************** //
+
+rock
+
+pinWood
+pinNether
+
+flakeBone
+flakeFlint
+flakeQuartz
+flakeObsidian
+flakeDiamond
+flakeEmerald
+flakeOpal
+
+pointBone
+pointFlint
+pointQuartz
+pointObsidian
+pointDiamond
+pointEmerald
+pointOpal
+
+cordagePlant
+cordageNether
+cordageLeather
+cordageGeneral
+
+thatchingWet - crafts wet thatch
+thatchingDry - crafts dry thatch
+thatchingMaterialBasic - 9:2 crafting ratio
+thatchingMaterial - 4:2 crafting ratio
+
+foodFat
+foodSalt
+foodBread
+
+
+// ***************************************************************************** //
+//  PrimalEnergy
+// ***************************************************************************** //
+
+
+
+// ***************************************************************************** //
+//  MagnumOpus
+// ***************************************************************************** //
+
+
+
+// ***************************************************************************** //
+//  ForgeCraft
+// ***************************************************************************** //
+
+
