@@ -1,2 +1,2 @@
 # PrimalCore
-Issue Tracking
+Issue Tracking and Wiki
