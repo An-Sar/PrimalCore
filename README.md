@@ -1,2 +1,2 @@
 # PrimalCore
-Issue Tracking and Wiki
+Official Wiki, Issue Tracking, Localization
