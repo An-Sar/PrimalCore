@@ -1,0 +1,131 @@
+itemGroup.primal=Primal Core
+
+# -- Items -- #
+item.primal.goldenStick.name=金の棒切れ
+item.primal:ash.name=Ash
+item.primal:mortar.name=Mortar
+item.primal:rock.name=Rock
+item.primal:plant_fiber.name=Plant Fiber
+item.primal:plant_cordage.name=Plant Twine
+item.primal:plant_cloth.name=Plant Cloth
+item.primal:leather_strip.name=Leather Strip
+item.primal:leather_cordage.name=Leather Cordage
+item.primal:silk_cordage.name=Silk Cordage
+item.primal:silk_cordage_coiled.name=Coil of Silk Cordage
+item.primal:earthwax_clump.name=Earthwax Clump
+item.primal:flint_knapp.name=Knapped Flint
+item.primal:flint_point.name=Flint Point
+item.primal:stone_basin.name=Stone Basin
+item.primal:iron_strands.name=Iron Strands
+item.primal:iron_pins.name=Iron Pins
+item.primal:iron_mesh.name=Iron Mesh
+item.primal:iron_ring.name=Iron Ring
+
+# -- foods
+item.primal:lard.name=Lard
+item.primal:suet.name=Suet
+item.primal:salo.name=Salo
+item.primal:horse_meat_raw.name=Raw Horse Meat
+item.primal:horse_meat_cooked.name=Cooked Horse Meat
+item.primal:cheese_white.name=Cow Cheese
+item.primal:cheese_red.name=Ovis Cheese
+item.primal:corn_cob.name=Corn Cob
+item.primal:corn_bread.name=Corn Bread
+item.primal:corn_ground.name=Ground Corn
+item.primal:wheat_ground.name=Ground Wheat
+
+# -- seeds
+item.primal:corn_seeds.name=Corn Seeds
+
+# -- Ore Items -- #
+item.primal:earthwax_clump.name=Earthwax Clump
+item.primal:brass_dust.name=Brass Dust
+item.primal:brass_ingot.name=Brass Ingot
+item.primal:brass_nugget.name=Brass Nugget
+item.primal:bronze_dust.name=Bronze Dust
+item.primal:bronze_ingot.name=Bronze Ingot
+item.primal:bronze_nugget.name=Bronze Nugget
+item.primal:copper_dust.name=Copper Dust
+item.primal:copper_ingot.name=Copper Ingot
+item.primal:copper_nugget.name=Copper Nugget
+item.primal:lead_dust.name=Lead Dust
+item.primal:lead_ingot.name=Lead Ingot
+item.primal:lead_nugget.name=Lead Nugget
+item.primal:pigiron_dust.name=Pig Iron Dust
+item.primal:pigiron_ingot.name=Pig Iron Ingot
+item.primal:pigiron_nugget.name=Pig Iron Nugget
+item.primal:silver_dust.name=Silver Dust
+item.primal:silver_ingot.name=Silver Ingot
+item.primal:silver_nugget.name=Silver Nugget
+item.primal:tin_dust.name=Tin Dust
+item.primal:tin_ingot.name=Tin Ingot
+item.primal:tin_nugget.name=Tin Nugget
+item.primal:wootz_dust.name=Wootz Steel Dust
+item.primal:wootz_ingot.name=Wootz Steel Ingot
+item.primal:wootz_nugget.name=Wootz Steel Nugget
+item.primal:vanadium_dust.name=Vanadium Dust
+item.primal:vanadium_ingot.name=Vanadium Ingot
+item.primal:vanadium_nugget.name=Vanadium Nugget
+item.primal:zinc_dust.name=Zinc Dust
+item.primal:zinc_ingot.name=Zinc Ingot
+item.primal:zinc_nugget.name=Zinc Nugget
+
+# -- tools
+item.primal:fire_bow.name=Fire Bow
+item.primal:sharp_bone.name=Sharp Bone
+item.primal:stone_gallagher.name=Stone Gallagher
+item.primal:flint_hatchet.name=Flint Hatchet
+item.primal:flint_axe.name=Flint Axe
+item.primal:flint_pickaxe.name=Flint Pickaxe
+item.primal:flint_shovel.name=Flint Shovel
+item.primal:flint_hoe.name=Flint Hoe
+item.primal:flint_shears.name=Flint Shears
+item.primal:flint_workblade.name=Flint Work Blade
+item.primal:flint_primitive_blade.name=Flint Primitive Blade
+
+# -- Blocks -- #
+tile.primal:ash_block.name=Ash Pile
+tile.primal:ash_layer.name=Ash Layer
+tile.primal:ash_stabilized.name=Ash Stabilized
+tile.primal:vitrified_stone.name=Vitrified Stone
+tile.primal:earthenWaxSediment.name=Earthen Wax Sediment
+tile.primal:torch_wood.name=Torch
+tile.primal:torch_nether.name=Netherrack Torch
+tile.primal:lever_wood.name=Lever
+tile.primal:lever_nether.name=Netherrack Lever
+tile.primal:dirt_stairs.name=Dirt Stairs
+tile.primal:grass_stairs.name=Grass Stairs
+tile.primal:carbonate_stone.name=Carbonate Stone
+tile.primal:carbonate_flag.name=Carbonate Flagstone
+tile.primal:carbonate_brick.name=Carbonate Brick
+tile.primal:carbonate_brick_stairs.name=Carbonate Brick Stairs
+tile.primal:carbonate_flag_stairs.name=Carbonate Flagstone Stairs
+tile.primal:carbonate_brick_wall.name=Carbonate Brick Wall
+tile.primal:carbonate_flag_wall.name=Carbonate Flagstone Wall
+
+# -- Fluid --　＃
+tile.primal:fluid.smoke.name=Smoke
+tile.primal:fluid.steam.name=Steam
+tile.primal:fluid.water_condensation.name=Water Condensation
+tile.primal:fluid.tannin.name=Tannin
+
+# -- Plants -- #
+tile.primal:corn_stalk.name=Corn Stalk
+tile.primal:strangle_weed.name=Strangle Weed
+
+# -- Ore Blocks -- #
+tile.primal:brass_block.name=Brass Block
+tile.primal:bronze_block.name=Bronze Block
+tile.primal:copper_block.name=Copper Block
+tile.primal:earthwax_block.name=Earth Wax
+tile.primal:lead_block.name=Lead Block
+tile.primal:pigiron_block.name=Pig Iron Block
+tile.primal:silver_block.name=Silver Block
+tile.primal:tin_block.name=Tin Block
+tile.primal:zinc_block.name=Zinc Block
+tile.primal:wootz_block.name=Wootz Steel Block
+tile.primal:vanadium_block.name=Vanadium Block
+
+# -- Entities -- #
+
+# -- End -- #
