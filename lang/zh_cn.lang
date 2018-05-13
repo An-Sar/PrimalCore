@@ -127,7 +127,7 @@ item.lead_plate_double.name=双层铅板
 item.lead_plate_small.name=小铅板
 
 item.silver_plate.name=银板
-item.银_plate_double.name=双层银板
+item.silver_plate_double.name=双层银板
 item.silver_plate_small.name=小银板
 
 item.zinc_plate.name=锌板
@@ -504,7 +504,6 @@ tile.kiln_terracotta.name=赤陶砖窑
 tile.kiln_ciniscotta.name=灰烬陶砖窑
 tile.kiln_nether_earth.name=下界土窑
 tile.vitrified_stone.name=玻璃化石头
-tile.earthwax_block.name=地蜡
 tile.torch_wood.name=熄灭的火把
 item.torch_wood_lit.name=点亮的火把
 tile.torch_nether.name=地狱岩火把
@@ -792,7 +791,7 @@ tile.nether_growth.name=下界瘤石
 tile.nether_growth_redstone.name=下界瘤石红石矿
 
 tile.logs_stripped_acacia.name=去皮金合欢木
-tile.logs_stripped_bigoak.name=去皮深色橡木
+tile.logs_stripped_dark_oak.name=去皮深色橡木
 tile.logs_stripped_birch.name=去皮白桦木
 tile.logs_stripped_jungle.name=去皮丛林木
 tile.logs_stripped_oak.name=去皮橡木
@@ -1420,8 +1419,7 @@ item.pumpkin_piece.name=南瓜碎块
 item.potato_rotten.name=发霉的服务器
 
 # -- Ore Blocks -- #
-tile.earthwax_block.name=地蜡
-tile.netherwax_block.name=钙化石蜡
+tile.earthwax_block.name=钙化石蜡
 tile.metalblock_brass.name=黄铜块
 tile.metalblock_bronze.name=青铜块
 tile.metalblock_copper.name=铜块
@@ -1489,10 +1487,12 @@ subtitle.primal.tool_blade_scrape=小刀拆解声
 subtitle.primal.block_cauldron_empty=空坩埚回声
 subtitle.primal.block_cauldron_filled=满坩埚响声
 subtitle.primal.block_cauldron_lid=坩埚盖铛铛声
+subtitle.primal.block_cauldron_add=
 subtitle.primal.block_barrel_empty=空木桶回声
 subtitle.primal.block_barrel_filled=满木桶响声
 subtitle.primal.block_barrel_lid=木盖子声
 subtitle.primal.fluid_splash=液体飞溅声
+subtitle.primal.misc_steam=
 
 # -- potions -- #
 potion.effect.primal.porphyria=紫质症
@@ -1608,10 +1608,10 @@ chat.message.debug.schedule_update_in_progress=方块已更新
 chat.message.debug.schedule_not_updatable=此方块不能进行更新操作
 
 # -- jei -- #
-gui.jei.primal.fish_trap=鱼栅
-gui.jei.primal.drying_rack=干燥架
-gui.jei.primal.hibachi=火盆
-gui.jei.primal.cauldron=坩埚
+jei.category.fish_trap=鱼栅
+jei.category.drying_rack=干燥架
+jei.category.hibachi=火盆
+jei.category.cauldron=坩埚
 jei.category.flake=敲片
 
 # -- ..
