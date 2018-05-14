@@ -504,7 +504,6 @@ tile.kiln_terracotta.name=Terracotta Kiln
 tile.kiln_ciniscotta.name=Ciniscotta Kiln
 tile.kiln_nether_earth.name=Nether Earth Kiln
 tile.vitrified_stone.name=Vitrified Stone
-tile.earthwax_block.name=Earthwax
 tile.torch_wood.name=Unlit Torch
 item.torch_wood_lit.name=Lit Torch
 tile.torch_nether.name=Netherrack Torch
@@ -1420,8 +1419,7 @@ item.pumpkin_piece.name=Pumpkin Piece
 item.potato_rotten.name=Molding Potato
 
 # -- Ore Blocks -- #
-tile.earthwax_block.name=Ozokerite
-tile.netherwax_block.name=Calcified Paraffin
+tile.earthwax_block.name=Calcified Paraffin
 tile.metalblock_brass.name=Brass Block
 tile.metalblock_bronze.name=Bronze Block
 tile.metalblock_copper.name=Copper Block
@@ -1489,10 +1487,12 @@ subtitle.primal.tool_blade_scrape=Blade Scraping
 subtitle.primal.block_cauldron_empty=Empty Cauldron
 subtitle.primal.block_cauldron_filled=Filled Cauldron
 subtitle.primal.block_cauldron_lid=Cauldron Lid Clank
+subtitle.primal.block_cauldron_add=Cauldron Crafting
 subtitle.primal.block_barrel_empty=Empty Wooden Barrel
 subtitle.primal.block_barrel_filled=Filled Wooded Barrel
 subtitle.primal.block_barrel_lid=Wooden Barrel Lid
 subtitle.primal.fluid_splash=Splashing
+subtitle.primal.misc_steam=Steam Hissing
 
 # -- potions -- #
 potion.effect.primal.porphyria=Porphyria
