@@ -1340,6 +1340,7 @@ tile.cinisclay_block.name=Cinis Clay
 
 tile.ovis_wool.name=Ovis Atre Wool
 tile.grated_gravel.name=Grated Gravel
+tile.redstone_sand.name=Redstone Sand
 
 tile.worktable_shelf_oak.name=Oak Crafting Table
 tile.worktable_shelf_spruce.name=Spruce Crafting Table
