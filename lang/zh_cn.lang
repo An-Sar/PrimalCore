@@ -1594,6 +1594,93 @@ commands.attack.usage=/actual <指令> <玩家>
 commands.actual.success='%s'
 
 # -- info -- #
+# -- debug -- #
+tooltip.info.debug_item=This is a debug tool
+
+# -- shared -- #
+tooltip.info.abstract_dev_warning=This is currently in development
+tooltip.info.abstract_fire_proof=Fire Proof
+tooltip.info.abstract_fire_hazard=Highly Flammable
+tooltip.info.abstract_wet_block=Place in-world to Dry
+tooltip.info.abstract_requires_fuel=Consumes solid fuel
+tooltip.info.abstract_requires_heat=Requires heat source
+tooltip.info.abstract_environment=Influenced by surroundings
+tooltip.info.abstract_pickup=Sneak-click to Pickup
+tooltip.info.abstract_has_heat=Temperature
+tooltip.info.abstract_tank_fluid=Fluid
+tooltip.info.abstract_tank_size=Volume
+tooltip.info.abstract_tank_rain=Collects water from rain
+tooltip.info.abstract_tank_lid=Retains Inventory when covered
+tooltip.info.abstract_quality=Four Quality Grades
+tooltip.info.abstract_passes=Passes
+tooltip.info.abstract_passes_items=Items
+tooltip.info.abstract_passes_fluids=Fluids
+tooltip.info.abstract_passes_gas=Smoke/Steam
+tooltip.info.abstract_grid_crafting_tool=Crafting Table Tool
+tooltip.info.abstract_world_crafting_tool=In-World Crafting Tool
+tooltip.info.abstract_world_craft_blade=Craft in-world with a Work Blade
+tooltip.info.abstract_world_craft_hammer=Craft in-world with a Gallagher
+tooltip.info.abstract_world_craft_axe=Craft in-world with an Axe
+tooltip.info.abstract_material_warning=Output is lossy, Upgrade tool material
+
+# -- food -- #
+tooltip.info.food_is_bait=Bait Fish Traps
+tooltip.info.food_is_salted=Food is Salty
+tooltip.info.food_is_rotten=Food is Rotten
+tooltip.info.food_can_salt=Salt or Dry on a Rack
+tooltip.info.food_can_dry=Dry on a Rack
+
+tooltip.info.food_comment_salo=Solonýna
+tooltip.info.food_comment_cheese_white=La Vache qui Rit
+tooltip.info.food_comment_cheese_red=Ad Vitam Aeternam
+
+# -- plants -- #
+tooltip.info.plant_seed_any=Plant on any Solid Surface
+tooltip.info.plant_seed_soil=Plant on Grass or Dirt
+tooltip.info.plant_seed_grass=Plant on Grass
+tooltip.info.plant_seed_grass_shade=Plant on Grass in the Shade
+tooltip.info.plant_seed_farmland=Plant on Farmland
+tooltip.info.plant_seed_farmland_nether=Plant on Nether Farmland
+tooltip.info.plant_seed_by_lava=Plant near Lava
+tooltip.info.plant_seed_by_water=Plant near Water
+
+# -- misc -- #
+tooltip.info.fire_bow_torches=Right-click to light torches
+tooltip.info.fire_bow_fuel=Consumes sticks
+tooltip.info.fishtrap_bait=Trap 1-6 fish per Bait
+tooltip.info.fishtrap_misc=Sometimes Trap Other Items
+tooltip.info.fishtrap_warning=Influenced by surroundings
+tooltip.info.lantern_torch=Click/Sneak-click add or remove Torch
+tooltip.info.lantern_light=Light from a fire source
+tooltip.info.lantern_warning=Breaking will Put Out Torch
+tooltip.info.cauldron_items=Sneak-click with ladle to Recover Items
+tooltip.info.cauldron_warning=Cauldron is Super Heated
+tooltip.info.cauldron_ladle_view=Sneak-click cauldron side to see contents
+tooltip.info.cauldron_ladle_take=Sneak-click cauldron top to recover items
+tooltip.info.cauldron_lid=Fit to a Cauldron, to save inventory
+tooltip.info.barrel_lid=Fit to a Barrel, to save inventory
+tooltip.info.barrel_trap=Barrel is Trapped
+tooltip.info.barrel_trap_placement=Sneak-click barrel partially filled with Paraffin
+tooltip.info.drying_rack_crafting=Slowly Dries Items
+tooltip.info.hibachi_crafting=Cooks Items
+tooltip.info.shelf_storage=Sneak-click takes full stack
+tooltip.info.pitfall_falldamage=Deals Damage scaled by fall height
+tooltip.info.pitfall_collision=Deal Collision Damage
+tooltip.info.cineris_carpet=Moves Entities in relation to facing
+tooltip.info.ineris_carpet=Teleports entities randomly
+tooltip.info.redstone_sand=Falls like Sand, Sits like Stone
+tooltip.info.ladder_placement=Automatic Placement Up or Down
+tooltip.info.thatch_support=Slats Provide Extra Support
+tooltip.info.slats_support=Will provide extra support for thatch
+tooltip.info.worktable_slab=Connects to Crates and Chests
+tooltip.info.storage_crate=Connects to Worktable Slabs
+tooltip.info.storage_crate_inventory=Retains Inventory
+tooltip.info.charcoal_output=Produces charcoal grade
+tooltip.info.charcoal_crafting=Burry in dirt or similar block
+tooltip.info.mud_harvest=Harvest from wet farmland
+tooltip.info.satetsu=砂鉄
+
+# -- chat messages -- #
 #chat.message.cannot_sleep=你现在不能睡觉，床的位置已设置
 #chat.message.cannot_sleep_or_spawn=你现在不能睡觉或者设置床的位置
 chat.message.set_spawn=床的位置已设置
@@ -1615,7 +1702,6 @@ jei.category.hibachi=火盆
 jei.category.cauldron=坩埚
 jei.category.flake=敲片
 
-# -- ..
 jei.info.ladle=锅勺用于与坩埚交互。点击坩埚侧面可以显示有关当前热量和内容物的信息。点击顶部能够安全的从锅中拿取物品。
 jei.info.workblade=工作刀可以用于切割皮革条，切下树皮，以及满足一些其他的生存需要。在世界中使用可以用于制作梯子以及其他物品。潜行右键以在世界中使用。
 jei.info.gallagher=这个锤子的英文是gallagher，用某个以锤瓜闻名的喜剧演员gallagher的名字命名。这完全就是个锤子嘛。
@@ -1638,7 +1724,6 @@ jei.info.log_split=用斧或印第安斧右击已去皮的原木将其劈开。
 jei.info.log_stack=用加工刀潜行右击一块原木进行削皮，可以得到树皮和去皮的原木。
 jei.info.wet_block=靠近热源和光源放置在世界里，至少有一面暴露在空气中，然后留它慢慢晾干吧。
 
-# -- specials
 jei.info.goggles=这些护目镜装有黑色沥青镜片，戴上后除了最明亮的光外什么也看不见。看起来他们只被用做防护装备。
 jei.info.ignis=这团诡异的火焰藉由自己的意志燃烧着。据说它发出的光芒吸引了很多愚昧的路行者离开安全的大道，走上不归之路。
 jei.info.aconite=就像其他的部分一样，乌头草的根因其猛烈的毒素而闻名。
@@ -1648,7 +1733,6 @@ jei.info.pitfall=陷阱尖刺就是为了致命的陷阱而诞生的。另外，
 jei.info.satetsu=
 jei.info.nethergrowth=
 
-# -- fibers
 jei.info.fiber=纤维主要用于制作各种麻绳。
 jei.info.plant_fiber=各种植物资源会掉落或能用来制作植物纤维，比如高草丛
 jei.info.cineris_fiber=狱火绒纤毛会掉落狱火绒纤维，主要在下界被找到。
