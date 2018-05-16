@@ -558,14 +558,14 @@ tile.hardened_stone_green.name=绿色硬化石头
 tile.hardened_stone_red.name=红色硬化石头
 tile.hardened_stone_black.name=黑色硬化石头
 
-tile.common_stone_normal.name=常见石头
-tile.common_stone_smooth.name=平滑常见石头
-tile.common_stone_stacked.name=层叠常见石头
-tile.common_stone_brick.name=常见石砖
-tile.common_stone_cobbled.name=乱砌常见石头
-tile.common_stone_carved.name=錾制常见石砖
-tile.common_stone_face.name=神秘常见石头
-tile.common_stone_pillar.name=常见石柱柱
+tile.common_stone_normal.name=寻常石头
+tile.common_stone_smooth.name=平滑寻常石头
+tile.common_stone_stacked.name=层叠寻常石头
+tile.common_stone_brick.name=寻常石砖
+tile.common_stone_cobbled.name=乱砌寻常石头
+tile.common_stone_carved.name=錾制寻常石砖
+tile.common_stone_face.name=神秘寻常石头
+tile.common_stone_pillar.name=寻常石柱
 
 tile.carbonate_stone_normal.name=石灰石
 tile.carbonate_stone_smooth.name=平滑石灰石
@@ -592,7 +592,7 @@ tile.sarsen_stone_brick.name=漂砾石砖
 tile.sarsen_stone_cobbled.name=乱砌漂砾石
 tile.sarsen_stone_carved.name=錾制漂砾石砖
 tile.sarsen_stone_face.name=神秘漂砾石
-tile.sarsen_stone_pillar.name=漂砾柱
+tile.sarsen_stone_pillar.name=漂砾石柱
 
 tile.blue_stone_normal.name=青石
 tile.blue_stone_smooth.name=平滑青石
@@ -696,9 +696,9 @@ tile.desiccated_stone_pillar.name=枯焦石化柱
 tile.ore_opal_nether.name=地狱蛋白石矿石
 tile.ore_opal_charred.name=焦黑蛋白石矿石
 
-tile.ore_bog_iron_mud.name=沼铁泥
-tile.ore_bog_iron_terra.name=赤陶沼铁粘土
-tile.ore_bog_iron_cinis.name=灰烬陶沼铁粘土
+tile.ore_bog_iron_mud.name=泥沼铁
+tile.ore_bog_iron_terra.name=赤陶土沼铁
+tile.ore_bog_iron_cinis.name=灰烬陶土沼铁
 
 tile.ore_magnetite_stone.name=磁铁矿石
 tile.ore_magnetite_nether.name=地狱磁铁矿石
