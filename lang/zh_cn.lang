@@ -324,7 +324,7 @@ item.corn_bread.name=玉米面包
 item.corn_ground.name=玉米粉
 item.valus_omniferum_stalk.name=紫罂粟杆
 item.valus_omniferum_sepal.name=紫罂粟花萼
-item.valus_omniferum_melon.name=紫罂粟瓜
+item.valus_omniferum_melon.name=紫罂粟果
 item.daucus_murn_seeds.name=黯萝薯种子
 item.daucus_murn_stem.name=黯萝薯茎
 item.daucus_murn_fronds.name=黯萝薯叶
@@ -1400,7 +1400,7 @@ item.valus_stalk_fresh.name=新鲜紫罂粟杆
 item.valus_stalk_withered.name=枯萎紫罂粟杆
 item.valus_fiber.name=紫罂粟纤维
 item.valus_seed.name=紫罂粟种子
-item.valus_melon.name=紫罂粟瓜
+item.valus_melon.name=紫罂粟果
 item.valus_bread.name=紫罂粟面包
 tile.sinuous_weed.name=邪曲草
 item.sinuous_fiber.name=邪曲草纤维
@@ -1599,7 +1599,7 @@ tooltip.info.debug_item=这是一个调试工具
 
 # -- shared -- #
 tooltip.info.abstract_dev_warning=这个物品还在开发中
-tooltip.info.abstract_fire_proof=防火
+tooltip.info.abstract_fire_proof=耐火
 tooltip.info.abstract_fire_hazard=高度易燃
 tooltip.info.abstract_wet_block=放在世界中干燥
 tooltip.info.abstract_requires_fuel=消耗固体燃料
