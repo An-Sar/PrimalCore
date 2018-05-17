@@ -448,7 +448,7 @@ item.iron_gallagher.name=铁瓜锤
 item.nether_gallagher.name=地狱石瓜锤
 item.nether_fishing_rod.name=下界鱼竿
 
-item.flint_hatchet.name=燧石印第安斧
+item.flint_hatchet.name=燧石手斧
 item.flint_axe.name=燧石斧
 item.flint_pickaxe.name=燧石镐
 item.flint_shovel.name=燧石锹
@@ -461,7 +461,7 @@ item.iron_saw.name=铁手锯
 item.iron_clippers.name=铁剪线钳
 
 item.quartz_gallagher.name=石英瓜锤
-item.quartz_hatchet.name=石英印第安斧
+item.quartz_hatchet.name=石英手斧
 item.quartz_axe.name=石英斧
 item.quartz_pickaxe.name=石英镐
 item.quartz_shovel.name=石英锹
@@ -470,25 +470,25 @@ item.quartz_shears.name=石英剪
 item.quartz_workblade.name=石英加工刀
 item.obsidian_workblade.name=黑曜石加工刀
 
-item.diamond_hatchet.name=钻石印第安斧
+item.diamond_hatchet.name=钻石手斧
 item.diamond_axe.name=钻石斧
 item.diamond_pickaxe.name=钻石镐
 item.diamond_shovel.name=钻石锹
 item.diamond_hoe.name=钻石锄
 
-item.emerald_hatchet.name=绿宝石印第安斧
+item.emerald_hatchet.name=绿宝石手斧
 item.emerald_axe.name=绿宝石斧
 item.emerald_pickaxe.name=绿宝石镐
 item.emerald_shovel.name=绿宝石锹
 item.emerald_hoe.name=绿宝石锄
 
-item.opal_hatchet.name=蛋白石印第安斧
+item.opal_hatchet.name=蛋白石手斧
 item.opal_axe.name=蛋白石斧
 item.opal_pickaxe.name=蛋白石镐
 item.opal_shovel.name=蛋白石锹
 item.opal_hoe.name=蛋白石锄
 
-item.obsidian_hatchet.name=黑曜石印第安斧
+item.obsidian_hatchet.name=黑曜石手斧
 item.obsidian_axe.name=黑曜石斧
 item.obsidian_pickaxe.name=黑曜石镐
 item.obsidian_shovel.name=黑曜石锹
@@ -1537,7 +1537,7 @@ death.attack.primal.daucus=%s被黯萝薯的刺扎死了
 death.attack.primal.daucus.player=%1$s被%2$s戳插至死
 
 # -- configuration -- #
-primal.config.title=原始之心设置
+primal.config.title=原始意志设置
 
 primal.compatibility=兼容性
 primal.compatibility.tooltip=兼容性
@@ -1706,7 +1706,7 @@ jei.info.ladle=锅勺用于与坩埚交互。点击坩埚侧面可以显示有�
 jei.info.workblade=工作刀可以用于切割皮革条，切下树皮，以及满足一些其他的生存需要。在世界中使用可以用于制作梯子以及其他物品。潜行右键以在世界中使用。
 jei.info.gallagher=这个锤子的英文是gallagher，用某个以锤瓜闻名的喜剧演员gallagher的名字命名。这完全就是个锤子嘛。
 jei.info.hatchet=
-jei.info.stick_dirt=泥棍用于查看原始核心中的方块的状态。对着方块用泥棍右键来查看方块当前状态。
+jei.info.stick_dirt=泥棍用于查看原始意志中的方块的状态。对着方块用泥棍右键来查看方块当前状态。
 
 jei.info.fish_trap=放在水中，上方至少有一格水，然后装入一些肉末。鱼栅会缓慢的收集鱼和其他物品，直到它被装满或者消耗了所有鱼饵。
 jei.info.drying_rack=将要干燥的物品放在顶部的板条上。远离雨水并靠近热源和光源以获得让你满意的效果。
@@ -1720,7 +1720,7 @@ jei.info.flakes=用相应材料敲击足够坚硬的表面来获得，这些石�
 jei.info.pelts=生皮从各种野生动物身上掉落。每种生皮处理后都能得到皮革。
 jei.info.hides=皮革是处理过的生皮，在制作皮革的过程中你可能需要jei的帮助来进行干燥或鞣制。
 jei.info.ash=灰烬是许多有关火与烧制的方块的副产物。烧原木堆时将其暴露在空气中会烧成灰烬。灰烬有几种，每种各有不同的属性。
-jei.info.log_split=用斧或印第安斧右击已去皮的原木将其劈开。
+jei.info.log_split=用斧或手斧右击已去皮的原木将其劈开。
 jei.info.log_stack=用加工刀潜行右击一块原木进行削皮，可以得到树皮和去皮的原木。
 jei.info.wet_block=靠近热源和光源放置在世界里，至少有一面暴露在空气中，然后留它慢慢晾干吧。
 
