@@ -1416,6 +1416,7 @@ item.void_seed.name=Equisetum Ineris Spore
 item.void_grass_root.name=Uprooted Equisetum Ineris
 tile.daucus_murn.name=Daucus Murn
 tile.nether_vine.name=Cuscuta Inferum
+item.inferum_ground.name=Ground Cuscuta Inferum
 tile.nether_creep.name=Nether Creep
 tile.strangle_weed.name=Strangle Weed
 tile.old_mans_beard.name=Old Mans' Beard
