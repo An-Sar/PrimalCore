@@ -785,6 +785,8 @@ tile.mud_dried_carved.name=錾制干泥砖
 tile.mud_dried_face.name=神秘干泥砖
 tile.mud_dried_pillar.name=干泥砖柱
 
+tile.ancient_ice.name=Ancient Ice
+tile.nether_mycelium.name=Mycelium Infested Netherrack
 tile.nether_path.name=下界草径
 tile.nether_farmland.name=下界耕地
 tile.nether_growth.name=下界瘤石
