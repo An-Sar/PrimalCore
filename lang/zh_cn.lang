@@ -120,6 +120,8 @@ item.bottle_paraffin.name=瓶装煤油
 item.chunk_netherrack.name=地狱岩块
 item.chunk_soulsand.name=灵魂沙块
 
+item.sword_crude.name=Crude Blade
+
 item.pigiron_plate.name=生铁板
 item.pigiron_plate_double.name=双层生铁板
 item.pigiron_plate_small.name=小生铁板

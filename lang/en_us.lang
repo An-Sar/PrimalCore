@@ -120,6 +120,8 @@ item.bottle_paraffin.name=Bottle of Paraffin
 item.chunk_netherrack.name=Chunk of Netherrack
 item.chunk_soulsand.name=Chunk of Soulsand
 
+item.sword_crude.name=Crude Blade
+
 item.pigiron_plate.name=Pig Iron Plate
 item.pigiron_plate_double.name=Pig Iron Double Plate
 item.pigiron_plate_small.name=Pig Iron Small Plate
