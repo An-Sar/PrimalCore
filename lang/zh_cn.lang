@@ -1685,6 +1685,7 @@ tooltip.info.storage_crate=会连接到工作台台阶
 tooltip.info.storage_crate_inventory=保留内容物
 tooltip.info.charcoal_output=产生的木炭分品级
 tooltip.info.charcoal_crafting=埋在泥土或类似方块中
+tooltip.info.charcoal_crafting_nether=Burry in the Nether
 tooltip.info.mud_harvest=挖掉湿润的耕地获得
 tooltip.info.satetsu=砂铁
 

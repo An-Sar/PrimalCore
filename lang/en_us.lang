@@ -1685,6 +1685,7 @@ tooltip.info.storage_crate=Connects to Worktable Slabs
 tooltip.info.storage_crate_inventory=Retains Inventory
 tooltip.info.charcoal_output=Produces charcoal grade
 tooltip.info.charcoal_crafting=Burry in dirt or similar block
+tooltip.info.charcoal_crafting_nether=Burry in the Nether
 tooltip.info.mud_harvest=Harvest from wet farmland
 tooltip.info.satetsu=砂鉄
 
