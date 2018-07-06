@@ -797,6 +797,10 @@ tile.nether_farmland.name=Nether Farmland
 tile.nether_growth.name=Nethergrowth
 tile.nether_growth_redstone.name=Nethergrowth Redstone
 
+tile.obsidian_transparent_normal.name=Transparent Obsidian
+tile.obsidian_transparent_smooth.name=Smooth Transparent Obsidian
+tile.obsidian_transparent_framed.name=Framed Transparent Obsidian
+
 tile.logs_stripped_acacia.name=Acacia Stripped Log
 tile.logs_stripped_dark_oak.name=Dark Oak Stripped Log
 tile.logs_stripped_birch.name=Birch Stripped Log

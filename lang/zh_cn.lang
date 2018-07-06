@@ -797,6 +797,10 @@ tile.nether_farmland.name=下界耕地
 tile.nether_growth.name=下界瘤石
 tile.nether_growth_redstone.name=下界瘤石红石矿
 
+tile.obsidian_transparent_normal.name=Transparent Obsidian
+tile.obsidian_transparent_smooth.name=Smooth Transparent Obsidian
+tile.obsidian_transparent_framed.name=Framed Transparent Obsidian
+
 tile.logs_stripped_acacia.name=去皮金合欢木
 tile.logs_stripped_dark_oak.name=去皮深色橡木
 tile.logs_stripped_birch.name=去皮白桦木
