@@ -453,6 +453,12 @@ item.iron_gallagher.name=Iron Gallagher
 item.nether_gallagher.name=Nether Stone Gallagher
 item.nether_fishing_rod.name=Nether Fishing Rod
 
+item.bone_hatchet.name=Bone Hatchet
+item.bone_pickaxe.name=Bone Pickaxe
+item.bone_shovel.name=Bone Shovel
+item.bone_hoe.name=Bone Hoe
+item.bone_saw.name=Bone Saw
+
 item.flint_hatchet.name=Flint Hatchet
 item.flint_axe.name=Flint Axe
 item.flint_pickaxe.name=Flint Pickaxe
@@ -473,7 +479,6 @@ item.quartz_shovel.name=Quartz Shovel
 item.quartz_hoe.name=Quartz Hoe
 item.quartz_shears.name=Quartz Shears
 item.quartz_workblade.name=Quartz Work Blade
-item.obsidian_workblade.name=Obsidian Work Blade
 
 item.diamond_hatchet.name=Diamond Hatchet
 item.diamond_axe.name=Diamond Axe
@@ -498,6 +503,8 @@ item.obsidian_axe.name=Obsidian Axe
 item.obsidian_pickaxe.name=Obsidian Pickaxe
 item.obsidian_shovel.name=Obsidian Shovel
 item.obsidian_hoe.name=Obsidian Hoe
+item.obsidian_saw.name=Obsidian Saw
+item.obsidian_workblade.name=Obsidian Work Blade
 
 # -- Blocks -- #
 tile.ash_common.name=Ash

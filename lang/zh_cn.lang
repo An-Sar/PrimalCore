@@ -453,6 +453,12 @@ item.iron_gallagher.name=铁瓜锤
 item.nether_gallagher.name=地狱石瓜锤
 item.nether_fishing_rod.name=下界鱼竿
 
+item.bone_hatchet.name=Bone Hatchet
+item.bone_pickaxe.name=Bone Pickaxe
+item.bone_shovel.name=Bone Shovel
+item.bone_hoe.name=Bone Hoe
+item.bone_saw.name=Bone Saw
+
 item.flint_hatchet.name=燧石手斧
 item.flint_axe.name=燧石斧
 item.flint_pickaxe.name=燧石镐
@@ -473,7 +479,6 @@ item.quartz_shovel.name=石英锹
 item.quartz_hoe.name=石英锄
 item.quartz_shears.name=石英剪
 item.quartz_workblade.name=石英加工刀
-item.obsidian_workblade.name=黑曜石加工刀
 
 item.diamond_hatchet.name=钻石手斧
 item.diamond_axe.name=钻石斧
@@ -498,6 +503,8 @@ item.obsidian_axe.name=黑曜石斧
 item.obsidian_pickaxe.name=黑曜石镐
 item.obsidian_shovel.name=黑曜石锹
 item.obsidian_hoe.name=黑曜石锄
+item.obsidian_saw.name=黑曜手锯
+item.obsidian_workblade.name=黑曜石加工刀
 
 # -- Blocks -- #
 tile.ash_common.name=灰烬
