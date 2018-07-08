@@ -1741,8 +1741,9 @@ jei.info.flakes=Crafted by hitting a base item against a sufficiently hard surfa
 jei.info.pelts=Pelts will drop from a range of wild life. Each type can be processed down to produce leather.
 jei.info.hides=Hides are processed pelts, reading to be dried or tanned in the process to produce leather.
 jei.info.ash=Ash is a by product of many blocks that involve fire or cooking. Log Stacks will also burn to ash when exposed to air. There are certain types of ash that are valued for exotic properties.
+jei.info.log_stripped=Sneak-Click a Log with a Work Blade to strip the log, producing bark and leaving behind a stripped log.
 jei.info.log_split=Right-Click Striped Logs with an axe or hatchet to split the logs.
-jei.info.log_stack=Sneak-Click a Log with a Work Blade to stripe the log, producing bark and leaving behind a stripped log.
+jei.info.log_stack=Burry the log stack in dirt and light on fire. If properly covered the stack will produce charcoal of varying quality.
 jei.info.wet_block=Place in the world with at least one side exposed to the air, near a heat or light source and leave it to dry.
 
 jei.info.goggles=These goggles have pitch black lenses rendering the wearing blind to all but the brightest light. They seem only useful as some form of protective wear.

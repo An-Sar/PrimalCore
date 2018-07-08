@@ -1741,8 +1741,9 @@ jei.info.flakes=用相应材料敲击足够坚硬的表面来获得，这些石�
 jei.info.pelts=生皮从各种野生动物身上掉落。每种生皮处理后都能得到皮革。
 jei.info.hides=皮革是处理过的生皮，在制作皮革的过程中你可能需要jei的帮助来进行干燥或鞣制。
 jei.info.ash=灰烬是许多有关火与烧制的方块的副产物。烧原木堆时将其暴露在空气中会烧成灰烬。灰烬有几种，每种各有不同的属性。
+jei.info.log_stripped=用加工刀潜行右击一块原木进行削皮，可以得到树皮和去皮的原木。
 jei.info.log_split=用斧或手斧右击已去皮的原木将其劈开。
-jei.info.log_stack=用加工刀潜行右击一块原木进行削皮，可以得到树皮和去皮的原木。
+jei.info.log_stack=Burry the log stack in dirt and light on fire. If properly covered the stack will produce charcoal of varying quality.
 jei.info.wet_block=靠近热源和光源放置在世界里，至少有一面暴露在空气中，然后留它慢慢晾干吧。
 
 jei.info.goggles=这副护目镜装有黑色沥青镜片，戴上后除了最明亮的光外什么也看不见。看起来它们只被用做防护装备。
