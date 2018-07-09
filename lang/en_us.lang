@@ -113,12 +113,14 @@ item.primal.arrow_torch_nether.name=Netherrack Torch Arrow
 item.primal.arrow_torch_redstone.name=Redstone Torch Arrow
 item.primal.arrow_water.name=Water Arrow
 item.primal.arrow_paraffin.name=Paraffin Arrow
+item.primal.arrow_bitumen.name=Bitumen Arrow
 item.primal.tannin_ground.name=Ground Resin
 item.primal.tannin_bottle.name=Bottle of Tannin
 item.primal.urushi_ground.name=Ground Urushi
 item.primal.urushi_bottle.name=Bottle of Urushi
 item.primal.ovis_milk_bottle.name=Bottle of Ovis Atre Milk
 item.primal.bottle_paraffin.name=Bottle of Paraffin
+item.primal.bottle_bitumen.name=Bottle of Boiling Bitumen
 item.primal.chunk_netherrack.name=Chunk of Netherrack
 item.primal.chunk_soulsand.name=Chunk of Soulsand
 

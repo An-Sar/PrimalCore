@@ -113,12 +113,14 @@ item.primal.arrow_torch_nether.name=地狱岩火把箭
 item.primal.arrow_torch_redstone.name=红石火把箭
 item.primal.arrow_water.name=水箭
 item.primal.arrow_paraffin.name=煤油箭
+item.primal.arrow_bitumen.name=Bitumen Arrow
 item.primal.tannin_ground.name=鞣质粉
 item.primal.tannin_bottle.name=瓶装鞣质
 item.primal.urushi_ground.name=漆蜡粉
 item.primal.urushi_bottle.name=瓶装漆蜡
 item.primal.ovis_milk_bottle.name=瓶装暗黑羊奶
 item.primal.bottle_paraffin.name=瓶装煤油
+item.primal.bottle_bitumen.name=Bottle of Boiling Bitumen
 item.primal.chunk_netherrack.name=地狱岩块
 item.primal.chunk_soulsand.name=灵魂沙块
 
