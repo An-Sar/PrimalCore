@@ -127,6 +127,7 @@ item.primal.chunk_soulsand.name=灵魂沙块
 item.primal.sword_crude_wootz.name=Crude Steel Blade
 item.primal.sword_crude_pig_iron.name=Crude Iron Blade
 item.primal.sword_crude_quartz.name=Crude Quartz Blade
+item.primal.sword_crude_flint.name=Crude Flint Blade
 
 item.primal.pigiron_plate.name=生铁板
 item.primal.pigiron_plate_double.name=双层生铁板
