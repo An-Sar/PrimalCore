@@ -1686,7 +1686,7 @@ jei.info.primal.crate=Storage Crates will retain their inventory when picked up.
 jei.info.primal.barrel=Barrels are able to hold fluids and collect rain. If fitted with a lid the barrel will retain its fluid when picked up.
 
 jei.info.primal.rocks=Rocks either drop from various stone blocks, or can be deliberately harvested with a gallagher
-jei.info.primal.flakes=Crafted by hitting a base item against a sufficiently hard surface, the resulting flakes are useful for crafting basic tools.
+jei.info.primal.flakes=Crafted by hitting a base item against a sufficiently hard surface, the resulting flakes are useful for crafting basic tools. Bewarded flaking is not always successful, try, try again.
 jei.info.primal.pelts=Pelts will drop from a range of wild life. Each type can be processed down to produce leather.
 jei.info.primal.hides=Hides are processed pelts, reading to be dried or tanned in the process to produce leather.
 jei.info.primal.ash=Ash is a by product of many blocks that involve fire or cooking. Log Stacks will also burn to ash when exposed to air. There are certain types of ash that are valued for exotic properties.
