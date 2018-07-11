@@ -1724,6 +1724,8 @@ jei.info.primal.plant_fiber=Plant Fibers can be crafted or drop from numerous pl
 jei.info.primal.cineris_fiber=Cineris Fibers drop from the Cineris Cilium, found predominately in the Nether.
 jei.info.primal.ineris_fiber=Ineris Fibers drop from the Equisetum Ineris, found predominately in the End.
 
+jei.info.primal.debug_dirt_stick=This debug item will display the status of items in Drying Racks and Hibachi, and is able to restart those and similar blocks in the event updates have been stalled.
+
 # -- commands -- #
 commands.primal.attack.usage=/actual <cmd> <player>
 commands.primal.actual.success='%s'

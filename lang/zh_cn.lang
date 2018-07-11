@@ -1724,6 +1724,8 @@ jei.info.primal.plant_fiber=各种植物资源会掉落或能用来制作植物�
 jei.info.primal.cineris_fiber=狱火绒纤毛会掉落狱火绒纤维，主要在下界被找到。
 jei.info.primal.ineris_fiber=虚空苔草会掉落虚空苔草纤维，主要在末地被找到。
 
+jei.info.primal.debug_dirt_stick=This debug item will display the status of items in Drying Racks and Hibachi, and is able to restart those and similar blocks in the event updates have been stalled.
+
 # -- commands -- #
 commands.primal.attack.usage=/actual <指令> <玩家>
 commands.primal.actual.success='%s'
