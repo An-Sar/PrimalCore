@@ -375,7 +375,7 @@ item.primal.yew_bow.name=紫杉木弓
 item.primal.obsidian_plate.name=黑曜石板
 
 # -- armor
-item.primal.armor_obsidian_goggles.name=黑曜石护目镜
+item.primal.armor_obsidian_goggles.name=Dark Len 护目镜
 item.primal.armor_obsidian_head.name=黑曜石头盔
 item.primal.armor_obsidian_body.name=黑曜石胸甲
 item.primal.armor_obsidian_legs.name=黑曜石护腿
@@ -469,6 +469,7 @@ item.primal.bone_pickaxe.name=Bone Pickaxe
 item.primal.bone_shovel.name=Bone Shovel
 item.primal.bone_hoe.name=Bone Hoe
 item.primal.bone_saw.name=Bone Saw
+item.primal.bone_shears.name=Bone Shears
 
 item.primal.flint_hatchet.name=燧石手斧
 item.primal.flint_axe.name=燧石斧

@@ -375,7 +375,7 @@ item.primal.yew_bow.name=Yew Bow
 item.primal.obsidian_plate.name=Obsidian Plate
 
 # -- armor
-item.primal.armor_obsidian_goggles.name=Obsidian Goggles
+item.primal.armor_obsidian_goggles.name=Dark Len Goggles
 item.primal.armor_obsidian_head.name=Obsidian Helm
 item.primal.armor_obsidian_body.name=Obsidian Chest
 item.primal.armor_obsidian_legs.name=Obsidian Leggings
@@ -469,6 +469,7 @@ item.primal.bone_pickaxe.name=Bone Pickaxe
 item.primal.bone_shovel.name=Bone Shovel
 item.primal.bone_hoe.name=Bone Hoe
 item.primal.bone_saw.name=Bone Saw
+item.primal.bone_shears.name=Bone Shears
 
 item.primal.flint_hatchet.name=Flint Hatchet
 item.primal.flint_axe.name=Flint Axe
