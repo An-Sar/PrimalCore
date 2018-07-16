@@ -1690,6 +1690,8 @@ jei.category.primal.hibachi=火盆
 jei.category.primal.cauldron=坩埚
 jei.category.primal.flake=敲片
 
+jei.recipe.primal.cauldron_lid=recipe requires a lid
+
 jei.info.primal.ladle=锅勺用于与坩埚交互。点击坩埚侧面可以显示有关当前热量和内容物的信息。点击顶部能够安全的从锅中拿取物品。
 jei.info.primal.workblade=工作刀可以用于切割皮革条，切下树皮，以及满足一些其他的生存需要。在世界中使用可以用于制作梯子以及其他物品。潜行右键以在世界中使用。
 jei.info.primal.gallagher=这个锤子的英文是gallagher，用某个以锤瓜闻名的喜剧演员gallagher的名字命名。这完全就是个锤子嘛。
