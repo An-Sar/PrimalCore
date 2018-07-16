@@ -1692,7 +1692,7 @@ jei.category.primal.flake=In-World Flaking
 
 jei.recipe.primal.cauldron_lid=recipe requires a lid
 
-jei.info.primal.ladle=Ladles are used to interact with an active cauldron. Hitting the side of a cauldron will display information about the current heat and contents. Hitting the top will safely fish items held within.
+jei.info.primal.ladle=Ladles are used to interact with an active cauldron. Hitting the side of a cauldron will display information about the current heat and contents. Hitting the top will safely fish items held within or remove lids from hot cauldrons.
 jei.info.primal.workblade=Work Blades can be used to strip hides, remove bark, and other survival tasks. Use as an in-world crafting option to create ladders and other items. Shift Right-Click to use in-world crafting.
 jei.info.primal.gallagher=
 jei.info.primal.hatchet=
