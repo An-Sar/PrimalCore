@@ -126,6 +126,7 @@ item.primal.bottle_paraffin.name=Bottle of Paraffin
 item.primal.bottle_bitumen.name=Bottle of Boiling Bitumen
 item.primal.chunk_netherrack.name=Chunk of Netherrack
 item.primal.chunk_soulsand.name=Chunk of Soulsand
+item.primal.ovis_atre_cloth.name=Ovis Atre Cloth
 
 item.primal.sword_crude_wootz.name=Crude Wootz Blade
 item.primal.sword_crude_pig_iron.name=Crude Iron Blade
