@@ -1628,6 +1628,7 @@ tooltip.info.primal.abstract_world_craft_blade=Craft in-world with a Work Blade
 tooltip.info.primal.abstract_world_craft_hammer=Craft in-world with a Gallagher
 tooltip.info.primal.abstract_world_craft_axe=Craft in-world with an Axe
 tooltip.info.primal.abstract_material_warning=Output is lossy, Upgrade tool material
+tooltip.info.primal.abstract_plant_harvest=Fast-break plants and similar material
 
 # -- food -- #
 tooltip.info.primal.food_is_bait=Bait Fish Traps

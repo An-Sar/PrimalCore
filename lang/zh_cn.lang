@@ -1628,6 +1628,7 @@ tooltip.info.primal.abstract_world_craft_blade=使用工作刀在世界中加工
 tooltip.info.primal.abstract_world_craft_hammer=使用瓜锤在世界中加工获得
 tooltip.info.primal.abstract_world_craft_axe=使用斧子在世界中加工获得
 tooltip.info.primal.abstract_material_warning=0输出，请升级工具材料
+tooltip.info.primal.abstract_plant_harvest=Fast-break plants and similar material
 
 # -- food -- #
 tooltip.info.primal.food_is_bait=鱼栅鱼饵
