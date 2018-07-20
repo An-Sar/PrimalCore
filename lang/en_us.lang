@@ -128,10 +128,11 @@ item.primal.chunk_netherrack.name=Chunk of Netherrack
 item.primal.chunk_soulsand.name=Chunk of Soulsand
 item.primal.ovis_atre_cloth.name=Ovis Atre Cloth
 
-item.primal.sword_crude_wootz.name=Crude Wootz Blade
-item.primal.sword_crude_pig_iron.name=Crude Iron Blade
-item.primal.sword_crude_quartz.name=Crude Quartz Blade
+item.primal.sword_crude_bone.name=Crude Bone Blade
 item.primal.sword_crude_flint.name=Crude Flint Blade
+item.primal.sword_crude_quartz.name=Crude Quartz Blade
+item.primal.sword_crude_pig_iron.name=Crude Iron Blade
+item.primal.sword_crude_wootz.name=Crude Wootz Blade
 
 item.primal.pigiron_plate.name=Pig Iron Plate
 item.primal.pigiron_plate_double.name=Pig Iron Double Plate
