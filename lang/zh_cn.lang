@@ -1109,6 +1109,10 @@ tile.primal.shelf_half_lacquer.name=清漆木置物架
 tile.primal.cauldron.name=坩埚
 item.primal.cauldron_lid.name=铁锅盖
 
+item.primal.smeltery_lid_mud.name=Smeltery Lid Mud
+item.primal.smeltery_lid_terra.name=Smeltery Lid Terracotta
+item.primal.smeltery_lid_cinis.name=Smeltery Lid Ciniscotta
+
 tile.primal.hibachi_mud.name=泥火盆
 tile.primal.hibachi_terra.name=赤陶火盆
 tile.primal.hibachi_cinis.name=灰烬陶火盆
@@ -1665,6 +1669,7 @@ tooltip.info.primal.cauldron_warning=坩埚温度：超高****
 tooltip.info.primal.cauldron_ladle_view=潜行点击坩埚侧面查看内容物
 tooltip.info.primal.cauldron_ladle_take=潜行点击坩埚顶部捞回物品
 tooltip.info.primal.cauldron_lid=安在坩埚上可保留内容物
+tooltip.info.primal.smeltery_lid=Cover smeltery. Sneak right-click to remove
 tooltip.info.primal.barrel_lid=安在桶上可保留内容物
 tooltip.info.primal.barrel_trap=陷阱桶已装填
 tooltip.info.primal.barrel_trap_placement=潜行点击装有煤油但未满的桶
