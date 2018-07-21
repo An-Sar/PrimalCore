@@ -1109,6 +1109,9 @@ tile.primal.shelf_half_lacquer.name=清漆木置物架
 tile.primal.cauldron.name=坩埚
 item.primal.cauldron_lid.name=铁锅盖
 
+tile.primal.smeltery_mud.name=Mud Smeltery
+tile.primal.smeltery_terra.name=Terracotta Smeltery
+tile.primal.smeltery_cinis.name=Ciniscotta Smeltery
 item.primal.smeltery_lid_mud.name=Smeltery Lid Mud
 item.primal.smeltery_lid_terra.name=Smeltery Lid Terracotta
 item.primal.smeltery_lid_cinis.name=Smeltery Lid Ciniscotta
