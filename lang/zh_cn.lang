@@ -1109,12 +1109,12 @@ tile.primal.shelf_half_lacquer.name=清漆木置物架
 tile.primal.cauldron.name=坩埚
 item.primal.cauldron_lid.name=铁锅盖
 
-tile.primal.smeltery_mud.name=Mud Smeltery
-tile.primal.smeltery_terra.name=Terracotta Smeltery
-tile.primal.smeltery_cinis.name=Ciniscotta Smeltery
-item.primal.smeltery_lid_mud.name=Smeltery Lid Mud
-item.primal.smeltery_lid_terra.name=Smeltery Lid Terracotta
-item.primal.smeltery_lid_cinis.name=Smeltery Lid Ciniscotta
+tile.primal.smelter_mud.name=Mud Śarīrāḥ
+tile.primal.smelter_terra.name=Terracotta Śarīrāḥ
+tile.primal.smelter_cinis.name=Ciniscotta Śarīrāḥ
+item.primal.smelter_lid_mud.name=Mud Śarīrāḥ Lid
+item.primal.smelter_lid_terra.name=Terracotta Śarīrāḥ Lid
+item.primal.smelter_lid_cinis.name=Ciniscotta Śarīrāḥ Lid
 
 tile.primal.hibachi_mud.name=泥火盆
 tile.primal.hibachi_terra.name=赤陶火盆
@@ -1635,6 +1635,7 @@ tooltip.info.primal.abstract_world_craft_blade=使用工作刀在世界中加工
 tooltip.info.primal.abstract_world_craft_hammer=使用瓜锤在世界中加工获得
 tooltip.info.primal.abstract_world_craft_axe=使用斧子在世界中加工获得
 tooltip.info.primal.abstract_material_warning=0输出，请升级工具材料
+tooltip.info.primal.abstract_produces_waste=Produces waste by products
 tooltip.info.primal.abstract_plant_harvest=Fast-break plants and similar material
 
 # -- food -- #
@@ -1678,6 +1679,7 @@ tooltip.info.primal.barrel_trap=陷阱桶已装填
 tooltip.info.primal.barrel_trap_placement=潜行点击装有煤油但未满的桶
 tooltip.info.primal.drying_rack_crafting=缓慢晾干物品
 tooltip.info.primal.hibachi_crafting=烹饪物品
+tooltip.info.primal.smelter_crafting=Smelts Combinations of Items
 tooltip.info.primal.shelf_storage=潜行点击拿走一组
 tooltip.info.primal.pitfall_falldamage=造成的伤害与摔落伤害成比例
 tooltip.info.primal.pitfall_collision=造成碰撞伤害

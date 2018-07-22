@@ -1109,12 +1109,12 @@ tile.primal.shelf_half_lacquer.name=Lacquer Shelf
 tile.primal.cauldron.name=Iron Cauldron
 item.primal.cauldron_lid.name=Iron Cauldron Lid
 
-tile.primal.smeltery_mud.name=Mud Smeltery
-tile.primal.smeltery_terra.name=Terracotta Smeltery
-tile.primal.smeltery_cinis.name=Ciniscotta Smeltery
-item.primal.smeltery_lid_mud.name=Smeltery Lid Mud
-item.primal.smeltery_lid_terra.name=Smeltery Lid Terracotta
-item.primal.smeltery_lid_cinis.name=Smeltery Lid Ciniscotta
+tile.primal.smelter_mud.name=Mud Śarīrāḥ
+tile.primal.smelter_terra.name=Terracotta Śarīrāḥ
+tile.primal.smelter_cinis.name=Ciniscotta Śarīrāḥ
+item.primal.smelter_lid_mud.name=Mud Śarīrāḥ Lid
+item.primal.smelter_lid_terra.name=Terracotta Śarīrāḥ Lid
+item.primal.smelter_lid_cinis.name=Ciniscotta Śarīrāḥ Lid
 
 tile.primal.hibachi_mud.name=Mud Hibachi
 tile.primal.hibachi_terra.name=Terracotta Hibachi
@@ -1635,6 +1635,7 @@ tooltip.info.primal.abstract_world_craft_blade=Craft in-world with a Work Blade
 tooltip.info.primal.abstract_world_craft_hammer=Craft in-world with a Gallagher
 tooltip.info.primal.abstract_world_craft_axe=Craft in-world with an Axe
 tooltip.info.primal.abstract_material_warning=Output is lossy, Upgrade tool material
+tooltip.info.primal.abstract_produces_waste=Produces waste by products
 tooltip.info.primal.abstract_plant_harvest=Fast-break plants and similar material
 
 # -- food -- #
@@ -1678,6 +1679,7 @@ tooltip.info.primal.barrel_trap=Barrel is Trapped
 tooltip.info.primal.barrel_trap_placement=Sneak-click barrel partially filled with Paraffin
 tooltip.info.primal.drying_rack_crafting=Slowly Dries Items
 tooltip.info.primal.hibachi_crafting=Cooks Items
+tooltip.info.primal.smelter_crafting=Smelts Combinations of Items
 tooltip.info.primal.shelf_storage=Sneak-click takes full stack
 tooltip.info.primal.pitfall_falldamage=Deals Damage scaled by fall height
 tooltip.info.primal.pitfall_collision=Deal Collision Damage
