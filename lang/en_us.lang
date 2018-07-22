@@ -1699,11 +1699,12 @@ tooltip.info.primal.mud_harvest=Harvest from wet farmland
 tooltip.info.primal.satetsu=砂鉄
 
 # -- jei -- #
+jei.category.primal.flake=Flaking In-World
 jei.category.primal.fish_trap=Fish Trap
 jei.category.primal.drying_rack=Drying Rack
 jei.category.primal.hibachi=Hibachi
+jei.category.primal.smelter=Śarīrāḥ
 jei.category.primal.cauldron=Cauldron
-jei.category.primal.flake=In-World Flaking
 
 jei.recipe.primal.cauldron_lid=recipe requires a lid
 

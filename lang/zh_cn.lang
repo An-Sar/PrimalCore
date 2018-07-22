@@ -1699,11 +1699,12 @@ tooltip.info.primal.mud_harvest=挖掉湿润的耕地获得
 tooltip.info.primal.satetsu=砂铁
 
 # -- jei -- #
+jei.category.primal.flake=敲片
 jei.category.primal.fish_trap=鱼栅
 jei.category.primal.drying_rack=晾晒架
 jei.category.primal.hibachi=火盆
+jei.category.primal.smelter=Śarīrāḥ
 jei.category.primal.cauldron=坩埚
-jei.category.primal.flake=敲片
 
 jei.recipe.primal.cauldron_lid=recipe requires a lid
 
