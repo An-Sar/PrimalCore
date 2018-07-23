@@ -1699,6 +1699,7 @@ tooltip.info.primal.charcoal_crafting=Burry in dirt or similar block
 tooltip.info.primal.charcoal_crafting_nether=Burry in the Nether
 tooltip.info.primal.mud_harvest=Harvest from wet farmland
 tooltip.info.primal.satetsu=砂鉄
+tooltip.info.primal.vitrified_lens=A dark opaque lens
 
 # -- jei -- #
 jei.category.primal.flake=Flaking In-World
