@@ -293,6 +293,7 @@ item.primal.llama_meat_cooked.name=Cooked Llama Meat
 item.primal.llama_meat_rotten.name=Rotten Llama Meat
 item.primal.mushroom_cooked.name=Cooked Mushroom
 item.primal.nether_wart_cooked.name=Cooked Nether Wart
+item.primal.ash_bone.name=Bone Ash
 item.primal.ash_wolf.name=Wolf Ash
 item.primal.pelt_animal.name=Animal Pelt
 item.primal.pelt_animal_large.name=Large Animal Pelt
