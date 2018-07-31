@@ -398,6 +398,7 @@ item.primal.corn_seeds.name=Corn Seeds
 item.primal.rush_seeds.name=Rush Seeds
 
 # -- Ore Items -- #
+item.primal.charcoal_mote.name=Charcoal Mote
 item.primal.charcoal_fair.name=Fair Grade Charcoal
 item.primal.charcoal_good.name=Good Grade Charcoal
 item.primal.charcoal_high.name=High Grade Charcoal
