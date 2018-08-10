@@ -1546,6 +1546,8 @@ subtitle.primal.block_cauldron_empty=坩埚：空
 subtitle.primal.block_cauldron_filled=坩埚：满
 subtitle.primal.block_cauldron_lid=坩埚盖：铛铛
 subtitle.primal.block_cauldron_add=坩埚：制作
+subtitle.primal.block_cauldron_match=Cauldron Bubble
+subtitle.primal.block_cauldron_finish=Cauldron Fizzle
 subtitle.primal.block_barrel_empty=木桶：空
 subtitle.primal.block_barrel_filled=木桶：满
 subtitle.primal.block_barrel_lid=木盖子声
@@ -1718,6 +1720,8 @@ jei.category.primal.smelter=Sariras
 jei.category.primal.cauldron=坩埚
 
 jei.recipe.primal.cauldron_lid=recipe requires a lid
+jei.recipe.primal.catalyst_unknown=requires an unknown catalyst
+jei.recipe.primal.catalyst_ingredient=contains a catalyst ingrient
 
 jei.info.primal.ladle=锅勺用于与坩埚交互。点击坩埚侧面可以显示有关当前热量和内容物的信息。点击顶部能够安全的从锅中拿取物品。
 jei.info.primal.workblade=工作刀可以用于切割皮革条，切下树皮，以及满足一些其他的生存需要。在世界中使用可以用于制作梯子以及其他物品。潜行右键以在世界中使用。

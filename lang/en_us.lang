@@ -1546,6 +1546,8 @@ subtitle.primal.block_cauldron_empty=Empty Cauldron
 subtitle.primal.block_cauldron_filled=Filled Cauldron
 subtitle.primal.block_cauldron_lid=Cauldron Lid Clank
 subtitle.primal.block_cauldron_add=Cauldron Crafting
+subtitle.primal.block_cauldron_match=Cauldron Bubble
+subtitle.primal.block_cauldron_finish=Cauldron Fizzle
 subtitle.primal.block_barrel_empty=Empty Wooden Barrel
 subtitle.primal.block_barrel_filled=Filled Wooded Barrel
 subtitle.primal.block_barrel_lid=Wooden Barrel Lid
@@ -1718,6 +1720,8 @@ jei.category.primal.smelter=Sariras
 jei.category.primal.cauldron=Cauldron
 
 jei.recipe.primal.cauldron_lid=recipe requires a lid
+jei.recipe.primal.catalyst_unknown=requires an unknown catalyst
+jei.recipe.primal.catalyst_ingredient=contains a catalyst ingrient
 
 jei.info.primal.ladle=Ladles are used to interact with an active cauldron. Hitting the side of a cauldron will display information about the current heat and contents. Hitting the top will safely fish items held within or remove lids from hot cauldrons.
 jei.info.primal.workblade=Work Blades can be used to strip hides, remove bark, and other survival tasks. Use as an in-world crafting option to create ladders and other items. Shift Right-Click to use in-world crafting.
