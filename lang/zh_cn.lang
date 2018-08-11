@@ -1556,6 +1556,7 @@ subtitle.primal.block_pottery_hit=Ceramic Hit
 subtitle.primal.block_pottery_step=Ceramic Step
 subtitle.primal.block_pottery_break=Ceramic Breaking
 subtitle.primal.block_pottery_place=Ceramic Placing
+subtitle.primal.block_pottery_active=Ceramic Stiring
 subtitle.primal.block_spikes_fall=Falling on spikes
 subtitle.primal.block_ice_freeze=Ice Freezing
 subtitle.primal.block_ooze=Oozing
@@ -1722,6 +1723,7 @@ jei.category.primal.cauldron=坩埚
 jei.recipe.primal.cauldron_lid=recipe requires a lid
 jei.recipe.primal.catalyst_unknown=requires an unknown catalyst
 jei.recipe.primal.catalyst_ingredient=contains a catalyst ingrient
+jei.recipe.primal.smeltery_passive=passive recipe
 
 jei.info.primal.ladle=锅勺用于与坩埚交互。点击坩埚侧面可以显示有关当前热量和内容物的信息。点击顶部能够安全的从锅中拿取物品。
 jei.info.primal.workblade=工作刀可以用于切割皮革条，切下树皮，以及满足一些其他的生存需要。在世界中使用可以用于制作梯子以及其他物品。潜行右键以在世界中使用。
