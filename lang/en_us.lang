@@ -1714,6 +1714,13 @@ tooltip.info.primal.vitrified_lens=A dark opaque lens
 
 # -- jei -- #
 jei.category.primal.flake=Flaking In-World
+jei.category.primal.gallagher=Gallagher In-World
+jei.category.primal.blade=Work Blade In-World
+jei.category.primal.axe=Axe In-World
+jei.category.primal.shovel=Shovel In-World
+jei.category.primal.hoe=Hoe In-World
+jei.category.primal.magma=Fluid Magma
+jei.category.primal.ice=Ancient Ice
 jei.category.primal.fish_trap=Fish Trap
 jei.category.primal.drying_rack=Drying Rack
 jei.category.primal.hibachi=Hibachi
