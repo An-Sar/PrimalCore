@@ -1614,6 +1614,7 @@ chat.message.primal.cannot_sleep=你无法睡觉
 chat.message.primal.cannot_sleep_disease=你从忐忑不安中醒来
 chat.message.primal.cannot_sleep_monster=一身冷汗将你惊醒了
 chat.message.primal.fish_trap_needs_water=鱼栅周围需要更多的水
+chat.message.primal.disabled_block=This block is not functional
 
 chat.message.debug.primal.schedule_update_restart=正在重置方块更新
 chat.message.debug.primal.schedule_update_failed=方块无法更新

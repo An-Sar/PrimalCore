@@ -1614,6 +1614,7 @@ chat.message.primal.cannot_sleep=You are unable to sleep
 chat.message.primal.cannot_sleep_disease=You wake from a restless and perturbed sleep
 chat.message.primal.cannot_sleep_monster=You wake suddenly from sleep in a cold sweat
 chat.message.primal.fish_trap_needs_water=Trap needs more water exposure
+chat.message.primal.disabled_block=This block is not functional
 
 chat.message.debug.primal.schedule_update_restart=Restarting Block Updates
 chat.message.debug.primal.schedule_update_failed=Block is not able to Update
