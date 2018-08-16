@@ -1729,8 +1729,8 @@ jei.category.primal.smelter=Sariras
 jei.category.primal.cauldron=坩埚
 
 jei.recipe.primal.cauldron_lid=recipe requires a lid
-jei.recipe.primal.catalyst_unknown=requires an unknown catalyst
-jei.recipe.primal.catalyst_ingredient=contains a catalyst ingrient
+jei.recipe.primal.catalyst_unknown=requires unknown catalyst
+jei.recipe.primal.catalyst_ingredient=contains a catalyst
 jei.recipe.primal.smeltery_passive=passive recipe
 jei.recipe.primal.variable_output=variable output amounts
 
