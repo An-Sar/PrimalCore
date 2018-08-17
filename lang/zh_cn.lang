@@ -168,6 +168,27 @@ item.primal.bronze_plate.name=青铜板
 item.primal.bronze_plate_double.name=双层青铜板
 item.primal.bronze_plate_small.name=小青铜板
 
+item.primal.aluminum_nugget.name=Aluminum Nugget
+item.primal.aluminum_dust.name=Aluminum Dust
+item.primal.aluminum_ingot.name=Aluminum Ingot
+item.primal.aluminum_plate.name=Aluminum Plate
+item.primal.aluminum_plate_double.name=Aluminum Double Plate
+item.primal.aluminum_plate_small.name=Aluminum Small Plate
+
+item.primal.nickle_nugget.name=Nickle Nugget
+item.primal.nickle_dust.name=Nickle Dust
+item.primal.nickle_ingot.name=Nickle Ingot
+item.primal.nickle_plate.name=Nickle Plate
+item.primal.nickle_plate_double.name=Nickle Double Plate
+item.primal.nickle_plate_small.name=Nickle Small Plate
+
+item.primal.platinum_nugget.name=Platinum Nugget
+item.primal.platinum_dust.name=Platinum Dust
+item.primal.platinum_ingot.name=Platinum Ingot
+item.primal.platinum_plate.name=Platinum Plate
+item.primal.platinum_plate_double.name=Platinum Double Plate
+item.primal.platinum_plate_small.name=Platinum Small Plate
+
 item.primal.wootz_plate.name=乌兹钢板
 item.primal.wootz_plate_double.name=双层乌兹钢板
 item.primal.wootz_plate_small.name=小乌兹钢板
@@ -1606,8 +1627,8 @@ death.attack.primal.daucus.player=%1$s被%2$s戳插至死
 
 # -- info -- #
 # -- chat messages -- #
-#chat.message.cannot_sleep=你现在不能睡觉，床的位置已设置
-#chat.message.cannot_sleep_or_spawn=你现在不能睡觉或者设置床的位置
+# chat.message.cannot_sleep=你现在不能睡觉，床的位置已设置
+# chat.message.cannot_sleep_or_spawn=你现在不能睡觉或者设置床的位置
 chat.message.primal.set_spawn=床的位置已设置
 chat.message.primal.cannot_set_spawn=你现在不能设置床的位置
 chat.message.primal.cannot_sleep=你无法睡觉
@@ -1764,8 +1785,8 @@ jei.info.primal.aconite=就像其他的部分一样，乌头草的根因其猛�
 jei.info.primal.cineris=请谨慎的种植这个看上去很奇怪的种子。
 jei.info.primal.soulglass=灵魂玻璃那黑暗的着色能阻挡大部分的光。它寒冷的表面就如冰一般刺骨。
 jei.info.primal.pitfall=陷阱尖刺就是为了致命的陷阱而诞生的。另外，在尖刺下面放各种方块可提供各种效果，例如：羊毛，金块，还有岩浆块。
-jei.info.primal.ancient_ice=Clouded and dark from acclimated dust and grime, this ice has survived centuries frozen beneath the ground.
-jei.info.primal.ovis_atre_wool=Ovis Atre wool can be used in the crafting of armor, fall protection, and removing unwanted fluids from a cauldron or barrel.
+jei.info.primal.ancient_ice=Stained a solid dark, this ice has survived centuries frozen beneath the ground.
+jei.info.primal.ovis_atre_wool=Ovis Atre wool can be used in the crafting of armor, impact protection, and removing unwanted fluids from a cauldron or barrel.
 jei.info.primal.satetsu=
 jei.info.primal.nethergrowth=
 
@@ -1833,4 +1854,3 @@ primal.features.charcoal_pit_output.tooltip=燃烧原木堆能得到的木炭数
 primal.features.charcoal_pit_output.min.tooltip=最小掉落数量
 primal.features.charcoal_pit_output.max.tooltip=最大掉落数量
 
-# -- End -- #
