@@ -128,7 +128,6 @@ item.primal.bottle_paraffin.name=Bottle of Paraffin
 item.primal.bottle_bitumen.name=Bottle of Boiling Bitumen
 item.primal.chunk_netherrack.name=Chunk of Netherrack
 item.primal.chunk_soulsand.name=Chunk of Soulsand
-item.primal.ovis_atre_cloth.name=Ovis Atre Cloth
 
 item.primal.sword_crude_bone.name=Crude Bone Blade
 item.primal.sword_crude_flint.name=Crude Flint Blade
@@ -1673,6 +1672,7 @@ tooltip.info.primal.abstract_world_craft_axe=Craft in-world with an Axe
 tooltip.info.primal.abstract_material_warning=Output is lossy, Upgrade tool material
 tooltip.info.primal.abstract_produces_waste=Produces waste by products
 tooltip.info.primal.abstract_plant_harvest=Fast-break plants and similar material
+tooltip.info.primal.abstract_fall_protection=Reduces Fall Damage
 
 # -- food -- #
 tooltip.info.primal.food_is_bait=Bait Fish Traps
