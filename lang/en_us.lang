@@ -1415,7 +1415,8 @@ tile.primal.mud_block.name=Mud
 tile.primal.terraclay_block.name=Terra Clay
 tile.primal.cinisclay_block.name=Cinis Clay
 
-tile.primal.ovis_wool.name=Ovis Atre Wool
+tile.primal.ovis_atre_wool.name=Ovis Atre Wool
+tile.primal.ovis_atre_carpet.name=Ovis Atre Carpet
 tile.primal.grated_gravel.name=Grated Gravel
 tile.primal.redstone_sand.name=Redstone Sand
 

@@ -1415,7 +1415,8 @@ tile.primal.mud_block.name=淤泥
 tile.primal.terraclay_block.name=赤陶土
 tile.primal.cinisclay_block.name=灰烬陶土
 
-tile.primal.ovis_wool.name=暗黑羊毛
+tile.primal.ovis_atre_wool.name=暗黑羊毛
+tile.primal.ovis_atre_carpet.name=Ovis Atre Carpet
 tile.primal.grated_gravel.name=碎沙砾
 tile.primal.redstone_sand.name=红石沙子
 
