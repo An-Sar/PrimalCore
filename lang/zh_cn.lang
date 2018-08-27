@@ -240,6 +240,19 @@ item.primal.leaf_jungle.name=丛林树叶
 item.primal.leaf_oak.name=橡树叶
 item.primal.leaf_spruce.name=云杉树叶
 
+# -- buckets
+item.primal.bucket_clay_soft.name=Unfired Clay Bucket
+item.primal.bucket_clay.name=Clay Bucket
+item.primal.bucket_clay.filled.name=%s Clay Bucket
+
+item.primal.bucket_terra_soft.name=Unfired Terra Bucket
+item.primal.bucket_terra.name=Terracotta Bucket
+item.primal.bucket_terra.filled.name=%s Terracotta Bucket
+
+item.primal.bucket_cinis_soft.name=Unfired Cinis Bucket
+item.primal.bucket_cinis.name=Ciniscotta Bucket
+item.primal.bucket_cinis.filled.name=%s Ciniscotta Bucket
+
 # -- foods
 item.primal.lard.name=猪油
 item.primal.suet.name=牛脂
@@ -1648,6 +1661,7 @@ tooltip.info.primal.debug_item=这是一个调试工具
 
 # -- shared -- #
 tooltip.info.primal.abstract_dev_warning=这个物品还在开发中
+tooltip.info.primal.abstract_fire_unsafe=Unsafe to contain hot fluids
 tooltip.info.primal.abstract_fire_proof=耐火
 tooltip.info.primal.abstract_fire_hazard=高度易燃
 tooltip.info.primal.abstract_wet_block=放在世界中干燥

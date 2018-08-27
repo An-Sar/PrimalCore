@@ -240,6 +240,19 @@ item.primal.leaf_jungle.name=Jungle Wood Leaf
 item.primal.leaf_oak.name=Oak Leaf
 item.primal.leaf_spruce.name=Spruce Leaf
 
+# -- buckets
+item.primal.bucket_clay_soft.name=Unfired Clay Bucket
+item.primal.bucket_clay.name=Clay Bucket
+item.primal.bucket_clay.filled.name=%s Clay Bucket
+
+item.primal.bucket_terra_soft.name=Unfired Terra Bucket
+item.primal.bucket_terra.name=Terracotta Bucket
+item.primal.bucket_terra.filled.name=%s Terracotta Bucket
+
+item.primal.bucket_cinis_soft.name=Unfired Cinis Bucket
+item.primal.bucket_cinis.name=Ciniscotta Bucket
+item.primal.bucket_cinis.filled.name=%s Ciniscotta Bucket
+
 # -- foods
 item.primal.lard.name=Lard
 item.primal.suet.name=Suet
@@ -1648,6 +1661,7 @@ tooltip.info.primal.debug_item=This is a debug tool
 
 # -- shared -- #
 tooltip.info.primal.abstract_dev_warning=This is currently in development
+tooltip.info.primal.abstract_fire_unsafe=Unsafe to contain hot fluids
 tooltip.info.primal.abstract_fire_proof=Fire Proof
 tooltip.info.primal.abstract_fire_hazard=Highly Flammable
 tooltip.info.primal.abstract_wet_block=Place in-world to Dry
