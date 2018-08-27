@@ -242,14 +242,17 @@ item.primal.leaf_spruce.name=云杉树叶
 
 # -- buckets
 item.primal.bucket_clay_soft.name=Unfired Clay Bucket
+item.primal.bucket_clay_milk.name=Milk Clay Bucket
 item.primal.bucket_clay.name=Clay Bucket
 item.primal.bucket_clay.filled.name=%s Clay Bucket
 
 item.primal.bucket_terra_soft.name=Unfired Terra Bucket
+item.primal.bucket_terra_milk.name=Milk Terra Bucket
 item.primal.bucket_terra.name=Terracotta Bucket
 item.primal.bucket_terra.filled.name=%s Terracotta Bucket
 
 item.primal.bucket_cinis_soft.name=Unfired Cinis Bucket
+item.primal.bucket_cinis_milk.name=Milk Cinis Bucket
 item.primal.bucket_cinis.name=Ciniscotta Bucket
 item.primal.bucket_cinis.filled.name=%s Ciniscotta Bucket
 
