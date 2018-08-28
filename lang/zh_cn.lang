@@ -435,6 +435,7 @@ item.primal.armor_ovis_feet.name=暗黑羊靴
 # -- seeds
 item.primal.corn_seeds.name=玉米种子
 item.primal.rush_seeds.name=灯心草种子
+item.primal.rush_seeds_cooked.name=Roasted Rush Seeds
 
 # -- Ore Items -- #
 item.primal.charcoal_mote.name=Charcoal Mote

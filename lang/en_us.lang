@@ -434,6 +434,7 @@ item.primal.armor_ovis_feet.name=Ovis Boots
 # -- seeds
 item.primal.corn_seeds.name=Corn Seeds
 item.primal.rush_seeds.name=Rush Seeds
+item.primal.rush_seeds_cooked.name=Roasted Rush Seeds
 
 # -- Ore Items -- #
 item.primal.charcoal_mote.name=Charcoal Mote
