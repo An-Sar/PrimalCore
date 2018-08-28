@@ -257,11 +257,12 @@ item.primal.bucket_cinis.name=Ciniscotta Bucket
 item.primal.bucket_cinis.filled.name=%s Ciniscotta Bucket
 
 # -- foods
-item.primal.lard.name=猪油
-item.primal.suet.name=牛脂
 item.primal.salo.name=萨烙
 item.primal.chum.name=肉末
 item.primal.animal_fur.name=动物皮毛
+item.primal.animal_fat.name=Animal Fat
+item.primal.animal_fat_nether.name=Sinuous Fat
+item.primal.tallow.name=Tallow
 item.primal.fish_lava_crawdad_raw.name=生熔岩小龙虾
 item.primal.fish_lava_crawdad_salted.name=腌制熔岩小龙虾
 item.primal.fish_lava_crawdad_dried.name=熔岩小龙虾干

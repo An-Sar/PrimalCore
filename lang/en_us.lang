@@ -257,11 +257,12 @@ item.primal.bucket_cinis.name=Ciniscotta Bucket
 item.primal.bucket_cinis.filled.name=%s Ciniscotta Bucket
 
 # -- foods
-item.primal.lard.name=Lard
-item.primal.suet.name=Suet
 item.primal.salo.name=Salo
 item.primal.chum.name=Chum
 item.primal.animal_fur.name=Animal Fur
+item.primal.animal_fat.name=Animal Fat
+item.primal.animal_fat_nether.name=Sinuous Fat
+item.primal.tallow.name=Tallow
 item.primal.fish_lava_crawdad_raw.name=Raw Magma Crawdad
 item.primal.fish_lava_crawdad_salted.name=Salted Magma Crawdad
 item.primal.fish_lava_crawdad_dried.name=Dried Magma Crawdad
@@ -322,7 +323,6 @@ item.primal.bear_meat_salted.name=Salted Bear Meat
 item.primal.bear_meat_dried.name=Dried Bear Meat
 item.primal.bear_meat_cooked.name=Cooked Bear Meat
 item.primal.bear_meat_rotten.name=Rotten Bear Meat
-item.primal.bear_fat.name=Bear Fat
 item.primal.llama_meat_raw.name=Raw Llama Meat
 item.primal.llama_meat_salted.name=Salted Llama Meat
 item.primal.llama_meat_charqui.name=Charqui
