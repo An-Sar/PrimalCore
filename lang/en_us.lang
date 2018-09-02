@@ -28,9 +28,9 @@ item.primal.cauldron_ladle_corypha.name=Corypha Cauldron Ladle
 item.primal.cauldron_ladle_lacquer.name=Lacquer Cauldron Ladle
 item.primal.cauldron_ladle_yew.name=Yew Cauldron Ladle
 item.primal.cauldron_ladle_bone.name=Bone Cauldron Ladle
-item.primal.adobebrick_wet.name=Wet Adobe Brick
-item.primal.adobebrick_dry.name=Dry Adobe Brick
-item.primal.adobebrick_mix.name=Adobe Brick Mix
+item.primal.adobe_brick_wet.name=Wet Adobe Brick
+item.primal.adobe_brick_dry.name=Dry Adobe Brick
+item.primal.adobe_clump.name=Adobe Brick Mix
 item.primal.plant_fiber.name=Plant Fiber
 item.primal.plant_fiber_pulp.name=Plant Fiber Pulp
 item.primal.plant_cordage.name=Plant Twine
@@ -204,13 +204,13 @@ item.primal.quartz_point.name=Flaked Quartz Point
 item.primal.quartz_vitrified.name=Vitrified Quartz
 item.primal.quartz_vitrified_lens.name=Vitrified Quartz Lens
 
-item.primal.cinisclay_clump.name=Cinis Clay Clump
-item.primal.cinisclay_brick.name=Ciniscotta Unfired Brick
-item.primal.ciniscotta_brick.name=Ciniscotta Brick
+item.primal.cinis_clump.name=Cinis Clay Clump
+item.primal.cinis_brick_wet.name=Unfired Ciniscotta Brick
+item.primal.cinis_brick_dry.name=Ciniscotta Brick
 
-item.primal.terraclay_clump.name=Terra Clay Clump
-item.primal.terraclay_brick.name=Terracotta Unfired Brick
-item.primal.terracotta_brick.name=Terracotta Brick
+item.primal.terra_clump.name=Terra Clay Clump
+item.primal.terra_brick_wet.name=Unfired Terracotta Brick
+item.primal.terra_brick_dry.name=Terracotta Brick
 
 item.primal.bark_acacia.name=Acacia Bark
 item.primal.bark_bigoak.name=Dark Oak Bark
@@ -591,7 +591,7 @@ tile.primal.door_ironwood.name=Ironwood Door
 tile.primal.door_yew.name=Yew Door
 tile.primal.door_corypha.name=Corphyry Door
 
-tile.primal.adobebrick.name=Adobe Brick
+tile.primal.adobe_brick.name=Adobe Brick
 tile.primal.brickform.name=Brick Form
 
 tile.primal.lever_wood.name=Lever
@@ -1430,13 +1430,24 @@ tile.primal.terracotta_block_face.name=Mysterious Terracotta
 tile.primal.terracotta_block_pillar.name=Terracotta Pillar
 
 tile.primal.mud_block.name=Mud
-tile.primal.terraclay_block.name=Terra Clay
-tile.primal.cinisclay_block.name=Cinis Clay
+tile.primal.terra_block.name=Terra Clay
+tile.primal.cinis_block.name=Cinis Clay
 
 tile.primal.ovis_atre_wool.name=Ovis Atre Wool
 tile.primal.carpet_ovis_atre.name=Ovis Atre Carpet
 tile.primal.grated_gravel.name=Grated Gravel
 tile.primal.redstone_sand.name=Redstone Sand
+
+tile.primal.brick_mold_oak.name=Oak Brick Mold
+tile.primal.brick_mold_spruce.name=Spruce Brick Mold
+tile.primal.brick_mold_birch.name=Birch Brick Mold
+tile.primal.brick_mold_jungle.name=Jungle Brick Mold
+tile.primal.brick_mold_acacia.name=Acacia Brick Mold
+tile.primal.brick_mold_dark_oak.name=Dark Oak Brick Mold
+tile.primal.brick_mold_yew.name=Yew Brick Mold
+tile.primal.brick_mold_ironwood.name=Ironwood Brick Mold
+tile.primal.brick_mold_lacquer.name=Lacquer Brick Mold
+tile.primal.brick_mold_corypha.name=Corphyry Brick Mold
 
 tile.primal.worktable_shelf_oak.name=Oak Crafting Table
 tile.primal.worktable_shelf_spruce.name=Spruce Crafting Table
@@ -1754,6 +1765,7 @@ tooltip.info.primal.charcoal_crafting_nether=Burry in the Nether
 tooltip.info.primal.mud_harvest=Harvest from wet farmland
 tooltip.info.primal.satetsu=砂鉄
 tooltip.info.primal.vitrified_lens=A dark opaque lens
+tooltip.info.primal.brick_mold_crafting=Presses Mud or Clay Bricks
 
 # -- jei -- #
 jei.category.primal.flake=Flaking In-World
@@ -1765,6 +1777,7 @@ jei.category.primal.hoe=Hoe In-World
 jei.category.primal.magma=Fluid Magma
 jei.category.primal.ice=Ancient Ice
 jei.category.primal.fish_trap=Fish Trap
+jei.category.primal.brick_mold=Brick Mold
 jei.category.primal.drying_rack=Drying Rack
 jei.category.primal.hibachi=Hibachi
 jei.category.primal.smelter=Sariras

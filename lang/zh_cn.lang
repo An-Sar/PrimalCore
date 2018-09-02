@@ -28,9 +28,9 @@ item.primal.cauldron_ladle_corypha.name=巨管虫锅勺
 item.primal.cauldron_ladle_lacquer.name=清漆木锅勺
 item.primal.cauldron_ladle_yew.name=Yew Cauldron Ladle
 item.primal.cauldron_ladle_bone.name=Bone Cauldron Ladle
-item.primal.adobebrick_wet.name=湿土砖
-item.primal.adobebrick_dry.name=干土砖
-item.primal.adobebrick_mix.name=土坯混合物
+item.primal.adobe_brick_wet.name=湿土砖
+item.primal.adobe_brick_dry.name=干土砖
+item.primal.adobe_clump.name=土坯混合物
 item.primal.plant_fiber.name=杂草纤维
 item.primal.plant_fiber_pulp.name=杂草纤维纸浆
 item.primal.plant_cordage.name=杂草麻绳
@@ -204,13 +204,13 @@ item.primal.quartz_point.name=石英片尖粒
 item.primal.quartz_vitrified.name=Vitrified Quartz
 item.primal.quartz_vitrified_lens.name=Vitrified Quartz Lens
 
-item.primal.cinisclay_clump.name=块状灰烬陶土
-item.primal.cinisclay_brick.name=未烧制的灰烬陶砖
-item.primal.ciniscotta_brick.name=灰烬陶砖
+item.primal.cinis_clump.name=块状灰烬陶土
+item.primal.cinis_brick_wet.name=未烧制的灰烬陶砖
+item.primal.cinis_brick_dry.name=灰烬陶砖
 
-item.primal.terraclay_clump.name=块状赤陶土
-item.primal.terraclay_brick.name=未烧制的赤陶砖
-item.primal.terracotta_brick.name=赤陶砖
+item.primal.terra_clump.name=块状赤陶土
+item.primal.terra_brick_wet.name=未烧制的赤陶砖
+item.primal.terra_brick_dry.name=赤陶砖
 
 item.primal.bark_acacia.name=金合欢树皮
 item.primal.bark_bigoak.name=深色橡树皮
@@ -592,7 +592,7 @@ tile.primal.door_ironwood.name=铁木门
 tile.primal.door_yew.name=紫杉木门
 tile.primal.door_corypha.name=巨管虫门
 
-tile.primal.adobebrick.name=土砖
+tile.primal.adobe_brick.name=土砖
 tile.primal.brickform.name=砖模具
 
 tile.primal.lever_wood.name=拉杆
@@ -1431,13 +1431,24 @@ tile.primal.terracotta_block_face.name=神秘赤陶块
 tile.primal.terracotta_block_pillar.name=赤陶块柱
 
 tile.primal.mud_block.name=淤泥
-tile.primal.terraclay_block.name=赤陶土
-tile.primal.cinisclay_block.name=灰烬陶土
+tile.primal.terra_block.name=赤陶土
+tile.primal.cinis_block.name=灰烬陶土
 
 tile.primal.ovis_atre_wool.name=暗黑羊毛
 tile.primal.carpet_ovis_atre.name=Ovis Atre Carpet
 tile.primal.grated_gravel.name=碎沙砾
 tile.primal.redstone_sand.name=红石沙子
+
+tile.primal.brick_mold_oak.name=Oak Brick Mold
+tile.primal.brick_mold_spruce.name=Spruce Brick Mold
+tile.primal.brick_mold_birch.name=Birch Brick Mold
+tile.primal.brick_mold_jungle.name=Jungle Brick Mold
+tile.primal.brick_mold_acacia.name=Acacia Brick Mold
+tile.primal.brick_mold_dark_oak.name=Dark Oak Brick Mold
+tile.primal.brick_mold_yew.name=Yew Brick Mold
+tile.primal.brick_mold_ironwood.name=Ironwood Brick Mold
+tile.primal.brick_mold_lacquer.name=Lacquer Brick Mold
+tile.primal.brick_mold_corypha.name=Corphyry Brick Mold
 
 tile.primal.worktable_shelf_oak.name=橡木工作台
 tile.primal.worktable_shelf_spruce.name=云杉木工作台
@@ -1755,6 +1766,7 @@ tooltip.info.primal.charcoal_crafting_nether=Burry in the Nether
 tooltip.info.primal.mud_harvest=挖掉湿润的耕地获得
 tooltip.info.primal.satetsu=砂铁
 tooltip.info.primal.vitrified_lens=A dark opaque lens
+tooltip.info.primal.brick_mold_crafting=Presses Mud or Clay Bricks
 
 # -- jei -- #
 jei.category.primal.flake=敲片
@@ -1766,6 +1778,7 @@ jei.category.primal.hoe=Hoe In-World
 jei.category.primal.magma=Fluid Magma
 jei.category.primal.ice=Ancient Ice
 jei.category.primal.fish_trap=鱼栅
+jei.category.primal.brick_mold=Brick Mold
 jei.category.primal.drying_rack=晾晒架
 jei.category.primal.hibachi=火盆
 jei.category.primal.smelter=Sariras
