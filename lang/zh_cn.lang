@@ -17,7 +17,6 @@ item.primal.rock_netherrack.name=地狱岩石块
 item.primal.rock_sarsen.name=漂砾石块
 item.primal.rock_stone.name=石块
 item.primal.rock_vitrified.name=玻璃化石块
-item.primal.mud_clump.name=泥块
 item.primal.bitumin_clump.name=沥青块
 item.primal.wax_residue.name=粘液残渣
 item.primal.soul_residue.name=Soul Residue
@@ -28,9 +27,6 @@ item.primal.cauldron_ladle_corypha.name=巨管虫锅勺
 item.primal.cauldron_ladle_lacquer.name=清漆木锅勺
 item.primal.cauldron_ladle_yew.name=Yew Cauldron Ladle
 item.primal.cauldron_ladle_bone.name=Bone Cauldron Ladle
-item.primal.adobe_brick_wet.name=湿土砖
-item.primal.adobe_brick_dry.name=干土砖
-item.primal.adobe_clump.name=土坯混合物
 item.primal.plant_fiber.name=杂草纤维
 item.primal.plant_fiber_pulp.name=杂草纤维纸浆
 item.primal.plant_cordage.name=杂草麻绳
@@ -204,13 +200,21 @@ item.primal.quartz_point.name=石英片尖粒
 item.primal.quartz_vitrified.name=Vitrified Quartz
 item.primal.quartz_vitrified_lens.name=Vitrified Quartz Lens
 
-item.primal.cinis_clump.name=块状灰烬陶土
-item.primal.cinis_brick_wet.name=未烧制的灰烬陶砖
-item.primal.cinis_brick_dry.name=灰烬陶砖
+item.primal.mud_clump.name=泥块
+item.primal.mud_brick_wet.name=Wet Mud Brick
+item.primal.mud_brick_dry.name=Mud Brick
 
 item.primal.terra_clump.name=块状赤陶土
 item.primal.terra_brick_wet.name=未烧制的赤陶砖
 item.primal.terra_brick_dry.name=赤陶砖
+
+item.primal.cinis_clump.name=块状灰烬陶土
+item.primal.cinis_brick_wet.name=未烧制的灰烬陶砖
+item.primal.cinis_brick_dry.name=灰烬陶砖
+
+item.primal.adobe_clump.name=土坯混合物
+item.primal.adobe_brick_wet.name=湿土砖
+item.primal.adobe_brick_dry.name=干土砖
 
 item.primal.bark_acacia.name=金合欢树皮
 item.primal.bark_bigoak.name=深色橡树皮

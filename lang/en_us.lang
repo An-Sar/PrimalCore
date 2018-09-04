@@ -17,7 +17,6 @@ item.primal.rock_netherrack.name=Netherrack Rock
 item.primal.rock_sarsen.name=Sarsen Rock
 item.primal.rock_stone.name=Rock
 item.primal.rock_vitrified.name=Vitrified Rock
-item.primal.mud_clump.name=Mud Clump
 item.primal.bitumin_clump.name=Bituminous Clump
 item.primal.wax_residue.name=Wax Residue
 item.primal.soul_residue.name=Soul Residue
@@ -28,9 +27,6 @@ item.primal.cauldron_ladle_corypha.name=Corypha Cauldron Ladle
 item.primal.cauldron_ladle_lacquer.name=Lacquer Cauldron Ladle
 item.primal.cauldron_ladle_yew.name=Yew Cauldron Ladle
 item.primal.cauldron_ladle_bone.name=Bone Cauldron Ladle
-item.primal.adobe_brick_wet.name=Wet Adobe Brick
-item.primal.adobe_brick_dry.name=Dry Adobe Brick
-item.primal.adobe_clump.name=Adobe Brick Mix
 item.primal.plant_fiber.name=Plant Fiber
 item.primal.plant_fiber_pulp.name=Plant Fiber Pulp
 item.primal.plant_cordage.name=Plant Twine
@@ -204,13 +200,21 @@ item.primal.quartz_point.name=Flaked Quartz Point
 item.primal.quartz_vitrified.name=Vitrified Quartz
 item.primal.quartz_vitrified_lens.name=Vitrified Quartz Lens
 
-item.primal.cinis_clump.name=Cinis Clay Clump
-item.primal.cinis_brick_wet.name=Unfired Ciniscotta Brick
-item.primal.cinis_brick_dry.name=Ciniscotta Brick
+item.primal.mud_clump.name=Mud Clump
+item.primal.mud_brick_wet.name=Wet Mud Brick
+item.primal.mud_brick_dry.name=Mud Brick
 
 item.primal.terra_clump.name=Terra Clay Clump
-item.primal.terra_brick_wet.name=Unfired Terracotta Brick
+item.primal.terra_brick_wet.name=Wet Terracotta Brick
 item.primal.terra_brick_dry.name=Terracotta Brick
+
+item.primal.cinis_clump.name=Cinis Clay Clump
+item.primal.cinis_brick_wet.name=Wet Ciniscotta Brick
+item.primal.cinis_brick_dry.name=Ciniscotta Brick
+
+item.primal.adobe_clump.name=Adobe Brick Mix
+item.primal.adobe_brick_wet.name=Wet Adobe Brick
+item.primal.adobe_brick_dry.name=Dry Adobe Brick
 
 item.primal.bark_acacia.name=Acacia Bark
 item.primal.bark_bigoak.name=Dark Oak Bark
