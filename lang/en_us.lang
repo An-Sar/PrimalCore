@@ -1137,7 +1137,7 @@ tile.primal.daub_lacquer_white.name=White Daub Lacquer Wattle
 tile.primal.daub_lacquer_yellow.name=Yellow Daub Lacquer Wattle
 
 tile.primal.shelf_half_acacia.name=Acacia Shelf
-tile.primal.shelf_half_bigoak.name=Dark Oak Shelf
+tile.primal.shelf_half_dark_oak.name=Dark Oak Shelf
 tile.primal.shelf_half_birch.name=Birch Shelf
 tile.primal.shelf_half_endstone.name=Endstone Shelf
 tile.primal.shelf_half_endbrick.name=Endbrick Shelf

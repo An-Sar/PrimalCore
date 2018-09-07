@@ -1138,7 +1138,7 @@ tile.primal.daub_lacquer_white.name=白色泥浆清漆木篱笆
 tile.primal.daub_lacquer_yellow.name=黄色泥浆清漆木篱笆
 
 tile.primal.shelf_half_acacia.name=金合欢木置物架
-tile.primal.shelf_half_bigoak.name=深色橡木置物架
+tile.primal.shelf_half_dark_oak.name=深色橡木置物架
 tile.primal.shelf_half_birch.name=白桦木置物架
 tile.primal.shelf_half_endstone.name=末地石置物架
 tile.primal.shelf_half_endbrick.name=末地石砖置物架
