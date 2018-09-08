@@ -171,12 +171,12 @@ item.primal.aluminum_plate.name=Aluminum Plate
 item.primal.aluminum_plate_double.name=Aluminum Double Plate
 item.primal.aluminum_plate_small.name=Aluminum Small Plate
 
-item.primal.nickle_nugget.name=Nickle Nugget
-item.primal.nickle_dust.name=Nickle Dust
-item.primal.nickle_ingot.name=Nickle Ingot
-item.primal.nickle_plate.name=Nickle Plate
-item.primal.nickle_plate_double.name=Nickle Double Plate
-item.primal.nickle_plate_small.name=Nickle Small Plate
+item.primal.nickel_nugget.name=Nickel Nugget
+item.primal.nickel_dust.name=Nickel Dust
+item.primal.nickel_ingot.name=Nickel Ingot
+item.primal.nickel_plate.name=Nickel Plate
+item.primal.nickel_plate_double.name=Nickel Double Plate
+item.primal.nickel_plate_small.name=Nickel Small Plate
 
 item.primal.platinum_nugget.name=Platinum Nugget
 item.primal.platinum_dust.name=Platinum Dust
