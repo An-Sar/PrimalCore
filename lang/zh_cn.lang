@@ -1602,6 +1602,7 @@ subtitle.primal.block_cauldron_empty=坩埚：空
 subtitle.primal.block_cauldron_filled=坩埚：满
 subtitle.primal.block_cauldron_lid=坩埚盖：铛铛
 subtitle.primal.block_cauldron_add=坩埚：制作
+subtitle.primal.block_cauldron_take=Cauldron Take
 subtitle.primal.block_cauldron_match=Cauldron Bubble
 subtitle.primal.block_cauldron_finish=Cauldron Fizzle
 subtitle.primal.block_barrel_empty=木桶：空
@@ -1615,7 +1616,9 @@ subtitle.primal.block_pottery_place=Ceramic Placing
 subtitle.primal.block_pottery_active=Ceramic Stiring
 subtitle.primal.block_spikes_fall=Falling on spikes
 subtitle.primal.block_ice_freeze=Ice Freezing
+subtitle.primal.block_ice_break=Ice Breaking
 subtitle.primal.block_ooze=Oozing
+subtitle.primal.fluid_swish=Fluid Swishing
 subtitle.primal.fluid_splash=液体：飞溅
 subtitle.primal.misc_steam=蒸汽：嘶嘶
 
