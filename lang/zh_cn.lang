@@ -1617,6 +1617,7 @@ subtitle.primal.block_pottery_active=Ceramic Stiring
 subtitle.primal.block_spikes_fall=Falling on spikes
 subtitle.primal.block_ice_freeze=Ice Freezing
 subtitle.primal.block_ice_break=Ice Breaking
+subtitle.primal.block_ice_place=Ice Impact
 subtitle.primal.block_ooze=Oozing
 subtitle.primal.fluid_swish=Fluid Swishing
 subtitle.primal.fluid_splash=液体：飞溅
