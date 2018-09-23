@@ -98,6 +98,12 @@ item.primal.steel_plate.name=Steel Plate
 item.primal.tamahagane_bloom.name=Tamahagane Bloom
 item.primal.tamahagane_ingot.name=Tamahagane Ingot
 item.primal.tamahagane_plate.name=Tamahagane Plate
+item.primal.tamahagane_dust.name=Tamahagane Dust
+item.primal.tamahagane_nugget.name=Tamahagane Nugget
+item.primal.shibuichi_ingot.name=Shibuichi Ingot
+item.primal.shibuichi_plate.name=Shibuichi Plate
+item.primal.shibuichi_dust.name=Shibuichi Dust
+item.primal.shibuichi_nugget.name=Shibuichi Nugget
 item.primal.carbon_plate.name=Carbon Plate
 item.primal.diamond_plate.name=Diamond Plate
 item.primal.gold_plate.name=Gold Plate
@@ -184,6 +190,13 @@ item.primal.platinum_ingot.name=Platinum Ingot
 item.primal.platinum_plate.name=Platinum Plate
 item.primal.platinum_plate_double.name=Platinum Double Plate
 item.primal.platinum_plate_small.name=Platinum Small Plate
+
+item.primal.adamant_nugget.name=Adamant Nugget
+item.primal.adamant_dust.name=Adamant Dust
+item.primal.adamant_ingot.name=Adamant Ingot
+item.primal.adamant_plate.name=Adamant Plate
+item.primal.adamant_plate_double.name=Adamant Double Plate
+item.primal.adamant_plate_small.name=Adamant Small Plate
 
 item.primal.wootz_plate.name=Wootz Plate
 item.primal.wootz_plate_double.name=Wootz Double Plate
@@ -1153,6 +1166,17 @@ tile.primal.shelf_half_sandstone.name=Sandstone Shelf
 tile.primal.shelf_half_spruce.name=Spruce Shelf
 tile.primal.shelf_half_lacquer.name=Lacquer Shelf
 
+tile.primal.tatami_bed_oak.name=Oak Tatami Bed
+tile.primal.tatami_bed_spruce.name=Spruce Tatami Bed
+tile.primal.tatami_bed_birch.name=Birch Tatami Bed
+tile.primal.tatami_bed_jungle.name=Jungle Tatami Bed
+tile.primal.tatami_bed_dark_oak.name=Dark Oak Tatami Bed
+tile.primal.tatami_bed_acacia.name=Acacia Tatami Bed
+tile.primal.tatami_bed_ironwood.name=Ironwood Tatami Bed
+tile.primal.tatami_bed_yew.name=Yew Tatami Bed
+tile.primal.tatami_bed_corypha.name=Corphyry Tatami Bed
+tile.primal.tatami_bed_lacquer.name=Lacquer Tatami Bed
+
 tile.primal.cauldron.name=Iron Cauldron
 item.primal.cauldron_lid.name=Iron Cauldron Lid
 
@@ -1540,12 +1564,16 @@ tile.primal.metalblock_lead.name=Lead Block
 tile.primal.metalblock_crude_iron.name=Crude Iron Block
 tile.primal.metalblock_steel.name=Steel Block
 tile.primal.metalblock_tamahagane.name=Tamahagane Block
+tile.primal.metalblock_shibuichi.name=Shibuichi Block
 tile.primal.metalblock_adamant.name=Adaman Block
 tile.primal.metalblock_silver.name=Silver Block
 tile.primal.metalblock_tin.name=Tin Block
 tile.primal.metalblock_zinc.name=Zinc Block
 tile.primal.metalblock_wootz.name=Wootz Steel Block
 tile.primal.metalblock_vanadium.name=Vanadium Block
+tile.primal.metalblock_aluminum.name=Aluminum Block
+tile.primal.metalblock_platinum.name=Platinum Block
+tile.primal.metalblock_nickel.name=Nickel Block
 
 # -- Fluid --　＃
 tile.primal.fluid.smoke.name=Smoke
@@ -1638,6 +1666,9 @@ death.attack.primal.ironwood.player=%1$s was slain by %2$s
 
 death.attack.primal.block=%s died from blunt force trauma
 death.attack.primal.block.player=%1$s died from blunt force trauma whilst fighting %2$s
+
+death.attack.primal.drain=%s died mysteriously
+death.attack.primal.drain.player=%1$s died mysteriously whilst fighting %2$s
 
 death.attack.primal.sun=%s was eviscerated
 death.attack.primal.sun.player=%1$s was eviscerated whilst fighting %2$s

@@ -98,6 +98,12 @@ item.primal.steel_plate.name=钢板
 item.primal.tamahagane_bloom.name=块状玉钢
 item.primal.tamahagane_ingot.name=玉钢锭
 item.primal.tamahagane_plate.name=玉钢板
+item.primal.tamahagane_dust.name=玉钢 Dust
+item.primal.tamahagane_nugget.name=玉钢 Nugget
+item.primal.shibuichi_ingot.name=四分一锭
+item.primal.shibuichi_plate.name=四分一板
+item.primal.shibuichi_dust.name=四分一 Dust
+item.primal.shibuichi_nugget.name=四分一 Nugget
 item.primal.carbon_plate.name=碳板
 item.primal.diamond_plate.name=钻石板
 item.primal.gold_plate.name=金板
@@ -184,6 +190,13 @@ item.primal.platinum_ingot.name=Platinum Ingot
 item.primal.platinum_plate.name=Platinum Plate
 item.primal.platinum_plate_double.name=Platinum Double Plate
 item.primal.platinum_plate_small.name=Platinum Small Plate
+
+item.primal.adamant_nugget.name=Adamant Nugget
+item.primal.adamant_dust.name=Adamant Dust
+item.primal.adamant_ingot.name=Adamant Ingot
+item.primal.adamant_plate.name=Adamant Plate
+item.primal.adamant_plate_double.name=Adamant Double Plate
+item.primal.adamant_plate_small.name=Adamant Small Plate
 
 item.primal.wootz_plate.name=乌兹钢板
 item.primal.wootz_plate_double.name=双层乌兹钢板
@@ -1154,6 +1167,17 @@ tile.primal.shelf_half_sandstone.name=沙石置物架
 tile.primal.shelf_half_spruce.name=云杉木置物架
 tile.primal.shelf_half_lacquer.name=清漆木置物架
 
+tile.primal.tatami_bed_oak.name=Oak Tatami Bed
+tile.primal.tatami_bed_spruce.name=Spruce Tatami Bed
+tile.primal.tatami_bed_birch.name=Birch Tatami Bed
+tile.primal.tatami_bed_jungle.name=Jungle Tatami Bed
+tile.primal.tatami_bed_dark_oak.name=Dark Oak Tatami Bed
+tile.primal.tatami_bed_acacia.name=Acacia Tatami Bed
+tile.primal.tatami_bed_ironwood.name=Ironwood Tatami Bed
+tile.primal.tatami_bed_yew.name=Yew Tatami Bed
+tile.primal.tatami_bed_corypha.name=Corphyry Tatami Bed
+tile.primal.tatami_bed_lacquer.name=Lacquer Tatami Bed
+
 tile.primal.cauldron.name=坩埚
 item.primal.cauldron_lid.name=铁锅盖
 
@@ -1541,12 +1565,16 @@ tile.primal.metalblock_lead.name=铅块
 tile.primal.metalblock_crude_iron.name=生铁块
 tile.primal.metalblock_steel.name=钢块
 tile.primal.metalblock_tamahagane.name=玉钢块
+tile.primal.metalblock_shibuichi.name=四分一块
 tile.primal.metalblock_adamant.name=精金块
 tile.primal.metalblock_silver.name=银块
 tile.primal.metalblock_tin.name=锡块
 tile.primal.metalblock_zinc.name=锌块
 tile.primal.metalblock_wootz.name=乌兹钢块
 tile.primal.metalblock_vanadium.name=钒块
+tile.primal.metalblock_aluminum.name=Aluminum Block
+tile.primal.metalblock_platinum.name=Platinum Block
+tile.primal.metalblock_nickel.name=Nickel Block
 
 # -- Fluid --　＃
 tile.primal.fluid.smoke.name=黑烟
@@ -1639,6 +1667,9 @@ death.attack.primal.ironwood.player=%1$s被%2$s杀死了
 
 death.attack.primal.block=%s死于钝击
 death.attack.primal.block.player=%1$s在与%2$s战斗时死于钝击
+
+death.attack.primal.drain=%s died mysteriously
+death.attack.primal.drain.player=%1$s died mysteriously whilst fighting %2$s
 
 death.attack.primal.sun=%s被扯出了内脏
 death.attack.primal.sun.player=%1$s在与%2$s战斗时被扯出了内脏
