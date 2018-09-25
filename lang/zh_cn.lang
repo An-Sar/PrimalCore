@@ -839,6 +839,7 @@ tile.primal.carpet_inanis.name=虚空苔草地毯
 tile.primal.dirt_packed.name=浮土
 tile.primal.dirt_brick.name=浮土砖
 tile.primal.mud_wet.name=湿泥
+tile.primal.mud_drying.name=Drying Mud
 tile.primal.ore_iron.name=铁矿石
 
 tile.primal.ironglass.name=铁化玻璃

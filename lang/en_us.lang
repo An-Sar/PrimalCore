@@ -838,6 +838,7 @@ tile.primal.carpet_inanis.name=Ineris Carpet
 tile.primal.dirt_packed.name=Packed Dirt
 tile.primal.dirt_brick.name=Packed Dirt Brick
 tile.primal.mud_wet.name=Wet Mud
+tile.primal.mud_drying.name=Drying Mud
 tile.primal.ore_iron.name=Iron Ore
 
 tile.primal.ironglass.name=Iron Glass
