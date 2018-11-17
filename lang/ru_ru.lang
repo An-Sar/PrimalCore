@@ -1,0 +1,1937 @@
+# Translator: Ascer
+itemGroup.primal=Primal Core
+
+# -- Items -- #
+item.primal.golden_stick.name=Золотая палка
+item.primal.glass_stick.name=Стеклянная палка
+item.primal.dirt_stick.name=Земляная палка
+item.primal.ancient_ice_chunk.name=Древний ледяной кусочек
+item.primal.ash.name=Пепел
+item.primal.mortar.name=Раствор
+item.primal.muck.name=Грязь
+item.primal.muck_molten.name=Расплавленная грязь
+item.primal.rot.name=Гниль
+item.primal.rock_andesite.name=Андезитовая камень
+item.primal.rock_diorite.name=Диоритовый камень
+item.primal.rock_granite.name=Гранитный камень
+item.primal.rock_netherrack.name=Камень из адского камня
+item.primal.rock_sarsen.name=Сарсеновый камень
+item.primal.rock_stone.name=Камень
+item.primal.rock_vitrified.name=Остекленный камень
+item.primal.rock_end.name=Эндер камень
+item.primal.bitumin_clump.name=Битумная глыба
+item.primal.wax_residue.name=Восковой остаток
+item.primal.soul_residue.name=Остаток души
+item.primal.slime_residue.name=Слизневый остаток
+item.primal.slag.name=Шлак
+item.primal.fermented_jungle.name=Ферменттрованное сусло
+item.primal.fletching.name=Оперение
+item.primal.cauldron_ladle_ironwood.name=Ложка из железной древесины
+item.primal.cauldron_ladle_corypha.name=Карифовая ложка
+item.primal.cauldron_ladle_lacquer.name=Лакированная деревянная ложка
+item.primal.cauldron_ladle_yew.name=Тисовая ложка
+item.primal.cauldron_ladle_bone.name=Костная ложка
+item.primal.plant_fiber.name=Растительное волокно
+item.primal.plant_fiber_pulp.name=Целлюлозно-волокнистая целлюлоза
+item.primal.plant_cordage.name=Растительная верёвка
+item.primal.plant_cloth.name=Растительная ткань
+item.primal.plant_papyrus.name=Растительный папирус
+item.primal.plant_tinder.name=Пучок трут
+item.primal.dry_grass_root.name=Корень сухой травы
+item.primal.dry_grass_seed.name=Семена сухой травы
+item.primal.tall_grass_seeds.name=Семена высокой травы
+item.primal.nether_root.name=Адский корень
+item.primal.nether_fiber.name=Адское волокно
+item.primal.nether_fiber_pulp.name=Адская-волокнистая целлюлоза
+item.primal.nether_cordage.name=Адская верёвка
+item.primal.nether_cloth.name=Адская ткань
+item.primal.nether_papyrus.name=Адский папирус
+item.primal.nether_tinder.name=Адский пучок трут
+item.primal.searing_ember.name=Адские тлеющие угли
+item.primal.searing_sprig.name=Адская цветущая веточка
+item.primal.yew_aril_seedless.name=Тисовая бессемянная шелуха
+item.primal.yew_aril.name=Тисовая шелуха
+item.primal.yew_seed.name=Тисовые семена
+item.primal.yew_stick.name=Тисовая палка
+item.primal.corypha_stick.name=Карифовая палка
+item.primal.corypha_pin.name=Карифовый штырь
+item.primal.corypha_seed.name=Карифовая личинка
+item.primal.fishing_rod_corypha.name=Карифовая удочка
+item.primal.leather_strip.name=Кожанная лента
+item.primal.leather_cordage.name=Кожанная верёвка
+item.primal.leather_boiled.name=Отваренная кожа
+item.primal.silk_cordage.name=Шелковая верёвка
+item.primal.silk_cordage_coiled.name=Катушка шёлковой верёвки
+item.primal.ore_cluster_bog_iron.name=Болотное скопление железной руды
+item.primal.ore_cluster_magnetite.name=Скопление магнетитовой руды
+item.primal.ore_cluster_zinc.name=Скопление цинковой руды
+item.primal.magnetite_dust.name=Магнетитовая пыль
+item.primal.paraffin_clump.name=Парафиновая глыба
+item.primal.bone_knapp.name=Осколок кости
+item.primal.bone_point.name=Мелкий осколок кости
+item.primal.flint_knapp.name=Осколок кремния
+item.primal.flint_point.name=Мелкий осколок кремния
+item.primal.obsidian_shard.name=Обсидиановый кусок
+item.primal.obsidian_knapp.name=Обисидиановый осколок
+item.primal.obsidian_point.name=Мелкий обсидиановый осколок
+item.primal.obsidian_lens.name=Обсидиановая линза
+item.primal.diamond_knapp.name=Осколок алмаза
+item.primal.diamond_point.name=Мелкий осколок алмаза
+item.primal.diamond_workblade.name=Алмазное рабочее лезвие
+item.primal.emerald_knapp.name=Осколок изумруда
+item.primal.emerald_point.name=Мелкий соколок изумруда
+item.primal.emerald_workblade.name=Изумрудное рабочее лезвие
+item.primal.opal.name=Кровянной опал
+item.primal.opal_knapp.name=Осколок кровянного опала
+item.primal.opal_point.name=Мелкий осколок кровянного опала
+item.primal.opal_workblade.name=Рабочее лезвие из кровянного опала
+item.primal.stone_basin.name=Каменный таз
+item.primal.wood_pin.name=Деревянный штырь
+item.primal.ironwood_stick.name=Палка из железного дерева
+item.primal.iron_strand.name=Железная прядь
+item.primal.iron_bar.name=Железный слиток
+item.primal.iron_pin.name=Железный штырь
+item.primal.iron_mesh.name=Железное сито
+item.primal.iron_ring.name=Железное кольцо
+item.primal.iron_sheet.name=Железный лист
+item.primal.iron_plate.name=Железная пластина
+item.primal.iron_bloom.name=Железный пушок
+item.primal.steel_nugget.name=Стальной самородок
+item.primal.steel_ingot.name=Стальной слиток
+item.primal.steel_plate.name=Стальная пластина
+item.primal.tamahagane_bloom.name=Тамахагановый пушок
+item.primal.tamahagane_ingot.name=Тамахагановый слиток
+item.primal.tamahagane_plate.name=Тамахагановая пластина
+item.primal.tamahagane_dust.name=Тамахагановая пыль
+item.primal.tamahagane_nugget.name=Тамахагановый самородок
+item.primal.shibuichi_ingot.name=Шибуичевый слиток
+item.primal.shibuichi_plate.name=Шибуичевая пластна
+item.primal.shibuichi_dust.name=Шибуичевая пыль
+item.primal.shibuichi_nugget.name=Шибуичевый самородок
+item.primal.carbon_plate.name=Кабоновая пластина
+item.primal.diamond_plate.name=Алмазная пластина
+item.primal.gold_plate.name=Золотая пластина
+item.primal.copper_saw.name=Медная пила
+item.primal.diamond_saw.name=Алмазная пила
+item.primal.emerald_saw.name=Изумрудная пила
+item.primal.spear_flint.name=Кремниевое копьё
+item.primal.spear_quartz.name=Кварцевое копьё
+item.primal.arrow_quartz.name=Кварцевая стела
+item.primal.arrow_ironwood.name=Стрела из железного дерева
+item.primal.arrow_torch_fiber.name=Стрела из растительного факела
+item.primal.arrow_torch_wood.name=Стрела из деревянного факела
+item.primal.arrow_torch_nether.name=Стрела из адско-камневого факела
+item.primal.arrow_torch_redstone.name=Стрела из факела красной пыли
+item.primal.arrow_water.name=Водная стрела
+item.primal.arrow_paraffin.name=Парафиновая стрела
+item.primal.arrow_bitumen.name=Битумная стрела
+item.primal.tannin_ground.name=Таниновый грунт
+item.primal.tannin_bottle.name=Бутылка танина
+item.primal.urushi_ground.name=Урушевый грунт
+item.primal.urushi_bottle.name=Бутылка уруши
+item.primal.ovis_milk_bottle.name=Бутылка бараньего молока
+item.primal.bottle_paraffin.name=Бутылка парафина
+item.primal.bottle_bitumen.name=Бутылка кипящего битума
+item.primal.chunk_netherrack.name=Кусок адского камня
+item.primal.chunk_soulsand.name=Кусок песка душ
+
+item.primal.sword_crude_bone.name=Грубый костный меч
+item.primal.sword_crude_flint.name=Грубый кремниевый меч
+item.primal.sword_crude_quartz.name=Грубый кварцевый меч
+item.primal.sword_crude_iron.name=Грубый железный меч
+item.primal.sword_crude_wootz.name=Грубый стальной меч
+
+item.primal.crude_iron_plate.name=Грубая железная пластина
+item.primal.crude_iron_plate_double.name=Грубая двойная железная пластина
+item.primal.crude_iron_plate_small.name=Грубая маленькая железная пластина
+
+item.primal.lead_plate.name=Свинцовая пластина
+item.primal.lead_plate_double.name=Двойная свинцовая пластина
+item.primal.lead_plate_small.name=Маленькая свинцовая пластина
+
+item.primal.silver_plate.name=Серебрянная пластина
+item.primal.silver_plate_double.name=Двойная серебянная пластина
+item.primal.silver_plate_small.name=Маленькая серебянная пластина
+
+item.primal.zinc_plate.name=Цинковая пластина
+item.primal.zinc_plate_double.name=Цинковая двойная пластина
+item.primal.zinc_plate_small.name=Маленькая цинковая пластина
+
+item.primal.tin_plate.name=Оловянная пластина
+item.primal.tin_plate_double.name=Оловянная лвойная пластина
+item.primal.tin_plate_small.name=Маленькая оловянная пластина
+
+item.primal.copper_plate.name=Медная пластина
+item.primal.copper_plate_double.name=Двояйная медная пластина
+item.primal.copper_plate_small.name=Маленькая медная пластина
+item.primal.copper_strand.name=Медная прядь
+
+item.primal.brass_plate.name=Латуневая пластина
+item.primal.brass_plate_double.name=Двойная латуневая пластина
+item.primal.brass_plate_small.name=Маленькая пластина
+
+item.primal.bronze_plate.name=Бронзовая пластина
+item.primal.bronze_plate_double.name=Двойная бронзовая пластина
+item.primal.bronze_plate_small.name=Маленькая бронзовая пластина
+
+item.primal.aluminum_nugget.name=Алюминиевый самородок
+item.primal.aluminum_dust.name=Алюминиевая пыль
+item.primal.aluminum_ingot.name=Алюминиевый слиток
+item.primal.aluminum_plate.name=Алюминиевая пластина
+item.primal.aluminum_plate_double.name=Двойная алюминиевая пластина
+item.primal.aluminum_plate_small.name=Маленькая алюминиевая пластина
+
+item.primal.nickel_nugget.name=Никелевый самородок
+item.primal.nickel_dust.name=Никелевая пыль
+item.primal.nickel_ingot.name=Никелевый слиток
+item.primal.nickel_plate.name=Никелевая пластина
+item.primal.nickel_plate_double.name=Двойная никелевая пластина
+item.primal.nickel_plate_small.name=Маленькая никелевая пластина
+
+item.primal.platinum_nugget.name=Платиновый самородок
+item.primal.platinum_dust.name=Платиновая пыль
+item.primal.platinum_ingot.name=Платиновый слиток
+item.primal.platinum_plate.name=Платиновая пластина
+item.primal.platinum_plate_double.name=Двойная платиновая пластина
+item.primal.platinum_plate_small.name=Маленькая платиновая пластина
+
+item.primal.adamant_nugget.name=Адамантовый самородок
+item.primal.adamant_dust.name=Адамантовая пыль
+item.primal.adamant_ingot.name=Адамантовый слиток
+item.primal.adamant_plate.name=Адамантовая пластина
+item.primal.adamant_plate_double.name=Двойная адамантовая пластина
+item.primal.adamant_plate_small.name=Маленькая адамантовая пластина
+
+item.primal.wootz_plate.name=Стальная пластина
+item.primal.wootz_plate_double.name=Двойная стальная пластина
+item.primal.wootz_plate_small.name=Маленькая стальная пластина
+
+item.primal.vanadium_plate.name=Ванадиевая пластина
+item.primal.vanadium_plate_double.name=Двойная ванадиевая пластина
+item.primal.vanadium_plate_small.name=Маленькая ванадиевая пластина
+
+item.primal.quartz_clippers.name=Кварцевые ножницы
+item.primal.quartz_saw.name=Кварцевая пила
+item.primal.quartz_knapp.name=Осколок кварца
+item.primal.quartz_point.name=Маленький осколок кварца
+item.primal.quartz_vitrified.name=Остекленный кварц
+item.primal.quartz_vitrified_lens.name=Остекленная кварцевая линза
+
+item.primal.mud_clump.name=Грязевая глыба
+item.primal.mud_brick_wet.name=Мокрый грязевой кирпич
+item.primal.mud_brick_dry.name=Грязевой кирпич
+
+item.primal.terra_clump.name=Глыба терра глины
+item.primal.terra_brick_wet.name=Мокрый терракотовый кирпич
+item.primal.terra_brick_dry.name=Терракотовый кирпич
+
+item.primal.cinis_clump.name=Глыба цинисовой глины
+item.primal.cinis_brick_wet.name=Мокрый цинисовый кирпич
+item.primal.cinis_brick_dry.name=Цинисовый кирпич
+
+item.primal.adobe_clump.name=Самановая глыба
+item.primal.adobe_brick_wet.name=Мокрый самановый кирпич
+item.primal.adobe_brick_dry.name=Самановый кирпич
+
+item.primal.bark_acacia.name=Acacia Bark
+item.primal.bark_bigoak.name=Dark Oak Bark
+item.primal.bark_birch.name=Birch Bark
+item.primal.bark_ironwood.name=Ironwood Bark
+item.primal.bark_yew.name=Yew Bark
+item.primal.bark_jungle.name=Jungle Wood Bark
+item.primal.bark_oak.name=Oak Bark
+item.primal.bark_corypha.name=Corphyry Plate
+item.primal.bark_spruce.name=Spruce Bark
+
+item.primal.logs_split_acacia.name=Split Acacia Log
+item.primal.logs_split_bigoak.name=Split Dark Oak Log
+item.primal.logs_split_birch.name=Split Birch Log
+item.primal.logs_split_ironwood.name=Split Ironwood Log
+item.primal.logs_split_yew.name=Split Yew Log
+item.primal.logs_split_jungle.name=Split Jungle Log
+item.primal.logs_split_oak.name=Split Oak Log
+item.primal.logs_split_spruce.name=Split Spruce Log
+item.primal.logs_split_corypha.name=Split Corphyry Segment
+
+item.primal.leaf_acacia.name=Acacia Leaf
+item.primal.leaf_bigoak.name=Dark Oak Leaf
+item.primal.leaf_birch.name=Birch Leaf
+item.primal.leaf_ironwood.name=Ironwood Leaf
+item.primal.leaf_jungle.name=Jungle Wood Leaf
+item.primal.leaf_oak.name=Oak Leaf
+item.primal.leaf_spruce.name=Spruce Leaf
+
+# -- buckets
+item.primal.bucket_clay_soft.name=Ведро из необожженной глины
+item.primal.bucket_clay_milk.name=Ведро из молочной глины
+item.primal.bucket_clay.name=Глиняное ведро
+item.primal.bucket_clay.filled.name=%s Глиняное ведро
+
+item.primal.bucket_terra_soft.name=Ведро из необожженной терры
+item.primal.bucket_terra_milk.name=Ведро из молочной терры
+item.primal.bucket_terra.name=Терракотовое ведро
+item.primal.bucket_terra.filled.name=%s Терракотовое ведро
+
+item.primal.bucket_cinis_soft.name=Ведро из необожженного циниса
+item.primal.bucket_cinis_milk.name=Ведро из молочного циниса
+item.primal.bucket_cinis.name=Цинисовое ведро
+item.primal.bucket_cinis.filled.name=%s Цинисовое ведро
+
+# -- foods
+item.primal.salo.name=Сало
+item.primal.chum.name=Кета
+item.primal.animal_fur.name=Мех животных
+item.primal.animal_fat.name=Жир животных
+item.primal.animal_fat_nether.name=Сывороточный жир
+item.primal.tallow.name=Животный жир
+item.primal.fish_lava_crawdad_raw.name=Сырой магмовый рак
+item.primal.fish_lava_crawdad_salted.name=Посоленный магмовый рак
+item.primal.fish_lava_crawdad_dried.name=Высушенный магмовый рак
+item.primal.fish_lava_crawdad_cured.name=Копченый магмовый рак
+item.primal.fish_lava_crawdad_rotten.name=Гнилой магмовый рак
+item.primal.fish_lava_worm_raw.name=Сырой лавовый червь
+item.primal.fish_lava_worm_salted.name=Посоленный лавовый червь
+item.primal.fish_lava_worm_dried.name=Высушенный лавовый червь
+item.primal.fish_lava_worm_cured.name=Копченый лавовый червь
+item.primal.fish_lava_worm_rotten.name=Гнилой лавовый червь
+item.primal.fish_cod_rotten.name=Гнилая треска
+item.primal.fish_cod_cured.name=Копченая треска
+item.primal.fish_cod_dried.name=Высушенный треска
+item.primal.fish_cod_salted.name=Посоленная треска
+item.primal.fish_salmon_rotten.name=Гнилой лосось
+item.primal.fish_salmon_cured.name=Копченый лосось
+item.primal.fish_salmon_dried.name=Высушенный лосось
+item.primal.fish_salmon_salted.name=Посоленный лосось
+item.primal.fish_clown_rotten.name=Гнилая рыба клоун
+item.primal.fish_clown_cured.name=Копченая рыба клоун
+item.primal.fish_clown_cooked.name=Приготовленная рыба клоун
+item.primal.fish_clown_dried.name=Высушенная рыба клоун
+item.primal.fish_clown_salted.name=Посоленная рыба клоун
+item.primal.fish_puffer_rotten.name=Гнилой иглобрюх
+item.primal.fish_puffer_cured.name=Копченый иглобрюх
+item.primal.fish_puffer_cooked.name=Приготовленный иглобрюх
+item.primal.fish_puffer_dried.name=Высушенный иглобрюх
+item.primal.fish_puffer_salted.name=Посоленный иглобрюх
+item.primal.shark_fin.name=Акулий плавник
+item.primal.shark_tooth.name=Акулий зуб
+item.primal.shark_meat_raw.name=Сырое мясо акулы
+item.primal.shark_meat_salted.name=Посоленное мясо акулы
+item.primal.shark_meat_dried.name=Высушенное мясо акулы
+item.primal.shark_meat_cooked.name=Приготовленное мясо акулы
+item.primal.shark_meat_cured.name=Копченое мясо акулы
+item.primal.shark_meat_rotten.name=Гнилое мясо акулы
+item.primal.horse_meat_raw.name=Сырое конское мясо
+item.primal.horse_meat_dried.name=Высушенное конское мясо
+item.primal.horse_meat_cooked.name=Приготовленное конское мясо
+item.primal.horse_meat_rotten.name=Гнилое конское мясо
+item.primal.horse_meat_salted.name=Посоленное конское мясо
+item.primal.horse_meat_cured.name=Копченое конское мясо
+item.primal.bat_meat_raw.name=Raw Bat Meat
+item.primal.bat_meat_dried.name=Dried Bat Meat
+item.primal.bat_meat_cooked.name=Cooked Bat Meat
+item.primal.bat_meat_rotten.name=Rotten Bat Meat
+item.primal.bat_meat_salted.name=Salted Bat Meat
+item.primal.bat_meat_cured.name=Cured Bat Meat
+item.primal.wolf_meat_raw.name=Raw Wolf Meat
+item.primal.wolf_meat_dried.name=Dried Wolf Meat
+item.primal.wolf_meat_cooked.name=Cooked Wolf Meat
+item.primal.wolf_meat_rotten.name=Rotten Wolf Meat
+item.primal.wolf_meat_salted.name=Salted Wolf Meat
+item.primal.wolf_meat_cured.name=Cured Wolf Meat
+item.primal.wolf_head_item.primal.name=Голова волка
+item.primal.bear_meat_raw.name=Raw Bear Meat
+item.primal.bear_meat_salted.name=Salted Bear Meat
+item.primal.bear_meat_dried.name=Dried Bear Meat
+item.primal.bear_meat_cooked.name=Cooked Bear Meat
+item.primal.bear_meat_rotten.name=Rotten Bear Meat
+item.primal.llama_meat_raw.name=Raw Llama Meat
+item.primal.llama_meat_salted.name=Salted Llama Meat
+item.primal.llama_meat_charqui.name=Вяленое мясо
+item.primal.llama_meat_cooked.name=Cooked Llama Meat
+item.primal.llama_meat_rotten.name=Rotten Llama Meat
+item.primal.mushroom_cooked.name=Cooked Mushroom
+item.primal.nether_wart_cooked.name=Cooked Nether Wart
+item.primal.ash_bone.name=Костный пепел
+item.primal.ash_wolf.name=Пепел волка
+item.primal.pelt_animal.name=Шкура животного
+item.primal.pelt_animal_large.name=Large Animal Pelt
+item.primal.pelt_shark.name=Кожа акулы
+item.primal.pelt_wolf.name=Шкура волка
+item.primal.pelt_bear_brown.name=Шкура бурого медведя
+item.primal.pelt_bear_black.name=Шкура черного медведя
+item.primal.pelt_bear_polar.name=Шкора белого медведя
+item.primal.pelt_deer.name=Шкура оленя
+item.primal.pelt_cow.name=Коровья шкура
+item.primal.pelt_mooshroom.name=Шкура гриба
+item.primal.pelt_dog.name=Шкура белого волка
+item.primal.pelt_ovis.name=Баранья шкура
+item.primal.pelt_pig.name=Шкура свиньи
+item.primal.pelt_sheep.name=Шкура овцы
+item.primal.pelt_gator.name=Кожа крокодила
+item.primal.pelt_horse.name=Шкура лошади
+item.primal.pelt_donkey.name=Шкура осла
+item.primal.pelt_mule.name=Шкура мула
+item.primal.pelt_llama.name=Шкура ламы
+item.primal.hide_raw.name=Сырая шкура
+item.primal.hide_salted.name=Посоленная шкура
+item.primal.hide_tanned.name=Обработанная шкура
+item.primal.hide_dried.name=Высушенная шкура
+item.primal.hide_spoiled.name=Сваренная шкура
+item.primal.ovis_meat_raw.name=Raw Atre Mutton
+item.primal.ovis_meat_dried.name=Dried Atre Mutton
+item.primal.ovis_meat_cooked.name=Cooked Atre Mutton
+item.primal.ovis_meat_rotten.name=Rotten Atre Mutton
+item.primal.ovis_meat_salted.name=Salted Atre Mutton
+item.primal.ovis_meat_cured.name=Cured Atre Mutton
+item.primal.pigman_meat_raw.name=Raw Pigman Meat
+item.primal.pigman_meat_salted.name=Salted Pigman Meat
+item.primal.pigman_meat_dried.name=Dried Pigman Meat
+item.primal.pigman_meat_cured.name=Cured Pigman Meat
+item.primal.pigman_meat_cooked.name=Cooked Pigman Meat
+item.primal.pigman_meat_rotten.name=Rotten Pigman Meat
+item.primal.pigman_hide_dried.name=Dried Pigman Hide
+item.primal.pigman_hide_raw.name=Raw Pigman Hide
+item.primal.pigman_hide_salted.name=Salted Pigman Hide
+item.primal.pigman_hide_spoiled.name=Spoiled Pigman Hide
+item.primal.pigman_hide_tanned.name=Tanned Pigman Hide
+item.primal.pigman_leather.name=Pigman Leather
+item.primal.cheese_white.name=Белый сыр
+item.primal.cheese_red.name=Красный сыр
+item.primal.corn_cob.name=Кочерыжка кукурузного початка
+item.primal.corn_cob_cooked.name=Приготовленная кочерыжка кукурузного початка
+item.primal.corn_bread.name=Кукурузный хлеб
+item.primal.corn_ground.name=Ground Corn
+item.primal.valus_omniferum_stalk.name=Valus Omniferum Stalk
+item.primal.valus_omniferum_sepal.name=Valus Omniferum Sepal
+item.primal.valus_omniferum_melon.name=Valus Omniferum Melon
+item.primal.daucus_murn_seeds.name=Daucus Murn Seeds
+item.primal.daucus_murn_stem.name=Daucus Murn Stem
+item.primal.daucus_murn_fronds.name=Daucus Murn Fronds
+item.primal.daucus_murn_fronds_withered.name=Withered Daucus Murn Fronds
+item.primal.daucus_murn_root.name=Daucus Murn Root
+item.primal.daucus_murn_root_cooked.name=Cooked Daucus Murn Root
+item.primal.egg_boiled.name=Прокепеченое яйцо
+item.primal.egg_death.name=Preserved Egg
+item.primal.potato_boiled.name=Кепеченая картошка
+item.primal.pigman_flesh_raw.name=Raw Pigman Flesh
+item.primal.pigman_flesh_salted.name=Salted Pigman Flesh
+item.primal.pigman_flesh_cured.name=Cured Pigman Flesh
+item.primal.pigman_flesh_cooked.name=Cooked Pigman Flesh
+item.primal.pigman_flesh_rotten.name=Rooten Pigman Flesh
+item.primal.gator_meat_raw.name=Raw Gator Meat
+item.primal.gator_meat_salted.name=Salted Gator Meat
+item.primal.gator_meat_dried.name=Dried Gator Meat
+item.primal.gator_meat_cured.name=Cured Gator Meat
+item.primal.gator_meat_cooked.name=Cooked Gator Meat
+item.primal.gator_meat_rotten.name=Rotten Gator Meat
+item.primal.meat_pie.name=Мясной пирог
+item.primal.wheat_ground.name=Ground Wheat
+item.primal.rush_stems.name=Rush Stems
+item.primal.rush_tips.name=Rush Tips
+item.primal.rush_tips_bloom.name=Blooming Rush Tips
+item.primal.devils_tongue_sepals.name=Devils' Tongue Sepals
+item.primal.devils_tongue_tendril.name=Devils' Tongue Tendril
+item.primal.devils_tongue_stem.name=Devils' Tongue Stem
+item.primal.lacquer_stick.name=Лакированная палка
+item.primal.corypha_bow.name=Карифовый лук
+item.primal.ironwood_bow.name=Лук из железного дерева
+item.primal.yew_bow.name=Тисовый лук
+item.primal.obsidian_plate.name=Обсидиановая пластина
+
+# -- armor
+item.primal.armor_obsidian_goggles.name=Темные очки
+item.primal.armor_obsidian_head.name=Обсидиановый шлем
+item.primal.armor_obsidian_body.name=Обсидиановая кираса
+item.primal.armor_obsidian_legs.name=Обсидиановые штаны
+item.primal.armor_obsidian_feet.name=Обсидиановые ботинки
+item.primal.armor_wolf_head.name=Волчий капюшон
+item.primal.armor_wolf_body.name=Волчья куртка
+item.primal.armor_wolf_legs.name=Волчьи штаны
+item.primal.armor_wolf_feet.name=Волчьи ботинки
+item.primal.armor_ovis_head.name=Баранья шапка
+item.primal.armor_ovis_body.name=Баранья куртка
+item.primal.armor_ovis_legs.name=Бараньи штаны
+item.primal.armor_ovis_feet.name=Бараньи ботинки
+
+# -- seeds
+item.primal.corn_seeds.name=Семена кукурузы
+item.primal.rush_seeds.name=Семена камыша
+item.primal.rush_seeds_cooked.name=Жареные семена камыша
+
+# -- Ore Items -- #
+item.primal.charcoal_mote.name=Древесный уголь
+item.primal.charcoal_fair.name=Светлый древесный угол
+item.primal.charcoal_good.name=Хороший древесный уголь
+item.primal.charcoal_high.name=Древесный уголь высокого ранга
+item.primal.charcoal_pure.name=Чистый углерод
+item.primal.carbonate_slack.name=Не качественный известняк
+item.primal.ferro_slack.name=Черная известь
+item.primal.iron_nugget.name=Железный самородок
+item.primal.iron_dust.name=Железная пыль
+item.primal.gold_dust.name=Золотая пыль
+item.primal.brass_dust.name=Латуневая пыль
+item.primal.brass_ingot.name=Латуневый слиток
+item.primal.brass_nugget.name=Латуневый самородок
+item.primal.bronze_dust.name=Бронзовая пыль
+item.primal.bronze_ingot.name=Бронзовый слиток
+item.primal.bronze_nugget.name=Бронзовый самородок
+item.primal.copper_dust.name=Медная пыль
+item.primal.copper_ingot.name=Медный слиток
+item.primal.copper_nugget.name=Медный самородок
+item.primal.lead_dust.name=Свинцовая пыль
+item.primal.lead_ingot.name=Свинцовый слиток
+item.primal.lead_nugget.name=Свинцовый самородок
+item.primal.crude_iron_dust.name=Чугунная пыль пыль
+item.primal.crude_iron_ingot.name=Чугунный слиток
+item.primal.crude_iron_nugget.name=Чугунный самородок
+item.primal.silver_dust.name=Серебрянная пыль
+item.primal.silver_ingot.name=Серебрянный слиток
+item.primal.silver_nugget.name=Серебрянный самородок
+item.primal.tin_dust.name=Оловянная пыль
+item.primal.tin_ingot.name=Оловянный слиток
+item.primal.tin_nugget.name=Оловянный самородок
+item.primal.wootz_dust.name=Стальная пыль
+item.primal.wootz_ingot.name=Стальной слиток
+item.primal.wootz_nugget.name=Стальной самородок
+item.primal.vanadium_dust.name=Ванадиевая пыль
+item.primal.vanadium_ingot.name=Ванадиевый слиток
+item.primal.vanadium_nugget.name=Ванадиевый самородок
+item.primal.zinc_dust.name=Цинковая пыль
+item.primal.zinc_ingot.name=Цинковый слиток
+item.primal.zinc_nugget.name=Цинковый самородок
+
+item.primal.ore_iron.name=Железная руда
+item.primal.ore_crude_iron.name=Чугунная руда
+item.primal.ore_gold.name=Золотая руда
+item.primal.ore_silver.name=Серебрянная руда
+item.primal.ore_lead.name=Свинцовая руда
+item.primal.ore_tin.name=Оловянная руда
+item.primal.ore_copper.name=Медная руда
+item.primal.ore_vanadium.name=Ванадиевая руда
+item.primal.ore_satetsu.name=Сатетсу
+tile.primal.ore_iron.name=Железная руда
+tile.primal.ore_opal_nether.name=Руда адского опала
+tile.primal.ore_opal_charred.name=Руда обугленно камневого опала
+tile.primal.ore_bog_iron_mud.name=Грязевое железо
+tile.primal.ore_bog_iron_terra.name=Грязевое терракотовое железо
+tile.primal.ore_bog_iron_cinis.name=Грязевое цинисовое железо
+tile.primal.ore_magnetite_stone.name=Каменная руда магнетита
+tile.primal.ore_magnetite_nether.name=Адская магнетитовая руда
+tile.primal.ore_magnetite_ferro.name=Карбонатная руда железа
+tile.primal.ore_zinc_carbonate.name=Карбонатная цинковая руда
+tile.primal.ore_salt_rock.name=Руда каменной соли
+tile.primal.ore_salt_fire.name=Руда огненной соли
+tile.primal.ore_salt_void.name=Руда пустотной соли
+
+item.primal.salt_dust_rock.name=Каменя каменной соли
+item.primal.salt_dust_fire.name=Огненная соль
+item.primal.salt_dust_void.name=Пустотная соль
+tile.primal.salt_netjry_block.name=Нитритовый соляной блок
+item.primal.salt_dust_netjry.name=Нитритовая соль
+
+item.primal.stripped_branch_acacia.name=Acacia Stripped Branch
+item.primal.stripped_branch_dark_oak.name=Dark Oak Stripped Branch
+item.primal.stripped_branch_birch.name=Birch Stripped Branch
+item.primal.stripped_branch_jungle.name=Jungle Stripped Branch
+item.primal.stripped_branch_oak.name=Oak Stripped Branch
+item.primal.stripped_branch_spruce.name=Spruce Stripped Branch
+item.primal.stripped_branch_ironwood.name=Ironwood Stripped Branch
+
+# -- tools
+item.primal.fire_bow.name=Огненный лук
+item.primal.sharp_bone.name=Острые кость
+item.primal.stone_gallagher.name=Каменный Галлахер
+item.primal.iron_gallagher.name=Железный Галлахер
+item.primal.nether_gallagher.name=Адский каменный Галлахер
+item.primal.nether_fishing_rod.name=Адская удочка
+
+item.primal.bone_hatchet.name=Костяной резак
+item.primal.bone_pickaxe.name=Костяная кирка
+item.primal.bone_shovel.name=Костная лопата
+item.primal.bone_hoe.name=Костная мотыга
+item.primal.bone_saw.name=Костная пила
+item.primal.bone_shears.name=Костяные ножницы
+
+item.primal.flint_hatchet.name=Кремневый резак
+item.primal.flint_axe.name=Кремневый топор
+item.primal.flint_pickaxe.name=Кремневая кирка
+item.primal.flint_shovel.name=Кремневая лопата
+item.primal.flint_hoe.name=Кремневая мотыга
+item.primal.flint_shears.name=Кремневые ножницы
+item.primal.flint_workblade.name=Кремневое рабочее лезвее
+item.primal.flint_saw.name=Кремневая пила
+item.primal.iron_workblade.name=Железное рабочее лезвие
+item.primal.iron_saw.name=Железная пила
+item.primal.iron_clippers.name=Железные ножницы
+
+item.primal.quartz_gallagher.name=Кварцевый Галлахер
+item.primal.quartz_hatchet.name=Кварцевый резак
+item.primal.quartz_axe.name=Кварцевый топор
+item.primal.quartz_pickaxe.name=Кварцевая кирка
+item.primal.quartz_shovel.name=Кварцевая лопата
+item.primal.quartz_hoe.name=Кварцевая мотыга
+item.primal.quartz_shears.name=Кварцевые ножницы
+item.primal.quartz_workblade.name=Кварцевое рабочее лезвие
+
+item.primal.diamond_hatchet.name=Алмазный резак
+item.primal.diamond_axe.name=Алмазный топор
+item.primal.diamond_pickaxe.name=Алмазная кирка
+item.primal.diamond_shovel.name=Алмазная лопата
+item.primal.diamond_hoe.name=Алмазная мотыга
+
+item.primal.emerald_hatchet.name=Изумрудный резак
+item.primal.emerald_axe.name=Изумрудный топор
+item.primal.emerald_pickaxe.name=Изумрудная кирка
+item.primal.emerald_shovel.name=Изумрудная лопата
+item.primal.emerald_hoe.name=Изумрудная мотыга
+
+item.primal.opal_hatchet.name=Опаловое лезвие
+item.primal.opal_axe.name=Опаловый топор
+item.primal.opal_pickaxe.name=Опаловая кирка
+item.primal.opal_shovel.name=Опаловая лопата
+item.primal.opal_hoe.name=Опаловая мотыга
+
+item.primal.obsidian_hatchet.name=Обсидиановый резак
+item.primal.obsidian_axe.name=Обсидиановый топор
+item.primal.obsidian_pickaxe.name=Обсидиановая кирка
+item.primal.obsidian_shovel.name=Обсидиановая лопата
+item.primal.obsidian_hoe.name=Обсидиановая мотыга
+item.primal.obsidian_saw.name=Обсидиановая пила
+item.primal.obsidian_workblade.name=Обсидиановое рабочее лезвие
+
+# -- Blocks -- #
+tile.primal.ash_common.name=Пепел
+tile.primal.ash_yew.name=Тисовый пепел
+tile.primal.ash_ironwood.name=Пепел железного дерева
+tile.primal.firepit.name=Яма для огня
+tile.primal.kiln_adobe.name=Печь из саманового кирпича
+tile.primal.kiln_terracotta.name=Терракотовая печь
+tile.primal.kiln_ciniscotta.name=Цинискотовая печь
+tile.primal.kiln_nether_earth.name=Печь из адской земли
+tile.primal.vitrified_stone.name=Остекленный камень
+tile.primal.torch_fiber.name=Факел из волокна
+item.primal.torch_fiber_lit.name=Подоженный факел
+tile.primal.torch_wood.name=Деревянный факел
+item.primal.torch_wood_lit.name=Подожженый факел
+tile.primal.torch_nether.name=Адский факел
+item.primal.torch_nether_lit.name=Подожженый адский факел
+tile.primal.jackolantern.name=Фонарь Джека
+tile.primal.ignis_fatuus.name=Игнис Фатуус
+tile.primal.lantern_empty.name=Фонарь
+tile.primal.lantern_torch.name=Фонарь с деревянным факелом
+tile.primal.lantern_nether.name=Фонарь с адским факелом
+tile.primal.lantern_redstone.name=Фонарь с факелом из красного камня
+tile.primal.lantern_ignis.name=Фонарь с Игнис Факелом
+
+tile.primal.door_ironwood.name=Дверь из железного дерева
+tile.primal.door_yew.name=Тисовая дверь
+tile.primal.door_corypha.name=Карифовая дверь
+tile.primal.door_lacquer.name=Лакированная дверь
+
+tile.primal.adobe_brick.name=Саманный кирпич
+tile.primal.brickform.name=Форма кирпича
+
+tile.primal.lever_wood.name=Рычаг
+tile.primal.lever_nether.name=Адский рычаг
+tile.primal.button_netherrack.name=Адская кнопка
+tile.primal.button_netherstone.name=Кнопка из адского камня
+
+tile.primal.pitfall_acacia.name=Acacia Pitfall Spikes
+tile.primal.pitfall_dark_oak.name=Dark Oak Pitfall Spikes
+tile.primal.pitfall_birch.name=Birch Pitfall Spikes
+tile.primal.pitfall_jungle.name=Jungle Pitfall Spikes
+tile.primal.pitfall_oak.name=Oak Pitfall Spikes
+tile.primal.pitfall_spruce.name=Spruce Pitfall Spikes
+tile.primal.pitfall_ironwood.name=Ironwood Pitfall Spikes
+tile.primal.pitfall_yew.name=Yew Pitfall Spikes
+tile.primal.pitfall_lacquer.name=Lacquer Pitfall Spikes
+tile.primal.pitfall_corypha.name=Corphyry Pitfall Spikes
+tile.primal.pitfall_iron.name=Iron Pitfall Spikes
+tile.primal.pitfall.name=Pitfall Spikes
+
+tile.primal.hardened_stone_white.name=Hardened Stone
+tile.primal.hardened_stone_orange.name=Orange Hardened Stone
+tile.primal.hardened_stone_magenta.name=Magenta Hardened Stone
+tile.primal.hardened_stone_light_blue.name=Light Blue Hardened Stone
+tile.primal.hardened_stone_yellow.name=Yellow Hardened Stone
+tile.primal.hardened_stone_lime.name=Lime Hardened Stone
+tile.primal.hardened_stone_pink.name=Pink Hardened Stone
+tile.primal.hardened_stone_gray.name=Gray Hardened Stone
+tile.primal.hardened_stone_silver.name=Silver Hardened Stone
+tile.primal.hardened_stone_cyan.name=Cyan Hardened Stone
+tile.primal.hardened_stone_purple.name=Purple Hardened Stone
+tile.primal.hardened_stone_blue.name=Blue Hardened Stone
+tile.primal.hardened_stone_brown.name=Brown Hardened Stone
+tile.primal.hardened_stone_green.name=Green Hardened Stone
+tile.primal.hardened_stone_red.name=Red Hardened Stone
+tile.primal.hardened_stone_black.name=Black Hardened Stone
+
+tile.primal.common_stone_normal.name=Базовый камень
+tile.primal.common_stone_smooth.name=Гладкий базовый камень
+tile.primal.common_stone_stacked.name=Штабелированный базовый камень
+tile.primal.common_stone_brick.name=Базовый кирпич
+tile.primal.common_stone_cobbled.name=Базовый булыжник
+tile.primal.common_stone_carved.name=Отделанный базовый камень
+tile.primal.common_stone_face.name=Мистический базовый камень
+tile.primal.common_stone_pillar.name=Базовая колонна
+
+tile.primal.carbonate_stone_normal.name=Carbonate Stone
+tile.primal.carbonate_stone_smooth.name=Smooth Carbonate Stone
+tile.primal.carbonate_stone_stacked.name=Stacked Carbonate Stone
+tile.primal.carbonate_stone_brick.name=Carbonate Brick
+tile.primal.carbonate_stone_cobbled.name=Carbonate Cobblestone
+tile.primal.carbonate_stone_carved.name=Chiseled Carbonate Brick
+tile.primal.carbonate_stone_face.name=Mysterious Carbonate Stone
+tile.primal.carbonate_stone_pillar.name=Carbonate Pillar
+
+tile.primal.ferro_stone_normal.name=Ferrocalcite Stone
+tile.primal.ferro_stone_smooth.name=Smooth Ferrocalcite Stone
+tile.primal.ferro_stone_stacked.name=Stacked Ferrocalcite Stone
+tile.primal.ferro_stone_brick.name=Ferrocalcite Brick
+tile.primal.ferro_stone_cobbled.name=Ferrocalcite Cobblestone
+tile.primal.ferro_stone_carved.name=Chiseled Ferrocalcite Stone
+tile.primal.ferro_stone_face.name=Mysterious Ferrocalcite Stone
+tile.primal.ferro_stone_pillar.name=Ferrocalcite Pillar
+
+tile.primal.porphyry_stone_normal.name=Porphyry Stone
+tile.primal.porphyry_stone_smooth.name=Smooth Porphyry Stone
+tile.primal.porphyry_stone_stacked.name=Stacked Porphyry Stone
+tile.primal.porphyry_stone_brick.name=Porphyry Brick
+tile.primal.porphyry_stone_cobbled.name=Porphyry Cobblestone
+tile.primal.porphyry_stone_carved.name=Chiseled Porphyry Stone
+tile.primal.porphyry_stone_face.name=Mysterious Porphyry Stone
+tile.primal.porphyry_stone_pillar.name=Porphyry Pillar
+
+tile.primal.sarsen_stone_normal.name=Sarsen Stone
+tile.primal.sarsen_stone_smooth.name=Smooth Sarsen Stone
+tile.primal.sarsen_stone_stacked.name=Stacked Sarsen Stone
+tile.primal.sarsen_stone_brick.name=Sarsen Brick
+tile.primal.sarsen_stone_cobbled.name=Sarsen Cobblestone
+tile.primal.sarsen_stone_carved.name=Chiseled Sarsen Stone
+tile.primal.sarsen_stone_face.name=Mysterious Sarsen Stone
+tile.primal.sarsen_stone_pillar.name=Sarsen Pillar
+
+tile.primal.blue_stone_normal.name=Bluestone
+tile.primal.blue_stone_smooth.name=Smooth Bluestone
+tile.primal.blue_stone_stacked.name=Stacked Bluestone
+tile.primal.blue_stone_brick.name=Bluestone Brick
+tile.primal.blue_stone_cobbled.name=Bluestone Cobble
+tile.primal.blue_stone_carved.name=Chiseled Bluestone
+tile.primal.blue_stone_face.name=Mysterious Bluestone
+tile.primal.blue_stone_pillar.name=Bluestone Pillar
+
+tile.primal.night_stone_normal.name=Hornblende Idolum
+tile.primal.night_stone_smooth.name=Smooth Hornblende
+tile.primal.night_stone_stacked.name=Stacked Hornblende
+tile.primal.night_stone_brick.name=Hornblende Brick
+tile.primal.night_stone_cobbled.name=Hornblende Cobble
+tile.primal.night_stone_carved.name=Chiseled Hornblende
+tile.primal.night_stone_face.name=Mysterious Hornblende
+tile.primal.night_stone_pillar.name=Hornblende Pillar
+
+tile.primal.eroded_end_stone_normal.name=Eroded End Stone
+tile.primal.eroded_end_stone_smooth.name=Smooth Eroded End Stone
+tile.primal.eroded_end_stone_stacked.name=Stacked Eroded End Stone
+tile.primal.eroded_end_stone_brick.name=Eroded End Stone Brick
+tile.primal.eroded_end_stone_cobbled.name=Eroded End Stone Cobble
+tile.primal.eroded_end_stone_carved.name=Chiseled Eroded End Stone
+tile.primal.eroded_end_stone_face.name=Mysterious Eroded End Stone
+tile.primal.eroded_end_stone_pillar.name=Eroded End Stone Pillar
+
+tile.primal.ortho_stone_normal.name=Ortho Stone
+tile.primal.ortho_stone_smooth.name=Smooth Ortho Stone
+tile.primal.ortho_stone_stacked.name=Stacked Ortho Stone
+tile.primal.ortho_stone_brick.name=Ortho Brick
+tile.primal.ortho_stone_cobbled.name=Ortho Cobblestone
+tile.primal.ortho_stone_carved.name=Chiseled Ortho Stone
+tile.primal.ortho_stone_face.name=Mysterious Ortho Stone
+tile.primal.ortho_stone_pillar.name=Ortho Pillar
+
+tile.primal.schist_green_stone_normal.name=Greenschist
+tile.primal.schist_green_stone_smooth.name=Smooth Greenschist
+tile.primal.schist_green_stone_stacked.name=Stacked Greenschist
+tile.primal.schist_green_stone_brick.name=Greenschist Brick
+tile.primal.schist_green_stone_cobbled.name=Greenschist Cobblestone
+tile.primal.schist_green_stone_carved.name=Chiseled Greenschist
+tile.primal.schist_green_stone_face.name=Mysterious Greenschist
+tile.primal.schist_green_stone_pillar.name=Greenschist Pillar
+
+tile.primal.schist_blue_stone_normal.name=Blueschist
+tile.primal.schist_blue_stone_smooth.name=Smooth Blueschist
+tile.primal.schist_blue_stone_stacked.name=Stacked Blueschist
+tile.primal.schist_blue_stone_brick.name=Blueschist Brick
+tile.primal.schist_blue_stone_cobbled.name=Blueschist Cobblestone
+tile.primal.schist_blue_stone_carved.name=Chiseled Blueschist
+tile.primal.schist_blue_stone_face.name=Mysterious Blueschist
+tile.primal.schist_blue_stone_pillar.name=Blueschist Pillar
+
+tile.primal.scoria_stone_normal.name=Scoria Stone
+tile.primal.scoria_stone_smooth.name=Smooth Scoria Stone
+tile.primal.scoria_stone_stacked.name=Stacked Scoria Stone
+tile.primal.scoria_stone_brick.name=Scoria Stone Brick
+tile.primal.scoria_stone_cobbled.name=Scoria Stone Cobblestone
+tile.primal.scoria_stone_carved.name=Chiseled Scoria Stone
+tile.primal.scoria_stone_face.name=Mysterious Scoria Stone
+tile.primal.scoria_stone_pillar.name=Scoria Stone Pillar
+
+tile.primal.purpurite_stone_normal.name=Purpurite Stone
+tile.primal.purpurite_stone_smooth.name=Smooth Purpurite Stone
+tile.primal.purpurite_stone_stacked.name=Stacked Purpurite Stone
+tile.primal.purpurite_stone_brick.name=Purpurite Stone Brick
+tile.primal.purpurite_stone_cobbled.name=Purpurite Cobblestone
+tile.primal.purpurite_stone_carved.name=Chiseled Purpurite Stone
+tile.primal.purpurite_stone_face.name=Mysterious Purpurite Stone
+tile.primal.purpurite_stone_pillar.name=Purpurite Stone Pillar
+
+tile.primal.soul_stone_normal.name=Soul Stone
+tile.primal.soul_stone_smooth.name=Smooth Soul Stone
+tile.primal.soul_stone_stacked.name=Stacked Soul Stone
+tile.primal.soul_stone_brick.name=Soul Brick
+tile.primal.soul_stone_cobbled.name=Soul Cobblestone
+tile.primal.soul_stone_carved.name=Chiseled Soul Stone
+tile.primal.soul_stone_face.name=Mysterious Soul Stone
+tile.primal.soul_stone_pillar.name=Soul Stone Pillar
+
+tile.primal.nether_stone_normal.name=Nether Stone
+tile.primal.nether_stone_smooth.name=Smooth Nether Stone
+tile.primal.nether_stone_stacked.name=Stacked Nether Stone
+tile.primal.nether_stone_brick.name=Nether Stone Brick
+tile.primal.nether_stone_cobbled.name=Nether Cobblestone
+tile.primal.nether_stone_carved.name=Chiseled Nether Stone Brick
+tile.primal.nether_stone_face.name=Mysterious Nether Stone
+tile.primal.nether_stone_pillar.name=Nether Stone Pillar
+
+tile.primal.desiccated_stone_normal.name=Desiccated Stone
+tile.primal.desiccated_stone_smooth.name=Desiccated Smooth Stone
+tile.primal.desiccated_stone_stacked.name=Stacked Desiccated Stone
+tile.primal.desiccated_stone_brick.name=Desiccated Brick
+tile.primal.desiccated_stone_cobbled.name=Desiccated Cobblestone
+tile.primal.desiccated_stone_carved.name=Chiseled Desiccated Brick
+tile.primal.desiccated_stone_face.name=Mysterious Desiccated Stone
+tile.primal.desiccated_stone_pillar.name=Desiccated Pillar
+
+tile.primal.aconite.name=Аконит
+item.primal.aconite_root.name=Аконитовый корень
+item.primal.aconite_sprig.name=Аканитовая веточка
+item.primal.aconite_petal.name=Лепестки аконита
+
+item.primal.thatching_wet.name=Свежая солома
+item.primal.thatching_dry.name=Сухая солома
+item.primal.thatching_nether.name=Cineris Thatching
+
+item.primal.spawn_egg_canis.name=Яйцо призыва степного волка
+item.primal.spawn_egg_ovis.name=Яйцо призыва барана
+item.primal.spawn_egg_pigman.name=Яйцо призыва свиньи
+item.primal.spawn_egg_creeper.name=Яйцо призыва адского крипера
+item.primal.spawn_egg_brownbear.name=Яйцо призыва бурого медведя
+item.primal.spawn_egg_blackbear.name=Яйцо призыва черного медведя
+item.primal.spawn_egg_gator.name=Яйцо призыва крокодила
+item.primal.spawn_egg_hammerhead.name=Яйцо призыва акулы молота
+
+tile.primal.loam_block.name=Loam
+tile.primal.thatch_wet.name=Wet Thatch
+tile.primal.thatch.name=Thatch
+tile.primal.thatch_nether.name=Cineris Thatch
+tile.primal.carpet_cineris.name=Cineris Carpet
+tile.primal.carpet_inanis.name=Inaris Carpet
+tile.primal.dirt_packed.name=Packed Dirt
+tile.primal.dirt_brick.name=Packed Dirt Brick
+tile.primal.mud_wet.name=Wet Mud
+tile.primal.mud_drying.name=Drying Mud
+
+tile.primal.ironglass.name=Iron Glass
+tile.primal.soulglass.name=Soul Glass
+tile.primal.soulstone_normal.name=Soulstone
+tile.primal.soulstone_smooth.name=Smooth Soulstone
+tile.primal.soulstone_chiseled.name=Chiseled Soulstone
+tile.primal.soulstone_flagstone.name=Flagstone Soulstone
+tile.primal.netherstone.name=Netherstone
+tile.primal.corypha_stalk_normal.name=Corphyry Pachyptila Segment
+tile.primal.corypha_stalk_stripped.name=Stripped Corphyry Segment
+tile.primal.planks_ironwood.name=Ironwood Planks
+tile.primal.planks_yew.name=Yew Planks
+tile.primal.planks_lacquer.name=Lacquer Planks
+tile.primal.planks_corypha.name=Corphyry Planks
+tile.primal.sapling_corypha.name=Corphyry Pachyptila Larva
+tile.primal.sapling_ironwood.name=Ironwood Sapling
+tile.primal.sapling_yew.name=Yew Sapling
+tile.primal.leaves_ironwood.name=Ironwood Leaves
+tile.primal.leaves_yew.name=Yew Leaves
+tile.primal.logs_ironwood.name=Ironwood Log
+tile.primal.logs_yew.name=Yew Log
+tile.primal.plank_ironwood.name=Ironwood Plank
+tile.primal.plank_yew.name=Yew Plank
+tile.primal.planks_lacquer_normal.name=Lacquered Plank
+
+tile.primal.nether_earth_normal.name=Nether Earth
+tile.primal.nether_earth_smooth.name=Smooth Nether Earth
+tile.primal.nether_earth_stacked.name=Stacked Nether Earth
+tile.primal.nether_earth_brick.name=Nether Earth Brick
+tile.primal.nether_earth_cobbled.name=Nether Earth Cobble
+tile.primal.nether_earth_carved.name=Chiseled Nether Earth
+tile.primal.nether_earth_face.name=Mysterious Nether Earth
+tile.primal.nether_earth_pillar.name=Nether Earth Pillar
+
+tile.primal.mud_dried_normal.name=Dried Mud
+tile.primal.mud_dried_smooth.name=Smooth Dried Mud
+tile.primal.mud_dried_stacked.name=Stacked Dried Mud
+tile.primal.mud_dried_brick.name=Dried Mud Brick
+tile.primal.mud_dried_cobbled.name=Dried Mud Cobble
+tile.primal.mud_dried_carved.name=Chiseled Dried Mud
+tile.primal.mud_dried_face.name=Mysterious Dried Mud
+tile.primal.mud_dried_pillar.name=Dried Mud Pillar
+
+tile.primal.ancient_ice.name=Ancient Ice
+tile.primal.nether_mycelium.name=Mycelium Infested Netherrack
+tile.primal.nether_path.name=Nether Dirt Path
+tile.primal.nether_farmland.name=Nether Farmland
+tile.primal.nether_growth.name=Nethergrowth
+tile.primal.nether_growth_redstone.name=Nethergrowth Redstone
+
+tile.primal.obsidian_transparent_normal.name=Transparent Obsidian
+tile.primal.obsidian_transparent_smooth.name=Smooth Transparent Obsidian
+tile.primal.obsidian_transparent_framed.name=Framed Transparent Obsidian
+
+tile.primal.logs_stripped_acacia.name=Acacia Stripped Log
+tile.primal.logs_stripped_dark_oak.name=Dark Oak Stripped Log
+tile.primal.logs_stripped_birch.name=Birch Stripped Log
+tile.primal.logs_stripped_jungle.name=Jungle Stripped Log
+tile.primal.logs_stripped_oak.name=Oak Stripped Log
+tile.primal.logs_stripped_spruce.name=Spruce Stripped Log
+tile.primal.logs_stripped_ironwood.name=Ironwood Stripped Log
+tile.primal.logs_stripped_yew.name=Yew Stripped Log
+tile.primal.logs_stripped_corypha.name=Corphyry Stripped Segment
+
+tile.primal.logs_stacked_acacia.name=Acacia Log Stack
+tile.primal.logs_stacked_dark_oak.name=Dark Oak Log Stack
+tile.primal.logs_stacked_birch.name=Birch Log Stack
+tile.primal.logs_stacked_ironwood.name=Ironwood Log Stack
+tile.primal.logs_stacked_jungle.name=Jungle Log Stack
+tile.primal.logs_stacked_oak.name=Oak Log Stack
+tile.primal.logs_stacked_spruce.name=Spruce Log Stack
+tile.primal.logs_stacked_corypha.name=Corphyry Segment Stack
+tile.primal.logs_stacked_yew.name=Yew Log Stack
+tile.primal.logs_stacked_hickory.name=Hickory Log Stack
+
+tile.primal.charcoal_stack_poor.name=Poor Grade Charcoal Stack
+tile.primal.charcoal_stack_fair.name=Fair Grade Charcoal Stack
+tile.primal.charcoal_stack_good.name=Good Grade Charcoal Stack
+tile.primal.charcoal_stack_high.name=High Grade Charcoal Stack
+tile.primal.charcoal_stack_pure.name=Pure Carbon Stack
+
+tile.primal.satetsu_poor.name=Poor Grade Satetsu
+tile.primal.satetsu_fair.name=Fair Grade Satetsu
+tile.primal.satetsu_good.name=Good Grade Satetsu
+tile.primal.satetsu_high.name=High Grade Satetsu
+tile.primal.satetsu_pure.name=Pure Satetsu
+
+tile.primal.ladder_acacia.name=Acacia Ladder
+tile.primal.ladder_bigoak.name=Dark Oak Ladder
+tile.primal.ladder_birch.name=Birch Ladder
+tile.primal.ladder_jungle.name=Jungle Wood Ladder
+tile.primal.ladder_oak.name=Oak Ladder
+tile.primal.ladder_spruce.name=Spruce Ladder
+tile.primal.ladder_ironwood.name=Ironwood Ladder
+tile.primal.ladder_corypha.name=Corphyry Ladder
+tile.primal.ladder_lacquer.name=Lacquer Ladder
+tile.primal.ladder_yew.name=Yew Ladder
+tile.primal.ladder_netherrack.name=Netherrack Ladder
+tile.primal.ladder_endstone.name=Endstone Ladder
+tile.primal.ladder_stone.name=Stone Ladder
+
+tile.primal.ladder_block_smoothstone.name=Stone Ladder Block
+tile.primal.ladder_block_andesite.name=Andesite Ladder Block
+tile.primal.ladder_block_granite.name=Granite Ladder Block
+tile.primal.ladder_block_diorite.name=Diorite Ladder Block
+tile.primal.ladder_block_smoothandesite.name=Smooth Andesite Ladder Block
+tile.primal.ladder_block_smoothgranite.name=Smooth Granite Ladder Block
+tile.primal.ladder_block_smoothdiorite.name=Smooth Diorite Ladder Block
+tile.primal.ladder_block_cobblestone.name=Cobblestone Ladder Block
+tile.primal.ladder_block_cobblestone_mossy.name=Mossy Cobblestone Ladder Block
+tile.primal.ladder_block_stonebrick.name=Stonebrick Ladder Block
+tile.primal.ladder_block_stonebrick_mossy.name=Mossy Stonebrick Ladder Block
+tile.primal.ladder_block_stonebrick_cracked.name=Cracked Stonebrick Ladder Block
+tile.primal.ladder_block_endstone.name=End Stone Ladder Block
+tile.primal.ladder_block_endbrick.name=End Brick Ladder Block
+tile.primal.ladder_block_netherrack.name=Netherrack Ladder Block
+tile.primal.ladder_block_netherbrick.name=Netherbrick Ladder Block
+tile.primal.ladder_block_netherstone.name=Netherstone Ladder Block
+
+tile.primal.wattle_acacia.name=Acacia Wattle
+tile.primal.wattle_bigoak.name=Dark Oak Wattle
+tile.primal.wattle_birch.name=Birch Wattle
+tile.primal.wattle_jungle.name=Jungle Wood Wattle
+tile.primal.wattle_oak.name=Oak Wattle
+tile.primal.wattle_spruce.name=Spruce Wattle
+tile.primal.wattle_ironwood.name=Ironwood Wattle
+tile.primal.wattle_yew.name=Yew Wattle
+tile.primal.wattle_corypha.name=Corphyry Wattle
+tile.primal.wattle_lacquer.name=Lacquer Wattle
+
+item.primal.daub_clump_basic.name=Daub Clump
+item.primal.daub_clump_black.name=Black Daub Clump
+item.primal.daub_clump_blue.name=Blue Daub Clump
+item.primal.daub_clump_brown.name=Brown Daub Clump
+item.primal.daub_clump_cyan.name=Cyan Daub Clump
+item.primal.daub_clump_gray.name=Gray Daub Clump
+item.primal.daub_clump_green.name=Green Daub Clump
+item.primal.daub_clump_lightblue.name=Light Blue Daub Clump
+item.primal.daub_clump_lime.name=Lime Daub Clump
+item.primal.daub_clump_magenta.name=Magenta Daub Clump
+item.primal.daub_clump_orange.name=Orange Daub Clump
+item.primal.daub_clump_pink.name=Pink Daub Clump
+item.primal.daub_clump_purple.name=Purple Daub Clump
+item.primal.daub_clump_red.name=Red Daub Clump
+item.primal.daub_clump_silver.name=Silver Daub Clump
+item.primal.daub_clump_white.name=White Daub Clump
+item.primal.daub_clump_yellow.name=Yellow Daub Clump
+
+tile.primal.daub_acacia_basic.name=Daub Acacia Wattle
+tile.primal.daub_acacia_black.name=Black Daub Acacia Wattle
+tile.primal.daub_acacia_blue.name=Blue Daub Acacia Wattle
+tile.primal.daub_acacia_brown.name=Brown Daub Acacia Wattle
+tile.primal.daub_acacia_cyan.name=Cyan Daub Acacia Wattle
+tile.primal.daub_acacia_gray.name=Gray Daub Acacia Wattle
+tile.primal.daub_acacia_green.name=Green Daub Acacia Wattle
+tile.primal.daub_acacia_lightblue.name=Light Blue Daub Acacia Wattle
+tile.primal.daub_acacia_lime.name=Lime Daub Acacia Wattle
+tile.primal.daub_acacia_magenta.name=Magenta Daub Acacia Wattle
+tile.primal.daub_acacia_orange.name=Orange Daub Acacia Wattle
+tile.primal.daub_acacia_pink.name=Pink Daub Acacia Wattle
+tile.primal.daub_acacia_purple.name=Purple Daub Acacia Wattle
+tile.primal.daub_acacia_red.name=Red Daub Acacia Wattle
+tile.primal.daub_acacia_silver.name=Silver Daub Acacia Wattle
+tile.primal.daub_acacia_white.name=White Daub Acacia Wattle
+tile.primal.daub_acacia_yellow.name=Yellow Daub Acacia Wattle
+
+tile.primal.daub_bigoak_basic.name=Daub Dark Oak Wattle
+tile.primal.daub_bigoak_black.name=Black Daub Dark Oak Wattle
+tile.primal.daub_bigoak_blue.name=Blue Daub Dark Oak Wattle
+tile.primal.daub_bigoak_brown.name=Brown Daub Dark Oak Wattle
+tile.primal.daub_bigoak_cyan.name=Cyan Daub Dark Oak Wattle
+tile.primal.daub_bigoak_gray.name=Gray Daub Dark Oak Wattle
+tile.primal.daub_bigoak_green.name=Green Daub Dark Oak Wattle
+tile.primal.daub_bigoak_lightblue.name=Light Blue Daub Dark Oak Wattle
+tile.primal.daub_bigoak_lime.name=Lime Daub Dark Oak Wattle
+tile.primal.daub_bigoak_magenta.name=Magenta Daub Dark Oak Wattle
+tile.primal.daub_bigoak_orange.name=Orange Daub Dark Oak Wattle
+tile.primal.daub_bigoak_pink.name=Pink Daub Dark Oak Wattle
+tile.primal.daub_bigoak_purple.name=Purple Daub Dark Oak Wattle
+tile.primal.daub_bigoak_red.name=Red Daub Dark Oak Wattle
+tile.primal.daub_bigoak_silver.name=Silver Daub Dark Oak Wattle
+tile.primal.daub_bigoak_white.name=White Daub Dark Oak Wattle
+tile.primal.daub_bigoak_yellow.name=Yellow Daub Dark Oak Wattle
+
+tile.primal.daub_birch_basic.name=Daub Birch Wattle
+tile.primal.daub_birch_black.name=Black Daub Birch Wattle
+tile.primal.daub_birch_blue.name=Blue Daub Birch Wattle
+tile.primal.daub_birch_brown.name=Brown Daub Birch Wattle
+tile.primal.daub_birch_cyan.name=Cyan Daub Birch Wattle
+tile.primal.daub_birch_gray.name=Gray Daub Birch Wattle
+tile.primal.daub_birch_green.name=Green Daub Birch Wattle
+tile.primal.daub_birch_lightblue.name=Light Blue Daub Birch Wattle
+tile.primal.daub_birch_lime.name=Lime Daub Birch Wattle
+tile.primal.daub_birch_magenta.name=Magenta Daub Birch Wattle
+tile.primal.daub_birch_orange.name=Orange Daub Birch Wattle
+tile.primal.daub_birch_pink.name=Pink Daub Birch Wattle
+tile.primal.daub_birch_purple.name=Purple Daub Birch Wattle
+tile.primal.daub_birch_red.name=Red Daub Birch Wattle
+tile.primal.daub_birch_silver.name=Silver Daub Birch Wattle
+tile.primal.daub_birch_white.name=White Daub Birch Wattle
+tile.primal.daub_birch_yellow.name=Yellow Daub Birch Wattle
+
+tile.primal.daub_jungle_basic.name=Daub Jungle Wattle
+tile.primal.daub_jungle_black.name=Black Daub Jungle Wattle
+tile.primal.daub_jungle_blue.name=Blue Daub Jungle Wattle
+tile.primal.daub_jungle_brown.name=Brown Daub Jungle Wattle
+tile.primal.daub_jungle_cyan.name=Cyan Daub Jungle Wattle
+tile.primal.daub_jungle_gray.name=Gray Daub Jungle Wattle
+tile.primal.daub_jungle_green.name=Green Daub Jungle Wattle
+tile.primal.daub_jungle_lightblue.name=Light Blue Daub Jungle Wattle
+tile.primal.daub_jungle_lime.name=Lime Daub Jungle Wattle
+tile.primal.daub_jungle_magenta.name=Magenta Daub Jungle Wattle
+tile.primal.daub_jungle_orange.name=Orange Daub Jungle Wattle
+tile.primal.daub_jungle_pink.name=Pink Daub Jungle Wattle
+tile.primal.daub_jungle_purple.name=Purple Daub Jungle Wattle
+tile.primal.daub_jungle_red.name=Red Daub Jungle Wattle
+tile.primal.daub_jungle_silver.name=Silver Daub Jungle Wattle
+tile.primal.daub_jungle_white.name=White Daub Jungle Wattle
+tile.primal.daub_jungle_yellow.name=Yellow Daub Jungle Wattle
+
+tile.primal.daub_oak_basic.name=Daub Oak Wattle
+tile.primal.daub_oak_black.name=Black Daub Oak Wattle
+tile.primal.daub_oak_blue.name=Blue Daub Oak Wattle
+tile.primal.daub_oak_brown.name=Brown Daub Oak Wattle
+tile.primal.daub_oak_cyan.name=Cyan Daub Oak Wattle
+tile.primal.daub_oak_gray.name=Gray Daub Oak Wattle
+tile.primal.daub_oak_green.name=Green Daub Oak Wattle
+tile.primal.daub_oak_lightblue.name=Light Blue Daub Oak Wattle
+tile.primal.daub_oak_lime.name=Lime Daub Oak Wattle
+tile.primal.daub_oak_magenta.name=Magenta Daub Oak Wattle
+tile.primal.daub_oak_orange.name=Orange Daub Oak Wattle
+tile.primal.daub_oak_pink.name=Pink Daub Oak Wattle
+tile.primal.daub_oak_purple.name=Purple Daub Oak Wattle
+tile.primal.daub_oak_red.name=Red Daub Oak Wattle
+tile.primal.daub_oak_silver.name=Silver Daub Oak Wattle
+tile.primal.daub_oak_white.name=White Daub Oak Wattle
+tile.primal.daub_oak_yellow.name=Yellow Daub Oak Wattle
+
+tile.primal.daub_spruce_basic.name=Daub Spruce Wattle
+tile.primal.daub_spruce_black.name=Black Daub Spruce Wattle
+tile.primal.daub_spruce_blue.name=Blue Daub Spruce Wattle
+tile.primal.daub_spruce_brown.name=Brown Daub Spruce Wattle
+tile.primal.daub_spruce_cyan.name=Cyan Daub Spruce Wattle
+tile.primal.daub_spruce_gray.name=Gray Daub Spruce Wattle
+tile.primal.daub_spruce_green.name=Green Daub Spruce Wattle
+tile.primal.daub_spruce_lightblue.name=Light Blue Daub Spruce Wattle
+tile.primal.daub_spruce_lime.name=Lime Daub Spruce Wattle
+tile.primal.daub_spruce_magenta.name=Magenta Daub Spruce Wattle
+tile.primal.daub_spruce_orange.name=Orange Daub Spruce Wattle
+tile.primal.daub_spruce_pink.name=Pink Daub Spruce Wattle
+tile.primal.daub_spruce_purple.name=Purple Daub Spruce Wattle
+tile.primal.daub_spruce_red.name=Red Daub Spruce Wattle
+tile.primal.daub_spruce_silver.name=Silver Daub Spruce Wattle
+tile.primal.daub_spruce_white.name=White Daub Spruce Wattle
+tile.primal.daub_spruce_yellow.name=Yellow Daub Spruce Wattle
+
+tile.primal.daub_ironwood_basic.name=Daub Ironwood Wattle
+tile.primal.daub_ironwood_black.name=Black Daub Ironwood Wattle
+tile.primal.daub_ironwood_blue.name=Blue Daub Ironwood Wattle
+tile.primal.daub_ironwood_brown.name=Brown Daub Ironwood Wattle
+tile.primal.daub_ironwood_cyan.name=Cyan Daub Ironwood Wattle
+tile.primal.daub_ironwood_gray.name=Gray Daub Ironwood Wattle
+tile.primal.daub_ironwood_green.name=Green Daub Ironwood Wattle
+tile.primal.daub_ironwood_lightblue.name=Light Blue Daub Ironwood Wattle
+tile.primal.daub_ironwood_lime.name=Lime Daub Ironwood Wattle
+tile.primal.daub_ironwood_magenta.name=Magenta Daub Ironwood Wattle
+tile.primal.daub_ironwood_orange.name=Orange Daub Ironwood Wattle
+tile.primal.daub_ironwood_pink.name=Pink Daub Ironwood Wattle
+tile.primal.daub_ironwood_purple.name=Purple Daub Ironwood Wattle
+tile.primal.daub_ironwood_red.name=Red Daub Ironwood Wattle
+tile.primal.daub_ironwood_silver.name=Silver Daub Ironwood Wattle
+tile.primal.daub_ironwood_white.name=White Daub Ironwood Wattle
+tile.primal.daub_ironwood_yellow.name=Yellow Daub Ironwood Wattle
+
+tile.primal.daub_corypha_basic.name=Daub Corphyry Wattle
+tile.primal.daub_corypha_black.name=Black Daub Corphyry Wattle
+tile.primal.daub_corypha_blue.name=Blue Daub Corphyry Wattle
+tile.primal.daub_corypha_brown.name=Brown Daub Corphyry Wattle
+tile.primal.daub_corypha_cyan.name=Cyan Daub Corphyry Wattle
+tile.primal.daub_corypha_gray.name=Gray Daub Corphyry Wattle
+tile.primal.daub_corypha_green.name=Green Daub Corphyry Wattle
+tile.primal.daub_corypha_lightblue.name=Light Blue Daub Corphyry Wattle
+tile.primal.daub_corypha_lime.name=Lime Daub Corphyry Wattle
+tile.primal.daub_corypha_magenta.name=Magenta Daub Corphyry Wattle
+tile.primal.daub_corypha_orange.name=Orange Daub Corphyry Wattle
+tile.primal.daub_corypha_pink.name=Pink Daub Corphyry Wattle
+tile.primal.daub_corypha_purple.name=Purple Daub Corphyry Wattle
+tile.primal.daub_corypha_red.name=Red Daub Corphyry Wattle
+tile.primal.daub_corypha_silver.name=Silver Daub Corphyry Wattle
+tile.primal.daub_corypha_white.name=White Daub Corphyry Wattle
+tile.primal.daub_corypha_yellow.name=Yellow Daub Corphyry Wattle
+
+tile.primal.daub_lacquer_basic.name=Daub Lacquer Wattle
+tile.primal.daub_lacquer_black.name=Black Daub Lacquer Wattle
+tile.primal.daub_lacquer_blue.name=Blue Daub Lacquer Wattle
+tile.primal.daub_lacquer_brown.name=Brown Daub Lacquer Wattle
+tile.primal.daub_lacquer_cyan.name=Cyan Daub Lacquer Wattle
+tile.primal.daub_lacquer_gray.name=Gray Daub Lacquer Wattle
+tile.primal.daub_lacquer_green.name=Green Daub Lacquer Wattle
+tile.primal.daub_lacquer_lightblue.name=Light Blue Daub Lacquer Wattle
+tile.primal.daub_lacquer_lime.name=Lime Daub Lacquer Wattle
+tile.primal.daub_lacquer_magenta.name=Magenta Daub Lacquer Wattle
+tile.primal.daub_lacquer_orange.name=Orange Daub Lacquer Wattle
+tile.primal.daub_lacquer_pink.name=Pink Daub Lacquer Wattle
+tile.primal.daub_lacquer_purple.name=Purple Daub Lacquer Wattle
+tile.primal.daub_lacquer_red.name=Red Daub Lacquer Wattle
+tile.primal.daub_lacquer_silver.name=Silver Daub Lacquer Wattle
+tile.primal.daub_lacquer_white.name=White Daub Lacquer Wattle
+tile.primal.daub_lacquer_yellow.name=Yellow Daub Lacquer Wattle
+
+tile.primal.shelf_half_acacia.name=Acacia Shelf
+tile.primal.shelf_half_dark_oak.name=Dark Oak Shelf
+tile.primal.shelf_half_birch.name=Birch Shelf
+tile.primal.shelf_half_endstone.name=Endstone Shelf
+tile.primal.shelf_half_endbrick.name=Endbrick Shelf
+tile.primal.shelf_half_yew.name=Yew Shelf
+tile.primal.shelf_half_ironwood.name=Ironwood Shelf
+tile.primal.shelf_half_jungle.name=Jungle Shelf
+tile.primal.shelf_half_mud.name=Dried Mud Shelf
+tile.primal.shelf_half_netherrack.name=Netherrack Shelf
+tile.primal.shelf_half_netherstone.name=Netherstone Shelf
+tile.primal.shelf_half_corypha.name=Corphyry Shelf
+tile.primal.shelf_half_oak.name=Oak Shelf
+tile.primal.shelf_half_sandstone.name=Sandstone Shelf
+tile.primal.shelf_half_spruce.name=Spruce Shelf
+tile.primal.shelf_half_lacquer.name=Lacquer Shelf
+
+tile.primal.tatami_bed_oak.name=Oak Tatami Bed
+tile.primal.tatami_bed_spruce.name=Spruce Tatami Bed
+tile.primal.tatami_bed_birch.name=Birch Tatami Bed
+tile.primal.tatami_bed_jungle.name=Jungle Tatami Bed
+tile.primal.tatami_bed_dark_oak.name=Dark Oak Tatami Bed
+tile.primal.tatami_bed_acacia.name=Acacia Tatami Bed
+tile.primal.tatami_bed_ironwood.name=Ironwood Tatami Bed
+tile.primal.tatami_bed_yew.name=Yew Tatami Bed
+tile.primal.tatami_bed_corypha.name=Corphyry Tatami Bed
+tile.primal.tatami_bed_lacquer.name=Lacquer Tatami Bed
+
+tile.primal.cauldron.name=Железный котёл
+item.primal.cauldron_lid.name=Крышка железного котла
+
+tile.primal.smelter.name=Плавильня
+tile.primal.smelter_mud.name=Грязевая плавильня
+tile.primal.smelter_adobe.name=Самановая плавильня
+tile.primal.smelter_terra.name=Терракотовая плавильня
+tile.primal.smelter_cinis.name=Цинискотовая плавильня
+item.primal.smelter_lid_mud.name=Крышка грязевой плавильни
+item.primal.smelter_lid_adobe.name=Крышка самановой плавильни
+item.primal.smelter_lid_terra.name=Крышка терракотовой плавильни
+item.primal.smelter_lid_cinis.name=Крышка цинискотовой плавильни
+
+tile.primal.hibachi.name=Хибати гриль
+tile.primal.hibachi_mud.name=Грязевой гриль хибати
+tile.primal.hibachi_adobe.name=Самановый грить хибати
+tile.primal.hibachi_terra.name=Терракотовый гриль хибати
+tile.primal.hibachi_cinis.name=Цинискотовый гриль хибати
+
+tile.primal.drying_rack_acacia.name=Сушилка из акации
+tile.primal.drying_rack_dark_oak.name=Сушилка из тёмной девесины
+tile.primal.drying_rack_birch.nameСушилка из берёзы
+tile.primal.drying_rack_yew.name=Сушилка из тиса
+tile.primal.drying_rack_ironwood.name=Сушилка из железной древесины
+tile.primal.drying_rack_jungle.name=Сушилка из тропической древесины
+tile.primal.drying_rack_corypha.name=Сушилка из карифа
+tile.primal.drying_rack_oak.name=Сушилка из дуба
+tile.primal.drying_rack_spruce.name=Сушилка из ели
+tile.primal.drying_rack_lacquer.name=Лакированная сушилка
+
+tile.primal.fish_trap_acacia.name=Рыбная ловушка из акации
+tile.primal.fish_trap_dark_oak.name=Рыбная ловушка из тёмной девесины
+tile.primal.fish_trap_birch.name=Рыбная ловушка из берёзы
+tile.primal.fish_trap_ironwood.name=Рыбная ловушка из железной древесины
+tile.primal.fish_trap_jungle.name=Рыбная ловушка из тропической древесины
+tile.primal.fish_trap_corypha.name=Рыбная ловушка карифа
+tile.primal.fish_trap_oak.name=Рыбная ловушка из дуба
+tile.primal.fish_trap_spruce.name=Рыбная ловушка из ели
+tile.primal.fish_trap_lacquer.name=Лакированная рыбная ловушка
+tile.primal.fish_trap_yew.name=Рыбная ловушка из тиса
+
+tile.primal.barrel_acacia.name=Бочка из акации
+tile.primal.barrel_dark_oak.name=Бочка из тёмной древесины
+tile.primal.barrel_birch.name=Бочка из берёзы
+tile.primal.barrel_ironwood.name=Бочка из железной древесины
+tile.primal.barrel_jungle.name=Бочка из тропической древесины
+tile.primal.barrel_corypha.name=Бочка из карифа
+tile.primal.barrel_oak.name=Бочка из дуба
+tile.primal.barrel_spruce.name=Бочка из ели
+tile.primal.barrel_lacquer.name=Лакированная бочка
+tile.primal.barrel_yew.name=Бочка из тиса
+
+item.primal.barrel_acacia_lid.name=Крышка бочки из акации
+item.primal.barrel_dark_oak_lid.name=Крышка бочки из тёмной древесины
+item.primal.barrel_birch_lid.name=Крышка бочки из берёзы
+item.primal.barrel_ironwood_lid.name=Крышка бочки из железной древесины
+item.primal.barrel_jungle_lid.name=Крышка бочки из тропической древесины
+item.primal.barrel_corypha_lid.name=Крышка бочки из карифа
+item.primal.barrel_oak_lid.name=Крышка бочки из дуба
+item.primal.barrel_spruce_lid.name=Крышка бочки из ели
+item.primal.barrel_lacquer_lid.name=Ликрованная крышка бочки
+item.primal.barrel_yew_lid.name=Крышка бочки из тиса
+
+item.primal.barrel_trap.name=Бочка с ловушкой
+
+tile.primal.storage_crate_acacia.name=Сундук из акации
+tile.primal.storage_crate_dark_oak.name=Сундук из тёмной древесины
+tile.primal.storage_crate_birch.name=Сундук из берёзы
+tile.primal.storage_crate_jungle.name=Сундук из тропической древесины
+tile.primal.storage_crate_oak.name=Сундук из дуба
+tile.primal.storage_crate_spruce.name=Сундук из ели
+tile.primal.storage_crate_yew.name=Сундук из тиса
+tile.primal.storage_crate_ironwood.name=Сундук из железной древесины
+tile.primal.storage_crate_corypha.name=Сундук из карифа
+tile.primal.storage_crate_lacquer.name=Лакированный сундук
+
+tile.primal.dust_bin_acacia.name=Пепельный контейнер из акации
+tile.primal.dust_bin_dark_oak.name=Пепельный контейнер тёмной древесины
+tile.primal.dust_bin_birch.name=Пепельный контейнер берёзы
+tile.primal.dust_bin_jungle.name=Пепельный контейнери тропической древесины
+tile.primal.dust_bin_oak.name=Пепельный контейнер из дуба
+tile.primal.dust_bin_spruce.name=Пепельный контейнер из ели
+tile.primal.dust_bin_yew.name=Пепельный контейнер из ели
+tile.primal.dust_bin_ironwood.name=Пепельный контейнер из железной древесины
+tile.primal.dust_bin_corypha.name=Пепельный контейнер из карифа
+tile.primal.dust_bin_lacquer.name=Лакированный пепельный контейнер
+
+tile.primal.slat_acacia.name=Планка из акации
+tile.primal.slat_bigoak.name=Планка из тёмной древесины
+tile.primal.slat_birch.name=Планка из берёзы
+tile.primal.slat_jungle.name=Планка из тропической
+tile.primal.slat_oak.name=Планка из дуба
+tile.primal.slat_spruce.name=Планка из ели
+tile.primal.slat_corypha.name=Планка из карифа
+tile.primal.slat_ironwood.name=Планка из железной древесины
+tile.primal.slat_lacquer.name=Лакированная планка
+tile.primal.slat_yew.name=Планка из тиса
+tile.primal.slat_iron.name=Планка из железа
+
+# -- slabs
+tile.primal.slab_carbonate_brick.name=Limestone Brick Slab
+tile.primal.slab_carbonate_flag.name=Smooth limestone Slab
+tile.primal.slab_endbrick.name=End Brick Slab
+tile.primal.slab_endstone.name=End Stone Slab
+tile.primal.slab_ferro_brick.name=Ferrocalcite Brick Slab
+tile.primal.slab_ferro_flag.name=Ferrocalcite Flagstone Slab
+tile.primal.slab_glass.name=Glass Slab
+tile.primal.slab_ironwood.name=Ironwood Slab
+tile.primal.slab_mud.name=Dried Mud Slab
+tile.primal.slab_corypha.name=Corphyry Slab
+tile.primal.slab_lacquer.name=Lacquer Slab
+tile.primal.slab_yew.name=Yew Slab
+tile.primal.slab_netherrack.name=Netherrack Slab
+tile.primal.slab_netherstone.name=Netherstone Slab
+tile.primal.slab_soulstone.name=Soulstone Slab
+tile.primal.slab_soulglass.name=Soul Glass Slab
+tile.primal.slab_stonebrick_mossy.name=Mossy Stonebrick Slab
+tile.primal.slab_sarsen_smooth.name=Smooth Sarsen Slab
+tile.primal.slab_netherearth.name=Nether Earth Slab
+
+
+# -- thin slabs
+tile.primal.thin_slab_acacia.name=Acacia Thin Slab
+tile.primal.thin_slab_bigoak.name=Dark Oak Thin Slab
+tile.primal.thin_slab_birch.name=Birch Thin Slab
+tile.primal.thin_slab_carbonate_brick.name=Limestone Brick Thin Slab
+tile.primal.thin_slab_carbonate_flag.name=Smooth Limestone Thin Slab
+tile.primal.thin_slab_endbrick.name=End Brick Thin Slab
+tile.primal.thin_slab_endstone.name=End Stone Thin Slab
+tile.primal.thin_slab_ferro_brick.name=Ferrocalcite Brick Thin Slab
+tile.primal.thin_slab_ferro_flag.name=Ferrocalcite Flagstone Thin Slab
+tile.primal.thin_slab_glass.name=Glass Thin Slab
+tile.primal.thin_slab_ironwood.name=Ironwood Thin Slab
+tile.primal.thin_slab_jungle.name=Jungle Wood Thin Slab
+tile.primal.thin_slab_mud.name=Dried Mud Thin Slab
+tile.primal.thin_slab_netherbrick.name=Nether Brick Thin Slab
+tile.primal.thin_slab_corypha.name=Corphyry Thin Slab
+tile.primal.thin_slab_lacquer.name=Lacquer Thin Slab
+tile.primal.thin_slab_yew.name=Yew Thin Slab
+tile.primal.thin_slab_netherrack.name=Netherrack Thin Slab
+tile.primal.thin_slab_netherstone.name=Netherstone Thin Slab
+tile.primal.thin_slab_oak.name=Oak Wood Thin Slab
+tile.primal.thin_slab_sandstone.name=Sandstone Thin Slab
+tile.primal.thin_slab_soulstone.name=Soulstone Thin Slab
+tile.primal.thin_slab_soulglass.name=Soul Glass Thin Slab
+tile.primal.thin_slab_spruce.name=Spruce Wood Thin Slab
+tile.primal.thin_slab_stonebrick.name=Stonebrick Thin Slab
+tile.primal.thin_slab_stonebrick_mossy.name=Mossy Stonebrick Thin Slab
+tile.primal.thin_slab_thatch.name=Thatch Thin Slab
+tile.primal.thin_slab_sarsen_smooth.name=Smooth Sarsen Thin Slab
+tile.primal.thin_slab_netherearth.name=Nether Earth Thin Slab
+
+# -- drains
+tile.primal.drain_stone.name=Кран из камня
+tile.primal.drain_carbonate_brick.name=Кран из известнякового кирпича
+tile.primal.drain_carbonate_flag.name=Кран из гладкого известняка
+tile.primal.drain_endbrick.name=Кран из кирпича края
+tile.primal.drain_endstone.name=Кран из камня края
+tile.primal.drain_ferro_brick.name=Кран из феррокальцита
+tile.primal.drain_ferro_flag.name=Кран из феррокальцитового песчаника
+tile.primal.drain_mud.name=Кран из сухой грязи
+tile.primal.drain_netherbrick.name=Кран из адского кирпича
+tile.primal.drain_corypha.name=Кран из карифа
+tile.primal.drain_netherrack.name=Кран из незерака
+tile.primal.drain_netherstone.name=Кран из адского камня
+tile.primal.drain_sandstone.name=Кран из песчаника
+tile.primal.drain_soulstone.name=Кран из камня души
+tile.primal.drain_stonebrick.name=Кран из каменного кирпича
+tile.primal.drain_stonebrick_mossy.name=Кран из заросшего кирпича
+tile.primal.drain_thatch.name=Кран из соломы
+tile.primal.drain_sarsen_smooth.name=Кран из гладкого сарсена
+tile.primal.drain_nether_earth.name=Кран из адской земли
+tile.primal.drain_scoria.name=Кран из скории
+tile.primal.drain_schist_green.name=Кран из гранита
+tile.primal.drain_ciniscotta.name=Кран из цинискотты
+
+# -- grates
+tile.primal.grate_acacia.name=Acacia Wood Brick Grate
+tile.primal.grate_bigoak.name=Dark Oak Wood Grate
+tile.primal.grate_birch.name=Birch Wood Grate
+tile.primal.grate_carbonate_brick.name=Limestone Brick Grate
+tile.primal.grate_carbonate_flag.name=Smooth Limestone Grate
+tile.primal.grate_endbrick.name=End Brick Grate
+tile.primal.grate_endstone.name=End Stone Grate
+tile.primal.grate_ferro_brick.name=Ferrocalcite Brick Grate
+tile.primal.grate_ferro_flag.name=Ferrocalcite Flagstone Grate
+tile.primal.grate_glass.name=Glass Grate
+tile.primal.grate_ironwood.name=Ironwood Grate
+tile.primal.grate_jungle.name=Jungle Wood Grate
+tile.primal.grate_mud.name=Dried Mud Grate
+tile.primal.grate_netherbrick.name=Nether Brick Grate
+tile.primal.grate_corypha.name=Corphyry Grate
+tile.primal.grate_lacquer.name=Lacquer Grate
+tile.primal.grate_netherrack.name=Netherrack Grate
+tile.primal.grate_netherstone.name=Netherstone Grate
+tile.primal.grate_oak.name=Oak Wood Grate
+tile.primal.grate_sandstone.name=Sandstone Grate
+tile.primal.grate_soulstone.name=Soulstone Grate
+tile.primal.grate_spruce.name=Spruce Wood Grate
+tile.primal.grate_stonebrick.name=Stonebrick Grate
+tile.primal.grate_stonebrick_mossy.name=Mossy Stonebrick Grate
+tile.primal.grate_thatch.name=Thatch Grate
+tile.primal.grate_sarsen_smooth.name=Smooth Sarsen Grate
+
+# -- stairs
+tile.primal.stairs_dirt.name=Dirt Stairs
+tile.primal.stairs_grass.name=Grass Stairs
+tile.primal.stairs_netherrack.name=Netherrack Stairs
+tile.primal.stairs_mud.name=Mud Stairs
+tile.primal.stairs_carbonate_brick.name=Limestone Brick Stairs
+tile.primal.stairs_carbonate_flag.name=Limestone Flagstone Stairs
+tile.primal.stairs_ferro_brick.name=Ferrocalcite Brick Stairs
+tile.primal.stairs_ferro_flag.name=Ferrocalcite Flagstone Stairs
+tile.primal.stairs_ironwood.name=Ironwood Stairs
+tile.primal.stairs_corypha.name=Corphyry Stairs
+tile.primal.stairs_lacquer.name=Lacquer Stairs
+tile.primal.stairs_cobblestone_mossy.name=Mossy Cobblestone Stairs
+tile.primal.stairs_stonebrick_mossy.name=Mossy Stonebrick Stairs
+tile.primal.stairs_soulstone.name=Soulstone Stairs
+tile.primal.stairs_sarsen_smooth.name=Smooth Sarsen Stairs
+tile.primal.stairs_path.name=Grass Path Stairs
+tile.primal.stairs_nether_earth.name=Nether Dirt Stairs
+tile.primal.stairs_nether_path.name=Nether Dirt Path Stairs
+
+# -- pressure plates
+tile.primal.pressplate_dirt.name=Dirt Pressure Plate
+tile.primal.pressplate_grass.name=Grass Pressure Plate
+tile.primal.pressplate_glass.name=Glass Pressure Plate
+tile.primal.pressplate_netherrack.name=Netherrack Pressure Plate
+tile.primal.pressplate_corypha.name=Corphyry Pressure Plate
+tile.primal.pressplate_lacquer.name=Lacquer Pressure Plate
+tile.primal.pressplate_ironwood.name=Ironwood Pressure Plate
+tile.primal.pressplate_thatch.name=Thatch Pressure Plate
+tile.primal.pressplate_soulglass.name=Soul Glass Pressure Plate
+
+# -- walls
+tile.primal.wall_common.name=Common Stone Wall
+tile.primal.wall_sarsen.name=Sarsen Stone Wall
+tile.primal.wall_blue.name=Blue Stone Wall
+tile.primal.wall_ortho.name=Ortho Stone Wall
+tile.primal.wall_schist_green.name=Green Schist Wall
+tile.primal.wall_schist_blue.name=Blue Schist Wall
+tile.primal.wall_scoria.name=Scoria Stone Wall
+tile.primal.wall_purpurite.name=Purpurite Stone Wall
+tile.primal.wall_ferro.name=Ferro Stone Wall
+tile.primal.wall_carbonate.name=Carbonate Stone Wall
+tile.primal.wall_desiccated.name=Desiccated Stone Wall
+tile.primal.wall_nether.name=Nether Stone Wall
+tile.primal.wall_end.name=Eroded End Stone Wall
+tile.primal.wall_soul.name=Soul Stone Wall
+tile.primal.wall_night.name=Hornblende Idolum Wall
+tile.primal.wall_mud.name=Dried Mud Wall
+tile.primal.wall_terra.name=Terracotta Wall
+tile.primal.wall_cinis.name=Ciniscotta Wall
+
+# -- fences
+tile.primal.fence_ironwood.name=Ironwood Fence
+tile.primal.fence_corypha.name=Corphyry Fence
+tile.primal.fence_lacquer.name=Lacquer Fence
+tile.primal.fence_yew.name=Yew Fence
+tile.primal.gate_ironwood.name=Ironwood Gate
+tile.primal.gate_corypha.name=Corphyry Gate
+tile.primal.gate_lacquer.name=Lacquer Gate
+tile.primal.gate_yew.name=Yew Gate
+
+tile.primal.ciniscotta_block_normal.name=Цинискота
+tile.primal.ciniscotta_block_smooth.name=Гладкая цинискота
+tile.primal.ciniscotta_block_stacked.name=Сложенная цинискота
+tile.primal.ciniscotta_block_brick.name=Цинискотовый кирпич
+tile.primal.ciniscotta_block_cobbled.name=Цинискотовый булыжник
+tile.primal.ciniscotta_block_carved.name=Резная цинискота
+tile.primal.ciniscotta_block_face.name=Мистическая цинискота
+tile.primal.ciniscotta_block_pillar.name=Цинискотовая колонна
+
+tile.primal.terracotta_block_normal.name=Terracotta
+tile.primal.terracotta_block_smooth.name=Smooth Terracotta
+tile.primal.terracotta_block_stacked.name=Stacked Terracotta
+tile.primal.terracotta_block_brick.name=Terracotta Brick
+tile.primal.terracotta_block_cobbled.name=Terracotta Cobble
+tile.primal.terracotta_block_carved.name=Chiseled Terracotta
+tile.primal.terracotta_block_face.name=Mysterious Terracotta
+tile.primal.terracotta_block_pillar.name=Terracotta Pillar
+
+tile.primal.mud_block.name=Грязь
+tile.primal.terra_block.name=Терра глина
+tile.primal.cinis_block.name=Цинисовая глина
+
+tile.primal.ovis_atre_wool.name=Баранья шерсть
+tile.primal.carpet_ovis_atre.name=Бараний ковёр
+tile.primal.grated_gravel.name=Растёртый гравий
+tile.primal.redstone_sand.name=Песок с красной пылью
+
+tile.primal.brick_mold_oak.name=Oak Brick Mold
+tile.primal.brick_mold_spruce.name=Spruce Brick Mold
+tile.primal.brick_mold_birch.name=Birch Brick Mold
+tile.primal.brick_mold_jungle.name=Jungle Brick Mold
+tile.primal.brick_mold_acacia.name=Acacia Brick Mold
+tile.primal.brick_mold_dark_oak.name=Dark Oak Brick Mold
+tile.primal.brick_mold_yew.name=Yew Brick Mold
+tile.primal.brick_mold_ironwood.name=Ironwood Brick Mold
+tile.primal.brick_mold_lacquer.name=Lacquer Brick Mold
+tile.primal.brick_mold_corypha.name=Corphyry Brick Mold
+
+tile.primal.worktable_shelf_oak.name=Верстак из дуба
+tile.primal.worktable_shelf_spruce.name=Верстак из ели
+tile.primal.worktable_shelf_birch.name=Верстак из берёзы
+tile.primal.worktable_shelf_jungle.name=Верстак из тропической древесины
+tile.primal.worktable_shelf_acacia.name=Верстак из акации
+tile.primal.worktable_shelf_dark_oak.name=Верстак из тёмной древесины
+tile.primal.worktable_shelf_yew.name=Верстак из тиса
+tile.primal.worktable_shelf_ironwood.name=Верстак из железной древесины
+tile.primal.worktable_shelf_lacquer.name=Ларованный верстак
+tile.primal.worktable_shelf_corypha.name=Верстак из карифа
+tile.primal.worktable_shelf_mud.name=Верстак из грязи
+tile.primal.worktable_shelf_netherearth.name=Верстак из адской земли
+tile.primal.worktable_shelf_netherstone.name=Верстак адского камня
+tile.primal.worktable_shelf_endstone.name=Верстак из камня края
+tile.primal.worktable_shelf_sandstone.name=Верстак из песчаника
+
+tile.primal.worktable_slab_oak.name=Верстак из дуба
+tile.primal.worktable_slab_spruce.name=Верстак из ели
+tile.primal.worktable_slab_birch.name=Верстак из берёзы
+tile.primal.worktable_slab_jungle.name=Верстак из тропической древесины
+tile.primal.worktable_slab_acacia.name=Верстак из акации
+tile.primal.worktable_slab_dark_oak.name=Верстак из тёмной древесины
+tile.primal.worktable_slab_yew.name=Верстак из тиса
+tile.primal.worktable_slab_ironwood.name=Верстак из железной древесины
+tile.primal.worktable_slab_lacquer.name=Лакированный верстак
+tile.primal.worktable_slab_corypha.name=Верстак из карифа
+tile.primal.worktable_slab_mud.name=Верстак из грязи
+tile.primal.worktable_slab_netherearth.name=Верстак из адской земли
+tile.primal.worktable_slab_netherstone.name=Верстак из адского камня
+tile.primal.worktable_slab_endstone.name=Верстак из камня края
+tile.primal.worktable_slab_sandstone.name=Верстак из песчаника
+
+item.primal.boat_corypha.name=Лодка из карифа
+item.primal.boat_ironwood.name=Лодка из железной древесины
+item.primal.boat_yew.name=Лодка из тиса
+item.primal.boat_lacquer.name=Лакированная лодка
+
+# -- Plants -- #
+tile.primal.nether_bush.name=Petrified Bush
+tile.primal.rush.name=Rushes
+tile.primal.devils_tongue.name=Devils' Tongue
+tile.primal.sea_grass.name=Porphyra Drosere
+tile.primal.void_grass.name=Equisetum Inaris
+tile.primal.cineris_grass.name=Equisetum Cineris Cilium
+tile.primal.cineris_bloom.name=Cineris Bloom
+
+tile.primal.tall_grass_growing.name=Tall Grass
+tile.primal.dry_grass.name=Sesleria Furvum
+tile.primal.dry_grass_growing.name=Sesleria Furvum Growing
+tile.primal.corypha_seed.name=Corphyry Pachyptila Spore
+tile.primal.corn_stalk.name=Corn Stalk
+item.primal.corn_stalk_wet.name=Fresh Corn Stalk
+item.primal.corn_stalk_dry.name=Dry Corn Stalk
+tile.primal.valus_omniferum.name=Valus Omniferum
+item.primal.valus_stalk_fresh.name=Fresh Valus Stalk
+item.primal.valus_stalk_withered.name=Withered Valus Stalk
+item.primal.valus_fiber.name=Valus Fiber
+item.primal.valus_seed.name=Valus Seed
+item.primal.valus_melon.name=Valus Melon
+item.primal.valus_bread.name=Valus Bread
+tile.primal.sinuous_weed.name=Sinuous Weed
+item.primal.sinuous_fiber.name=Sinuous Fiber
+item.primal.sinuous_cordage.name=Sinuous Cordage
+item.primal.sinuous_resin.name=Sinuous Resin
+item.primal.sinuous_spore.name=Sinuous Spore
+item.primal.void_fiber.name=Inaris Fiber
+item.primal.void_cordage.name=Inaris Cordage
+item.primal.void_seed.name=Equisetum Inaris Spore
+item.primal.void_grass_root.name=Uprooted Equisetum Inaris
+tile.primal.daucus_murn.name=Daucus Murn
+tile.primal.nether_vine.name=Cuscuta Inferum
+item.primal.inferum_ground.name=Ground Cuscuta Inferum
+tile.primal.nether_creep.name=Nether Creep
+tile.primal.strangle_weed.name=Strangle Weed
+tile.primal.old_mans_beard.name=Old Mans' Beard
+item.primal.pumpkin_piece.name=Pumpkin Piece
+item.primal.potato_rotten.name=Molding Potato
+
+# -- Ore Blocks -- #
+tile.primal.calcified_paraffin.name=Calcified Paraffin
+tile.primal.metalblock_brass.name=Brass Block
+tile.primal.metalblock_bronze.name=Bronze Block
+tile.primal.metalblock_copper.name=Copper Block
+tile.primal.metalblock_lead.name=Lead Block
+tile.primal.metalblock_crude_iron.name=Crude Iron Block
+tile.primal.metalblock_steel.name=Steel Block
+tile.primal.metalblock_tamahagane.name=Tamahagane Block
+tile.primal.metalblock_shibuichi.name=Shibuichi Block
+tile.primal.metalblock_adamant.name=Adaman Block
+tile.primal.metalblock_silver.name=Silver Block
+tile.primal.metalblock_tin.name=Tin Block
+tile.primal.metalblock_zinc.name=Zinc Block
+tile.primal.metalblock_wootz.name=Wootz Steel Block
+tile.primal.metalblock_vanadium.name=Vanadium Block
+tile.primal.metalblock_aluminum.name=Aluminum Block
+tile.primal.metalblock_platinum.name=Platinum Block
+tile.primal.metalblock_nickel.name=Nickel Block
+
+# -- Fluid --　＃
+tile.primal.fluid.smoke.name=Дым
+tile.primal.fluid.steam.name=Пар
+tile.primal.fluid.water_condensate.name=Конденсированная вода
+tile.primal.fluid.water_boiling.name=Кипящая вода
+tile.primal.fluid.bitumen.name=Битум
+tile.primal.fluid.bitumen_boiling.name=Кипящий битум
+tile.primal.fluid.brine_netjry.name=Брин
+tile.primal.fluid.tannin.name=Танин
+tile.primal.fluid.urushi.name=Уруши
+tile.primal.fluid.paraffin.name=Парафин
+tile.primal.fluid.magma_basaltic.name=Базальтовая магма
+tile.primal.fluid.ovis_atre_milk.name=Молоко барана
+tile.primal.fluid.waste.name=Вода с отходами
+
+fluid.smoke=Дым
+fluid.steam=Пар
+fluid.water_condensate=Конденсированная вода
+fluid.water_boiling=Кипящая вода
+fluid.bitumen=Битум
+fluid.bitumen_boiling=Кипящий битум
+fluid.brine_netjry=Брин
+fluid.tannin=Танин
+fluid.urushi=Уруши
+fluid.paraffin=Парафин
+fluid.magma_basaltic=Базальтовая магма
+fluid.ovis_atre_milk=Молоко барана
+fluid.waste=Вода с отходами
+
+# -- Entities -- #
+entity.primal:canis_campestris.name=Степной волк
+entity.primal:ovis_atre.name=Баран
+entity.primal:creeper_nether.name=Адский крипер
+entity.primal:bear_black.name=Черный медведь
+entity.primal:bear_brown.name=Бурый медведь
+entity.primal:shark_hammerhead.name=Акула молот
+entity.primal:gator.name=Аллигатор
+
+# -- subtitles -- #
+subtitle.primal.entity_wolf_howl=Wolf Howling
+subtitle.primal.entity_ovis_say=Ovis Atre Grunting
+subtitle.primal.entity_ovis_hurt=Ovis Atre Injured
+subtitle.primal.entity_ovis_angry=Ovis Atre Angry
+subtitle.primal.entity_gator_say=Gator Say
+subtitle.primal.entity_gator_hurt=Gator Injured
+subtitle.primal.entity_gator_death=Gator Death
+subtitle.primal.craft_flake=Flaking
+subtitle.primal.tool_saw_wood=Wood Sawing
+subtitle.primal.tool_axe_wood=Wood Chopping
+subtitle.primal.tool_blade_scrape=Blade Scraping
+subtitle.primal.block_cauldron_empty=Empty Cauldron
+subtitle.primal.block_cauldron_filled=Filled Cauldron
+subtitle.primal.block_cauldron_lid=Cauldron Lid Clank
+subtitle.primal.block_cauldron_add=Cauldron Crafting
+subtitle.primal.block_cauldron_take=Cauldron Take
+subtitle.primal.block_cauldron_match=Cauldron Bubble
+subtitle.primal.block_cauldron_finish=Cauldron Fizzle
+subtitle.primal.block_barrel_empty=Empty Wooden Barrel
+subtitle.primal.block_barrel_filled=Filled Wooded Barrel
+subtitle.primal.block_barrel_lid=Wooden Barrel Lid
+subtitle.primal.block_pottery_lid=Ceramic Lid
+subtitle.primal.block_pottery_hit=Ceramic Hit
+subtitle.primal.block_pottery_step=Ceramic Step
+subtitle.primal.block_pottery_break=Ceramic Breaking
+subtitle.primal.block_pottery_place=Ceramic Placing
+subtitle.primal.block_pottery_active=Ceramic Stiring
+subtitle.primal.block_spikes_fall=Falling on spikes
+subtitle.primal.block_ice_freeze=Ice Freezing
+subtitle.primal.block_ice_break=Ice Breaking
+subtitle.primal.block_ice_place=Ice Impact
+subtitle.primal.block_ooze=Oozing
+subtitle.primal.fluid_swish=Fluid Swishing
+subtitle.primal.fluid_splash=Fluid Splashing
+subtitle.primal.effect_magic_inhibit=Magic Fizzel
+subtitle.primal.misc_steam=Steam Hissing
+subtitle.primal.misc_placement=Mysterious Thud
+
+# -- potions -- #
+potion.effect.primal.porphyria=Porphyria
+potion.effect.primal.aconite=Aconite Poisoning
+potion.effect.primal.yew=Yew Poisoning
+potion.effect.primal.water_burn=Water Burn
+potion.effect.primal.sun_burn=Sun Burn
+
+# -- death -- #
+death.attack.primal.pitfall=%s погиб от ловушки
+death.attack.primal.pitfall.player=%1$s погиб от ловушки пока дрался с %2$s
+
+death.attack.primal.ironwood=%s был убит
+death.attack.primal.ironwood.player=%1$s был убит %2$s
+
+death.attack.primal.block=%s умер от удара тупым предметом
+death.attack.primal.block.player=%1$s умер от удара тупым предметом пока дрался с %2$s
+
+death.attack.primal.drain=%s умер мистично
+death.attack.primal.drain.player=%1$s умер мистично пока дрался с %2$s
+
+death.attack.primal.sun=%s был выпотрошен
+death.attack.primal.sun.player=%1$s был выпотрошен пока дрался с %2$s
+
+death.attack.primal.water=%s умер мистично
+death.attack.primal.water.player=%1$s умер мистично пока дрался с %2$s
+
+death.attack.primal.healing=%s умер мистично
+death.attack.primal.healing.player=%1$s умер мистично пока дрался с %2$s
+
+death.attack.primal.bitumen=%s попал в ископаемое
+death.attack.primal.bitumen.player=%1$s попал в ископаемое пока дрался с %2$s
+
+death.attack.primal.paraffin=%s был выпотрошен
+death.attack.primal.paraffin.player=%1$s был взорван %2$s
+
+death.attack.primal.aconite=%s умер от Aconite Poisoning
+death.attack.primal.aconite.player=%1$s был убит %2$s
+
+death.attack.primal.yew=%s умер от Yew Poisoning
+death.attack.primal.yew.player=%1$s пал от %2$s
+
+death.attack.primal.daucus=%s был погиб от укуса Даукуса Мурна
+death.attack.primal.daucus.player=%1$s был зажален досмерти %2$s
+
+# -- info -- #
+# -- chat messages -- #
+#chat.message.primal.cannot_sleep=You cannot sleep at this time, bed location has been set
+#chat.message.primal.cannot_sleep_or_spawn=You cannot sleep or set your bed location at this time
+chat.message.primal.set_spawn=Your bed location has been set
+chat.message.primal.cannot_set_spawn=You cannot set your bed location at this time
+chat.message.primal.cannot_sleep=You are unable to sleep
+chat.message.primal.cannot_sleep_disease=You wake from a restless and perturbed sleep
+chat.message.primal.cannot_sleep_monster=You wake suddenly from sleep in a cold sweat
+chat.message.primal.fish_trap_needs_water=Trap needs more water exposure
+chat.message.primal.disabled_block=This block is not functional
+
+chat.message.debug.primal.schedule_update_restart=Restarting Block Updates
+chat.message.debug.primal.schedule_update_failed=Block is not able to Update
+chat.message.debug.primal.schedule_update_in_progress=Block is already Updating
+chat.message.debug.primal.schedule_not_updatable=Block is not updatable
+
+# -- debug -- #
+tooltip.info.primal.debug_item=Это debug tool
+
+# -- shared -- #
+tooltip.info.primal.abstract_deprecated_warning=Это планируется удалить
+tooltip.info.primal.abstract_dev_warning=Это в настоящее время находится в разработке
+tooltip.info.primal.abstract_fire_unsafe=Небезопасно содержать горячие жидкости
+tooltip.info.primal.abstract_fire_proof=Несгораемый
+tooltip.info.primal.abstract_fire_hazard=Легко воспоменяемый
+tooltip.info.primal.abstract_wet_block=Место в мире для сушки
+tooltip.info.primal.abstract_requires_fuel=Потребляет твердое топливо
+tooltip.info.primal.abstract_requires_heat=Requires heat source
+tooltip.info.primal.abstract_environment=Influenced by surroundings
+tooltip.info.primal.abstract_pickup=Sneak Right-click to Pickup
+tooltip.info.primal.abstract_has_heat=Температура
+tooltip.info.primal.abstract_tank_fluid=Жидкости
+tooltip.info.primal.abstract_tank_size=Громкость
+tooltip.info.primal.abstract_tank_rain=Собирает воду из дождя
+tooltip.info.primal.abstract_tank_lid=Сохраняет инвентарь при покрытии
+tooltip.info.primal.abstract_quality=Рейтинг качества
+tooltip.info.primal.abstract_passes=Passes
+tooltip.info.primal.abstract_passes_items=Предметы
+tooltip.info.primal.abstract_passes_fluids=Жидкости
+tooltip.info.primal.abstract_passes_gas=Дым/Пар
+tooltip.info.primal.abstract_grid_crafting_tool=Crafting Table Tool
+tooltip.info.primal.abstract_world_crafting_tool=In-World Crafting Tool
+tooltip.info.primal.abstract_world_craft_blade=Craft in-world with a Work Blade
+tooltip.info.primal.abstract_world_craft_hammer=Craft in-world with a Gallagher
+tooltip.info.primal.abstract_world_craft_axe=Craft in-world with an Axe
+tooltip.info.primal.abstract_material_warning=Output is lossy, Upgrade tool material
+tooltip.info.primal.abstract_produces_waste=Produces waste by products
+tooltip.info.primal.abstract_plant_harvest=Fast-break plants materials
+tooltip.info.primal.abstract_fall_protection=Уменьшает урон от падения
+
+# -- food -- #
+tooltip.info.primal.food_is_bait=Наживка для рыб
+tooltip.info.primal.food_is_salted=Еда соленая
+tooltip.info.primal.food_is_rotten=Еда гнилая
+tooltip.info.primal.food_can_salt=Соленая или сухая кора
+tooltip.info.primal.food_can_dry=Dry on a Rack
+
+tooltip.info.primal.food_comment_salo=Solonýna
+tooltip.info.primal.food_comment_cheese_white=La Vache qui Rit
+tooltip.info.primal.food_comment_cheese_red=Ad Vitam Aeternam
+
+# -- plants -- #
+tooltip.info.primal.plant_seed_any=Садится на любую твёрдую поверхность
+tooltip.info.primal.plant_seed_soil=Садится на траву или землю
+tooltip.info.primal.plant_seed_grass=Садится на траву
+tooltip.info.primal.plant_seed_grass_shade=Садится на траву в тени
+tooltip.info.primal.plant_seed_farmland=Садится на почву
+tooltip.info.primal.plant_seed_farmland_nether=Садится одскую почву
+tooltip.info.primal.plant_seed_by_lava=Садится около лавы
+tooltip.info.primal.plant_seed_by_water=Садится около воды
+
+# -- misc -- #
+tooltip.info.primal.fire_bow_torches=Пкм для зажигания факела
+tooltip.info.primal.fire_bow_fuel=Использует палки
+tooltip.info.primal.fishtrap_bait=Ловит 1-6 рыб за одну приманку
+tooltip.info.primal.fishtrap_misc=Иногда ловит какие-то предметы
+tooltip.info.primal.fishtrap_warning=Под влиянием окружения
+tooltip.info.primal.lantern_torch=Кликнуть/Шифт-клик добавить или убрать факел
+tooltip.info.primal.lantern_light=Свет от огненного источника
+tooltip.info.primal.lantern_warning=Разрушение потухших факелов
+tooltip.info.primal.cauldron_items=Шифт-клик с ковшом для восстановления предметов
+tooltip.info.primal.cauldron_warning=Котёл сильно разогрет
+tooltip.info.primal.cauldron_ladle_view=Шифт-клик по нижней части котла для просмотра содержимого
+tooltip.info.primal.cauldron_ladle_take=Шифт-клик по верхней части котла для восстановления предметов
+tooltip.info.primal.cauldron_lid=Покрытый котёл. Шифт пкм для удаления
+tooltip.info.primal.smelter_lid=Покрытая плавильня. Шифт пкм для удаления
+tooltip.info.primal.barrel_lid=Покрытая бочка. Шифт пкм для удаления
+tooltip.info.primal.barrel_trap=Бочка обманула
+tooltip.info.primal.barrel_trap_placement=Шифт-клик для частичного наполнения парафином
+tooltip.info.primal.drying_rack_crafting=Медленная сушилка
+tooltip.info.primal.hibachi_crafting=Примитивный гриль
+tooltip.info.primal.smelter_crafting=Примитивная плавильня
+tooltip.info.primal.shelf_storage=Шифт-клик для взятия стака
+tooltip.info.primal.pitfall_falldamage=Наносит урон при падении с высоты
+tooltip.info.primal.pitfall_collision=Урон при столкновении
+tooltip.info.primal.cineris_carpet=Перемещает объекты по отношению к облицовке
+tooltip.info.primal.Inaris_carpet=Случайно телепортирует существ
+tooltip.info.primal.redstone_sand=Падает как песок, стоит как камень
+tooltip.info.primal.ladder_placement=Автоматическое размещение вверх или вниз
+tooltip.info.primal.thatch_support=Плита обеспечивают дополнительную поддержку
+tooltip.info.primal.slats_support=Обеспечит дополнительную поддержку соломы
+tooltip.info.primal.worktable_slab=Присоединяется к хранилищам и сундукам
+tooltip.info.primal.storage_crate=Присоединяется к рабочей плите
+tooltip.info.primal.storage_crate_inventory=Сохраняет инвентарь
+tooltip.info.primal.charcoal_output=Производит древесный уголь
+tooltip.info.primal.charcoal_crafting=Хранится в грязи или аналогичном блоке
+tooltip.info.primal.charcoal_crafting_nether=Хранится в аду
+tooltip.info.primal.mud_harvest=Урожай с мокрой почвы
+tooltip.info.primal.satetsu=砂鉄
+tooltip.info.primal.vitrified_lens=Тёмные очки
+tooltip.info.primal.brick_mold_crafting=Пресованная глина или глиняный кирпич
+
+# -- jei -- #
+jei.category.primal.flake=Осколок в мире
+jei.category.primal.gallagher=Галлахер в мире
+jei.category.primal.blade=Рабочее лезвие в мире
+jei.category.primal.axe=Топор в мире
+jei.category.primal.shovel=Лопата в мире
+jei.category.primal.hoe=Мотыга в мире
+jei.category.primal.magma=Жидкая магма
+jei.category.primal.ice=Древний лёд
+jei.category.primal.fish_trap=Рыболов
+jei.category.primal.brick_mold=Слепок кирпича
+jei.category.primal.drying_rack=Сушилка
+jei.category.primal.hibachi=Хибати
+jei.category.primal.smelter=Саррира
+jei.category.primal.cauldron=Котёл
+
+jei.recipe.primal.cauldron_lid=рецепт включает в себя крышку
+jei.recipe.primal.catalyst_unknown=требует неизвестного катализатора
+jei.recipe.primal.catalyst_ingredient=содержит катализатор
+jei.recipe.primal.smeltery_passive=passive recipe
+jei.recipe.primal.smeltery_slag=производит шлак
+jei.recipe.primal.variable_output=переменная сумма выпуска
+
+jei.info.primal.ladle=Ladles are used to interact with an active cauldron. Hitting the side of a cauldron will display information about the current heat and contents. Hitting the top will safely fish items held within or remove lids from hot cauldrons.
+jei.info.primal.workblade=Work Blades can be used to strip hides, remove bark, and other survival tasks. Use as an in-world crafting option to create ladders and other items. Shift Right-Click to use in-world crafting.
+jei.info.primal.gallagher=
+jei.info.primal.hatchet=
+jei.info.primal.stick_dirt=Dirt Sticks are used to see the status of PrimalCore blocks.  Right click the block with the Dirt Stick to see the current status of the block.
+
+jei.info.primal.fish_trap=Place under water, at least one block deep, and load the trap with chum. The trap will slowly collect fish and other items until it is full or runs out of bait.
+jei.info.primal.drying_rack=Place items to be dried on the top of the slats. Keep out of the rain and near a heat or light source for the best accord.
+jei.info.primal.hibachi=An open-air way to cook food and other items. Place items to be cooked on the top of the grill. Add fuel to the bottom shelf and light.
+jei.info.primal.smelter=Sariras is a primative bloomery style furnace, able to smelt ores and similar items. Unlike a traditional furnace the fuel requirements are part of the recipe. Add items by dropping them into the top, then cover with a lid before attempting to light the front with a fire soruce.
+jei.info.primal.cauldron=The Cauldron can cook and combine items. Add fluids to the Cauldron via a bucket or water bottle. Items need to be dropped into the top of the Cauldron. Use a Ladle to see the current status. When covered with a lid the cauldron will retain fluid/items when picked up. Sneak right-click the top of a coverd cauldron to remove the lid.
+jei.info.primal.crate=Storage Crates will retain their inventory when picked up. Additionally they have enhanced blast resistance when compared with vanilla chests.
+jei.info.primal.barrel=Barrels are able to hold fluids and collect rain. When covered with a lid the barrel will retain fluid/items when picked up. Sneak right-click the top of a covered barrel to remove the lid.
+
+jei.info.primal.rocks=Rocks either drop from various stone blocks, or can be deliberately harvested with a gallagher
+jei.info.primal.flakes=Crafted by hitting a base item against a sufficiently hard surface, the resulting flakes are useful for crafting basic tools. Bewarded flaking is not always successful, try, try again.
+jei.info.primal.pelts=Pelts will drop from a range of wild life. Each type can be processed down to produce leather.
+jei.info.primal.hides=Hides are processed pelts, reading to be dried or tanned in the process to produce leather.
+jei.info.primal.ash=Ash is a by product of many blocks that involve fire or cooking. Log Stacks will also burn to ash when exposed to air. There are certain types of ash that are valued for exotic properties.
+jei.info.primal.log_stripped=Sneak-Click a Log with a Work Blade to strip the log, producing bark and leaving behind a stripped log.
+jei.info.primal.log_split=Right-Click Striped Logs with an axe or hatchet to split the logs.
+jei.info.primal.wet_block=Place in the world with at least one side exposed to the air, near a heat or light source and leave it to dry.
+jei.info.primal.log_stack=Burry the log stack in dirt and light on fire. If properly covered the stack will produce charcoal of varying quality. Stacks can be grouped together.
+jei.info.primal.charcoal=Charcoal grades are produced by burning log stacks burried in the ground. The stacks can be grouped together but must be complately covered.
+
+jei.info.primal.goggles=These goggles have pitch black lenses rendering the wearing blind to all but the brightest light. They seem only useful as some form of protective wear.
+jei.info.primal.ignis=This ghostly flame burns of its own accord. The light is said to draw many a foolish traveler from safe path, never to return.
+jei.info.primal.aconite=Like the rest of the plant, the Aconite root is especially known for it's potent toxin.
+jei.info.primal.cineris=Beware planting this strange looking seed.
+jei.info.primal.soulglass=Soul Glass holds a dark tint that blocks the majority of light. It's cold surface feels almost like ice.
+jei.info.primal.pitfall=Pitfall spikes make for lethal fall traps. In addition placing various blocks beneath the spikes provides various modifiers, ie: wool, gold, magma
+jei.info.primal.ancient_ice=Clouded and dark from acclimated dust and grime, this ice has survived centuries frozen beneath the ground.
+jei.info.primal.ovis_atre_wool=Ovis Atre wool can be used in the crafting of armor, impact protection, and removing unwanted fluids from a cauldron or barrel.
+jei.info.primal.satetsu=
+jei.info.primal.nethergrowth=
+
+jei.info.primal.fiber=Fibers are primarily used to craft various forms of cordage.
+jei.info.primal.plant_fiber=Plant Fibers can be crafted or drop from numerous plant sources, such as tall grass.
+jei.info.primal.cineris_fiber=Cineris Fibers drop from the Cineris Cilium, found predominately in the Nether.
+jei.info.primal.Inaris_fiber=Inaris Fibers drop from the Equisetum Inaris, found predominately in the End.
+
+jei.info.primal.debug_dirt_stick=This debug item will display the status of items in Drying Racks and Hibachi, and is able to restart those and similar blocks in the event updates have been stalled.
+
+# -- commands -- #
+commands.primal.attack.usage=/actual <cmd> <player>
+commands.primal.actual.success='%s'
+
+# -- configuration -- #
+primal.config.title=PrimalCore Config
+
+primal.compatibility=Совместимость
+primal.compatibility.tooltip=Совместимые особенности
+primal.compatibility.mod_friendly_workblade.tooltip=Make the work blades compatible with similar blades from mods such as Better Beginnings, and BWM.
+
+primal.features=Особенное
+primal.features.tooltip=
+
+primal.fluids=Жидкости
+primal.fluids.tooltip=
+
+primal.flammability=Огнеопасное
+primal.flammability.tooltip=
+
+primal.survival=Выживание
+primal.survival.tooltip=Множество опций, которые меняют ванильный геймплей
+
+primal.lighting=Освещение
+primal.lighting.tooltip=
+
+primal.monsters=Монстры
+primal.monsters.tooltip=
+primal.monsters.hard_mode_endermen.tooltip=Enable Hard Endermen
+primal.monsters.stats_steppe_wolf=Steppe Wolf Stats: see tooltip
+primal.monsters.stats_nether_sheep=Nether Sheep Stats: see tooltip
+primal.monsters.stats_nether_creeper=Nether Creeper Stats: see tooltip
+primal.monsters.stats_black_bear=Black Bear Stats: see tooltip
+primal.monsters.stats_brown_bear=Brown Bear Stats: see tooltip
+primal.monsters.stats_hammerhead=Hammerhead Stats: see tooltip
+primal.monsters.stats_alligator=Alligator Stats: see tooltip
+
+primal.worldgen=Генерация мира
+primal.worldgen.tooltip=
+
+primal.development=Разработка
+primal.development.tooltip=Настройки для разработчиков модов
+
+primal.plants=Растения
+primal.plants.tooltip=
+
+primal.foods=Еда
+primal.foods.tooltip=
+
+primal.machines=Машины
+primal.machines.tooltip=
+
+primal.features.charcoal_pit_output=Charcoal Pit Output
+primal.features.charcoal_pit_output.tooltip=Min-Max range of output from burning log stacks into charcoal
+primal.features.charcoal_pit_output.min.tooltip=Minimum drop amount
+primal.features.charcoal_pit_output.max.tooltip=Maximum drop amount
+
+# -- End -- #
