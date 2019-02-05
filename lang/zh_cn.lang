@@ -519,6 +519,7 @@ tile.primal.ore_magnetite_stone.name=磁铁矿石
 tile.primal.ore_magnetite_nether.name=地狱磁铁矿石
 tile.primal.ore_magnetite_ferro.name=铁方解石磁铁矿石
 tile.primal.ore_zinc_carbonate.name=Carbonate Zinc Ore
+tile.primal.ore_zinc_nether.name=Netherrack Zinc Ore
 tile.primal.ore_salt_rock.name=岩盐矿石
 tile.primal.ore_salt_fire.name=火盐矿石
 tile.primal.ore_salt_void.name=虚空盐矿石
@@ -1204,6 +1205,7 @@ tile.primal.hibachi_adobe.name=Adobe Hibachi
 tile.primal.hibachi_terra.name=赤陶火盆
 tile.primal.hibachi_cinis.name=灰烬陶火盆
 
+tile.primal.drying_rack.name=晾晒架
 tile.primal.drying_rack_acacia.name=金合欢木晾晒架
 tile.primal.drying_rack_dark_oak.name=深色橡木晾晒架
 tile.primal.drying_rack_birch.name=白桦木晾晒架
@@ -1215,6 +1217,7 @@ tile.primal.drying_rack_oak.name=橡木晾晒架
 tile.primal.drying_rack_spruce.name=云杉木晾晒架
 tile.primal.drying_rack_lacquer.name=清漆木晾晒架
 
+tile.primal.fish_trap.name=鱼栅
 tile.primal.fish_trap_acacia.name=金合欢木鱼栅
 tile.primal.fish_trap_dark_oak.name=深色橡木鱼栅
 tile.primal.fish_trap_birch.name=白桦木鱼栅
@@ -1226,6 +1229,7 @@ tile.primal.fish_trap_spruce.name=云杉木鱼栅
 tile.primal.fish_trap_lacquer.name=清漆木鱼栅
 tile.primal.fish_trap_yew.name=紫杉木鱼栅
 
+tile.primal.barrel.name=桶
 tile.primal.barrel_acacia.name=金合欢木桶
 tile.primal.barrel_dark_oak.name=深色橡木桶
 tile.primal.barrel_birch.name=白桦木桶
@@ -1250,6 +1254,7 @@ item.primal.barrel_yew_lid.name=紫杉木桶盖
 
 item.primal.barrel_trap.name=陷阱桶装填器
 
+tile.primal.storage_crate.name=板条箱
 tile.primal.storage_crate_acacia.name=金合欢木板条箱
 tile.primal.storage_crate_dark_oak.name=深色橡木板条箱
 tile.primal.storage_crate_birch.name=白桦木板条箱
@@ -1261,6 +1266,7 @@ tile.primal.storage_crate_ironwood.name=铁木板条箱
 tile.primal.storage_crate_corypha.name=巨管虫板条箱
 tile.primal.storage_crate_lacquer.name=清漆木板条箱
 
+tile.primal.dust_bin.name=灰烬桶
 tile.primal.dust_bin_acacia.name=金合欢木灰烬桶
 tile.primal.dust_bin_dark_oak.name=深色橡木灰烬桶
 tile.primal.dust_bin_birch.name=白桦木灰烬桶
@@ -1409,6 +1415,9 @@ tile.primal.stairs_path.name=草径楼梯
 tile.primal.stairs_nether_earth.name=下界泥土楼梯
 tile.primal.stairs_nether_path.name=下界草径楼梯
 tile.primal.stairs_night_stone.name=Hornblende Idolum Stairs
+tile.primal.stairs_nether_stone.name=Nether Stone Stairs
+tile.primal.stairs_scoria.name=Scoria Stairs
+tile.primal.stairs_sarsen.name=Sarsen Stairs
 
 # -- pressure plates
 tile.primal.pressplate_dirt.name=泥土压力板

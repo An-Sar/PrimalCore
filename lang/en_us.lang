@@ -519,6 +519,7 @@ tile.primal.ore_magnetite_stone.name=Stone Magnetite Ore
 tile.primal.ore_magnetite_nether.name=Netherrack Magnetite Ore
 tile.primal.ore_magnetite_ferro.name=Ferrocarbonate Magnetite Ore
 tile.primal.ore_zinc_carbonate.name=Carbonate Zinc Ore
+tile.primal.ore_zinc_nether.name=Netherrack Zinc Ore
 tile.primal.ore_salt_rock.name=Halite Salt Ore
 tile.primal.ore_salt_fire.name=Fire Salt Ore
 tile.primal.ore_salt_void.name=Void Salt Ore
@@ -1204,6 +1205,7 @@ tile.primal.hibachi_adobe.name=Adobe Hibachi
 tile.primal.hibachi_terra.name=Terracotta Hibachi
 tile.primal.hibachi_cinis.name=Ciniscotta Hibachi
 
+tile.primal.drying_rack.name=Drying Rack
 tile.primal.drying_rack_acacia.name=Acacia Drying Rack
 tile.primal.drying_rack_dark_oak.name=Dark Oak Drying Rack
 tile.primal.drying_rack_birch.name=Birch Drying Rack
@@ -1215,6 +1217,7 @@ tile.primal.drying_rack_oak.name=Oak Drying Rack
 tile.primal.drying_rack_spruce.name=Spruce Drying Rack
 tile.primal.drying_rack_lacquer.name=Lacquer Drying Rack
 
+tile.primal.fish_trap.name=Fish Trap
 tile.primal.fish_trap_acacia.name=Acacia Fish Trap
 tile.primal.fish_trap_dark_oak.name=Dark Oak Fish Trap
 tile.primal.fish_trap_birch.name=Birch Fish Trap
@@ -1226,6 +1229,7 @@ tile.primal.fish_trap_spruce.name=Spruce Fish Trap
 tile.primal.fish_trap_lacquer.name=Lacquer Fish Trap
 tile.primal.fish_trap_yew.name=Yew Fish Trap
 
+tile.primal.barrel.name=Barrel
 tile.primal.barrel_acacia.name=Acacia Barrel
 tile.primal.barrel_dark_oak.name=Dark Oak Barrel
 tile.primal.barrel_birch.name=Birch Barrel
@@ -1250,6 +1254,7 @@ item.primal.barrel_yew_lid.name=Yew Barrel Lid
 
 item.primal.barrel_trap.name=Barrel Trap Charge
 
+tile.primal.storage_crate.name=Storage Crate
 tile.primal.storage_crate_acacia.name=Acacia Storage Crate
 tile.primal.storage_crate_dark_oak.name=Dark Oak Storage Crate
 tile.primal.storage_crate_birch.name=Birch Storage Crate
@@ -1261,6 +1266,7 @@ tile.primal.storage_crate_ironwood.name=Ironwood Storage Crate
 tile.primal.storage_crate_corypha.name=Corphyry Storage Crate
 tile.primal.storage_crate_lacquer.name=Lacquer Storage Crate
 
+tile.primal.dust_bin.name=Ash Bin
 tile.primal.dust_bin_acacia.name=Acacia Ash Bin
 tile.primal.dust_bin_dark_oak.name=Dark Oak Ash Bin
 tile.primal.dust_bin_birch.name=Birch Ash Bin
@@ -1409,6 +1415,9 @@ tile.primal.stairs_path.name=Grass Path Stairs
 tile.primal.stairs_nether_earth.name=Nether Dirt Stairs
 tile.primal.stairs_nether_path.name=Nether Dirt Path Stairs
 tile.primal.stairs_night_stone.name=Hornblende Idolum Stairs
+tile.primal.stairs_nether_stone.name=Nether Stone Stairs
+tile.primal.stairs_scoria.name=Scoria Stairs
+tile.primal.stairs_sarsen.name=Sarsen Stairs
 
 # -- pressure plates
 tile.primal.pressplate_dirt.name=Dirt Pressure Plate
@@ -1550,8 +1559,7 @@ item.primal.valus_seed.name=Valus Seed
 item.primal.valus_melon.name=Valus Melon
 item.primal.valus_bread.name=Valus Bread
 tile.primal.sinuous_weed.name=Sinuous Weed
-item.primal.sinuous_fiber.name=Sinuous Fiber
-item.primal.sinuous_cordage.name=Sinuous Cordage
+item.primal.sinuous_cordage.name=Sinuous Tendril
 item.primal.sinuous_resin.name=Sinuous Resin
 item.primal.sinuous_spore.name=Sinuous Spore
 item.primal.mold_spore.name=Mold Spore

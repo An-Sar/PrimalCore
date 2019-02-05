@@ -520,6 +520,7 @@ tile.primal.ore_magnetite_stone.name=Каменная руда магнетит�
 tile.primal.ore_magnetite_nether.name=Адская магнетитовая руда
 tile.primal.ore_magnetite_ferro.name=Карбонатная руда железа
 tile.primal.ore_zinc_carbonate.name=Карбонатная цинковая руда
+tile.primal.ore_zinc_nether.name=Netherrack Zinc Ore
 tile.primal.ore_salt_rock.name=Руда каменной соли
 tile.primal.ore_salt_fire.name=Руда огненной соли
 tile.primal.ore_salt_void.name=Руда пустотной соли
@@ -1205,6 +1206,7 @@ tile.primal.hibachi_adobe.name=Самановый грить хибати
 tile.primal.hibachi_terra.name=Терракотовый гриль хибати
 tile.primal.hibachi_cinis.name=Цинискотовый гриль хибати
 
+tile.primal.drying_rack.name=Сушилка
 tile.primal.drying_rack_acacia.name=Сушилка из акации
 tile.primal.drying_rack_dark_oak.name=Сушилка из тёмной девесины
 tile.primal.drying_rack_birch.name=Сушилка из берёзы
@@ -1216,6 +1218,7 @@ tile.primal.drying_rack_oak.name=Сушилка из дуба
 tile.primal.drying_rack_spruce.name=Сушилка из ели
 tile.primal.drying_rack_lacquer.name=Лакированная сушилка
 
+tile.primal.fish_trap.name=Рыбная ловушкa
 tile.primal.fish_trap_acacia.name=Рыбная ловушка из акации
 tile.primal.fish_trap_dark_oak.name=Рыбная ловушка из тёмной девесины
 tile.primal.fish_trap_birch.name=Рыбная ловушка из берёзы
@@ -1227,6 +1230,7 @@ tile.primal.fish_trap_spruce.name=Рыбная ловушка из ели
 tile.primal.fish_trap_lacquer.name=Лакированная рыбная ловушка
 tile.primal.fish_trap_yew.name=Рыбная ловушка из тиса
 
+tile.primal.barrel.name=Бочка
 tile.primal.barrel_acacia.name=Бочка из акации
 tile.primal.barrel_dark_oak.name=Бочка из тёмной древесины
 tile.primal.barrel_birch.name=Бочка из берёзы
@@ -1251,6 +1255,7 @@ item.primal.barrel_yew_lid.name=Крышка бочки из тиса
 
 item.primal.barrel_trap.name=Бочка с ловушкой
 
+tile.primal.storage_crate.name=Сундук
 tile.primal.storage_crate_acacia.name=Сундук из акации
 tile.primal.storage_crate_dark_oak.name=Сундук из тёмной древесины
 tile.primal.storage_crate_birch.name=Сундук из берёзы
@@ -1262,6 +1267,7 @@ tile.primal.storage_crate_ironwood.name=Сундук из железной др�
 tile.primal.storage_crate_corypha.name=Сундук из карифа
 tile.primal.storage_crate_lacquer.name=Лакированный сундук
 
+tile.primal.dust_bin.name=Пепельный контейнер
 tile.primal.dust_bin_acacia.name=Пепельный контейнер из акации
 tile.primal.dust_bin_dark_oak.name=Пепельный контейнер тёмной древесины
 tile.primal.dust_bin_birch.name=Пепельный контейнер берёзы
@@ -1410,6 +1416,9 @@ tile.primal.stairs_path.name=Ступеньки с тропинкой
 tile.primal.stairs_nether_earth.name=Ступеньки из адской земли
 tile.primal.stairs_nether_path.name=Ступеньки из адской земли с тропинкой
 tile.primal.stairs_night_stone.name=Ступеньки из ночного камня
+tile.primal.stairs_nether_stone.name=Nether Stone Stairs
+tile.primal.stairs_scoria.name=Scoria Stairs
+tile.primal.stairs_sarsen.name=Sarsen Stairs
 
 # -- pressure plates
 tile.primal.pressplate_dirt.name=Dirt Pressure Plate
