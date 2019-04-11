@@ -1194,7 +1194,7 @@ tile.primal.quern.name=Quern
 tile.primal.quern_sarsen.name=Sarsen Quern
 tile.primal.quern_scoria.name=Scoria Quern
 tile.primal.quern_purpurite.name=Purpurite Quern
-item.primal.quern_buhrstone_carbonate.name=Carbonate Buhrstone
+item.primal.quern_buhrstone_carbonate.name=Buhrstone
 item.primal.quern_buhrstone_ferro.name=Ferrocalcite Buhrstone
 item.primal.quern_buhrstone_night.name=Hornblende Idolum Buhrstone
 item.primal.quern_buhrstone_quartz.name=Quartz Buhrstone
@@ -1740,6 +1740,14 @@ chat.message.debug.primal.schedule_update_restart=Restarting Block Updates
 chat.message.debug.primal.schedule_update_failed=Block is not able to Update
 chat.message.debug.primal.schedule_update_in_progress=Block is already Updating
 chat.message.debug.primal.schedule_not_updatable=Block is not updatable
+
+chat.message.primal.cauldron_heat_caption=Cauldron is
+chat.message.primal.cauldron_heat_cold=Cold
+chat.message.primal.cauldron_heat_warm=Warm
+chat.message.primal.cauldron_heat_hot=Hot
+chat.message.primal.cauldron_heat_too_hot=Too Hot
+chat.message.primal.cauldron_heat_super_hot=Super Hot
+chat.message.primal.cauldron_heat_unknown=Unknown
 
 # -- debug -- #
 tooltip.info.primal.debug_item=This is a debug tool
