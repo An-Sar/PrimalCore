@@ -1918,7 +1918,7 @@ jei.info.primal.debug_dirt_stick=This debug item will display the status of item
 
 # -- commands -- #
 commands.primal.recipes.usage=/primal recipes <catagory>
-commands.primal.recipes.invalid_registry='%s' invalid recipe catacory
+commands.primal.recipes.invalid_registry='%s' invalid recipe category
 commands.primal.recipes.success='%s'
 
 # -- configuration -- #
