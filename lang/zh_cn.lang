@@ -1670,6 +1670,7 @@ subtitle.primal.block_quern_grind=Stone Grinding
 subtitle.primal.block_quern_jammed=Stone Jammed
 subtitle.primal.block_quern_break=Stone Breaking
 subtitle.primal.block_quern_take=Taking Ground Item
+subtitle.primal.block_quern_recipe_complete=Grinding Item
 subtitle.primal.block_spikes_fall=Falling on spikes
 subtitle.primal.block_ice_freeze=Ice Freezing
 subtitle.primal.block_ice_break=Ice Breaking
